@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG1517-42-4 SYSTEM "aow.img.RG1517-42-4.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.iv.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"I could, I can and I <hi rend="italic">do</hi>!: Daily Life in a Great Plains Military Post</title>
+<title level="m" type="sub">Conclusion</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.iv.0006</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-05</date>
+<respStmt>
+<name>Laura Weakly / Adam Kiser</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Conclusion</head>
+<div1>
+
+<p>
+Between 1866 and 1900 daily life changed a great deal on the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  The <placeName rend="Region" reg="Great Plains">Plains</placeName> wars ended by 1880 and many of the posts were closed if they no longer served a purpose.  For the women, this meant far less danger for their husbands and fewer summer campaigns.</p>
+
+<p> 
+In the household, officers were discouraged from using strikers, though soldiers sometimes worked for officers earning a wage that supplemented their low military pay.  Officers' wives found more reliable servants from the nearby population.  The towns that inevitably grew around posts featured schools, churches, and merchants.  Most posts were served by railroad or stage coach.  Mail arrived regularly.  The quality of housing at permanent posts greatly improved.</p>
+
+<figure entity="aow.img.RG1517-42-4">
+<figDesc>Figure 12.  <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> Officers' Quarters, 1891.  <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName>, a large post with a long history, continued to improve officers' quarters, though they were usually still constructed as a duplex. Courtesy Nebraska State Historical Society Photograph Collection RG1517.PH:42-4.</figDesc>
+</figure>
+
+<p>
+As military life changed, officers' wives who had arrived on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> in the 1860s and 1870s noted a new quality to the social life at these now well-established posts.  When <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> arrived at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in 1891, she was surprised to have visitors leave calling cards &#8212; a formality unknown at frontier posts.  And she was delighted to have, for the first time, a house with indoor plumbing.  (Biddle, p. 224) Though still happy with military life, she was a bit wistful for the earlier years.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Gibson</persName> also reminisced about life on the Plains in the early years, stating:
+<quote>
+How little it took in those days to make us happy!  How little &#8212; and yet, when I look around today and note the luxury of the modern army post, I wonder if we old army pioneers hadn't something very dear that the service will never know again. (Fougera, p. 234)</quote>
+</p>
+
+
+<!-- 
+<figure entity="">
+<figDesc>Figure 12.  <persName reg="Hamilton, Kate">Kate Hamilton</persName> in her quarters at <placeName rend="Military Post" reg="Fort Robinson">Fort Robinson</placeName> in 1897.  Courtesy Nebraska Historical Society Photograph Collection RG 4488.PH.0.10.</figDesc>
+</figure> 
+-->
+<p>
+By 1900, the young Civil War brides who learned to keep house in the rough cabins of frontier posts were grandmothers.  Some, such as <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Lizzie Burt</persName>, saw their sons enter the service and bring their brides to the <placeName rend="Region" reg="Great Plains">Plains</placeName>.   The new generation of Army wives would not have to learn how to carry on life in a field tent, to use Army blankets for carpets, or to send their children to distant cities for education.  In their comfortable homes, daily life at a <placeName rend="Region" reg="Great Plains">Great Plains</placeName> post had come to resemble daily life in any small city in the U. S.</p>
+
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.iv.0005" type="prev"/>
+</item>
+
+</list>
+</div1>
+
+
+</body>
+</text>
+</TEI>

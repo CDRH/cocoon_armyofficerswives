@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.0005 SYSTEM "aow.img.0005.jpg" NDATA jpeg>
+<!ENTITY aow.img.0012 SYSTEM "aow.img.0012.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG4488-24 SYSTEM "aow.img.RG4488-24.jpg" NDATA jpeg>
+<!ENTITY x SYSTEM "x.jpg" NDATA jpeg>
+<!ENTITY y SYSTEM "y.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.v.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"Much Depends On a Wife": Personal Relationships and Family Life</title>
+<title level="m" type="sub">Raising Children on the Great Plains</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.v.0003</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Raising Children on the Great Plains</head>
+<div1>
+ 
+
+<figure entity="aow.img.0005">
+<figDesc>Figure 4.  Stereopticon photograph of <persName reg="Hill, George">Captain George Hill</persName> with his toddler son on a sunny day at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>, 1868.  Courtesy State Historical Society of North Dakota A1574.</figDesc>
+</figure>
+
+
+<p>The thought of giving birth and raising children in the midst of warfare in a strange country is somewhat unsettling.  Most women would prefer not to risk their children's lives and health if another lifestyle offered more protection for the children.  However, women all over the world have raised their children in war because families don't stop for the madness of armed conflict and these "pioneer Army women" were no different.</p>
+
+<p>Some of the women who married officers had grown to maturity during the Civil War.  <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny Dunbar Corbusier</persName>, for instance, spent the years of the Civil War in <placeName rend="City\Town" reg="Amite">Amite</placeName>, <placeName rend="State\Territory" reg="Louisiana">Louisiana</placeName> and <placeName rend="City\Town" reg="Mobile">Mobile</placeName>, <placeName rend="State\Territory" reg="Alabama">Alabama</placeName> seeing the results of war at first hand in her mother's hospital.  Perhaps the experience of the Civil War better prepared these women to raise their own children in the context of war, and perhaps their commitment to the Army and its mission assured them that the risks were worthwhile.</p>
+
+<p>Not all officers' wives had children.  Of the women whose memoirs include significant time spent at <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts, <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon Custer</persName> did not have children.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName>, <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond Carrington</persName>, and <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> had only one child.  Certainly <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Roe</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Custer</persName> were able to dote on their husbands with undivided attention and enjoyed outdoor life without concern for young children.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName>'s husband asked her to consider having another child, and she agreed, though at age forty-five, she was at the end of her child-bearing years and did not conceive again.  (Steinbach, p. 149)</p>
+
+<p><persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>, who gave birth to seven, notified her husband of her intention to avoid further pregnancies.  They had relied unsuccessfully on coitus interruptus to prevent pregnancy, a practice <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> disliked and which did not have the intended results.  She returned home to <placeName rend="City\Town" reg="Chicago, Illinois">Chicago</placeName> for a visit and delayed her return to <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName> in order to avoid another pregnancy "which will inevitably occur, if the good Lord permits us to meet again."  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> believed that every child should be welcomed into a loving family with joy, but she was finding it difficult to feel joyful when thinking about adding another child to her family.  She confided to <persName reg="Grierson, Benjamin">Ben</persName> that after the birth of her fifth child, she "would rather die, than have another child," though she quietly accepted the subsequent pregnancies. (Leckie, p. 62)</p>
+ 
+<figure entity="aow.img.0012">
+<figDesc>Figure 5.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> with two of her seven children.  The Griersons raised their children at <placeName rend="State\Territory" reg="Texas">Texas</placeName> posts, but sent them to <placeName rend="State\Territory" reg="Illinois">Illinois</placeName> for high school.  Courtesy National Park Service: Fort Davis National Historic Site, Texas.</figDesc>
+</figure>
+  
+
+<p>Officers' wives clearly chose to exercise control over their fertility, though some were more successful in the effort than others.  It is important to recognize that family planning also included those who wished for children, such as <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> and <persName reg="Custer, George Armstrong">Armstrong Custer</persName>, and were not able to conceive.  Officers' wives who remained childless lived what appeared to be a lifelong girlhood lived in the care of the large Army family.  Without responsibility for children, they were able to remain with their husbands even through difficult assignments and temporary moves.  Army families with children resulted in a complex of worries, pleasures, and family decisions that demanded emotional strength on the part of the parents that sets them apart from their non-military counterparts.</p>
+
+<p><persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> had the advantage of having her children born in well-established posts.  Other women gave birth to their children in temporary quarters and tents, or while the troops were in transport.  In July 1867, <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> arrived at <placeName rend="Military Post" reg="Fort Sanders" key="sanders">Fort Sanders</placeName> in <placeName rend="State\Territory" reg="Wyoming">Wyoming</placeName> after a twenty-three day journey of 350 miles.  About one month after arriving, she gave birth to her second child, a daughter, with only her younger sister and a twelve year old servant girl in attendance.  Their temporary quarters had been established in the blockhouse where two cannons were pushed aside to allow the young family the luxury of four walls during their stay.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Mrs. Burt</persName>'s delicate condition demanded the best quarters available, and the blockhouse, with tent canvas stretched for a roof and windows stuck quickly into the openings for the cannon, was all that was available. (Burt, pp. 123&#8211;125).  Her third child was born in the relative comfort of <placeName rend="Military Post" reg="Fort Omaha" key="omaha">Fort Omaha</placeName> in eastern <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName>, but she had to be left behind when her husband and his troops left for <placeName rend="Military Post" reg="Fort Laramie" key="laramie">Fort Laramie</placeName> ten days later.  She spent a month recovering from the birth then set out with her infant son by train to <placeName rend="City\Town" reg="Cheyenne, Wyoming">Cheyenne</placeName>.  The trip from the railroad station to <placeName rend="Military Post" reg="Fort Laramie" key="laramie">Fort Laramie</placeName> took three days in an ambulance with only a tent for shelter at night.  So accustomed was she to military travel on the <placeName rend="Region" reg="Great Plains">Plains</placeName>, that the "journey proved an easy one." (Burt, p. 210)</p>
+
+<p><persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName> was pregnant with her only child when her husband was ordered to leave <placeName rend="Military Post" reg="Fort Harker" key="harker">Fort Harker</placeName> in 1867 for a new assignment in <placeName rend="State\Territory" reg="New Mexico">New Mexico</placeName>.  Though they were able to stop and rest a few times during the long march, it was necessary to locate a suitable place for <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice</persName> to give birth.  They entered the town of <placeName rend="City\Town" reg="Trinidad">Trinidad</placeName>, <placeName rend="State\Territory" reg="Colorado">Colorado</placeName> where they found <persName reg="Kinnear, Mrs. John D.">Mrs. John D. Kinnear</persName>, "at that time the only American woman in the town," who attended Allie in childbirth.  She was also cared for by <persName reg="Baca, Senora Felipe">Senora Felipe Baca</persName>, the wife of an important rancher in whose home she gave birth.  Though Allie valued the help of the American woman over that of the Spanish-speaking woman, <persName reg="Kinnear, Mrs. John D.">Mrs. Kinnear</persName> was actually the common-law wife of a dancehall proprietor, whose status as an English-speaking white American superceded in Allies' way of thinking that of the Mexican-American woman of higher economic and social standing. (Baldwin, p. 59)  Frank and Allie Baldwin remained in <placeName rend="City\Town" reg="Trinidad">Trinidad</placeName> for two months before she was ready to complete the journey to the <placeName rend="State\Territory" reg="New Mexico">New Mexico</placeName> post.</p>
+
+<p><persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond (Carrington)</persName> was about five months into her first pregnancy when her husband was killed in the Fetterman massacre at <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName> on December 21, 1866.  <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances</persName> was welcomed into the home of the post's commander, <persName reg="Carrington, Henry">Colonel Henry Carrington</persName>, and accepted as "a sister" by the colonel's wife <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret</persName>, which was sufficient to ensure her a home at the post in spite of her husband's death.  A month later, however, the colonel and some of his command were ordered to leave <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>, so <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond</persName> accompanied them to <placeName rend="Military Post" reg="Fort Casper" key="casper">Fort Casper</placeName>.  They made a journey of 130 miles in deep snow and temperatures cold enough to freeze the mercury in the thermometer.  Soldiers lost fingers and limbs to the extreme cold, but all were solicitous of <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Mrs. Grummond</persName>'s comfort.  When the wagons had to be "double-teamed" to pull up a steep bluff, <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances</persName> "rolled over on my bed, clung for dear life to the sides of the wagon, with eyes shut and jaws clamped . . . it all depended upon those mules."  She concluded that "[o]f all rides I ever had taken in army life or out of it, this one in an army wagon without springs, with mules on a gallop over such a road, or no road, exceeded all in utter misery."  Soon, she was on a train headed home.  In April, a month after arriving at her brother's home, she gave birth to a son. (Frances Carrington, pp. 156, 184, 187, 188)</p>
+
+<p>Most Army wives gave birth with the assistance of a friend, relative, or perhaps a laundress skilled at midwifery.  Few trusted the post surgeon to have adequate knowledge of childbirth, unless, as in the case of <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName>, she was married to him.  At <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>, a laundress known as <persName reg="Nash, Mrs.">Nash, or Mrs. Nash</persName>, who was married to a sergeant of the 7th Cavalry, was in demand among officers' wives for her domestic skills.  She was dependable as a nurse and "few births occurred without her expert help." (Fougera, p. 191)  When <persName reg="Nash, Mrs.">Nash</persName> died, the women of the post gathered to prepare her body for burial.  It was then that they discovered that <persName reg="Nash, Mrs.">Nash</persName> was actually a man who had lived for years as a woman.  (Custer, <hi rend="italic">Boots and Saddles</hi>, pp. 148&#8211;152)</p>
+ 
+<figure entity="aow.img.RG4488-24">
+<figDesc>Figure 6.  <persName reg="Hamilton, Kate Chaffee">Kate Chaffee Hamilton</persName> appears to be expecting in this photograph taken in her home at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in 1897.  Courtesy Nebraska Historical Society Photograph Collection RG 4488.PH.0.10</figDesc>
+</figure>
+
+
+<p>Historian Darlis Miller asserts that military families experienced high infant mortality rates, but reliable statistics are not available for Army families. (in Boyd, p. xi) With sufficient food supply, medical care, and a decent (if not pure) water supply, military infants probably fared better than the children of settlers in many <placeName rend="Region" reg="Great Plains">Great Plains</placeName> agricultural communities.  Families, however, did suffer the death of children.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>'s seventh child, <persName reg="Grierson, Mary Louisa">Mary Louisa</persName>, was born in the summer of 1871.  She suffered from fever during her the four months of her short life, leaving <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> exhausted and depressed after her death. (Leckie, pp. 47, 49, 50)</p>
+
+<p>The death of a child, while always a tragedy for any couple, was often complicated by the circumstances of life in the frontier Army. The infant child of <persName reg="Benteen, Frederick">Captain Frederick</persName> and <persName reg="Benteen, Kate">Kate Benteen</persName> died at <placeName rend="Military Post" reg="Fort Harker" key="harker">Fort Harker</placeName> shortly after the Battle of the Washita in 1868.  Her grief was complicated by being "in very low spirits.  Her own health was miserable &amp; she was constantly anxious about her husband." (Utley, p. 241)   <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName>'s only son was born in the cold of December at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> and died on January 2, 1872.  At first, the commanding officer decided that the infant could not be buried because the ground was frozen. The child's body, in a coffin, was placed in the powder magazine to await burial in the spring.  But <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Slaughter</persName> was inconsolable without a proper burial, so the commanding officer ordered a grave dug in ground thawed by fire.  Soldiers worked in shifts to avoid frostbite and because the "grave had to be dug very deep to prevent the famished wolves from desecrating it."   After the graveside service, on a day so cold that one officer's eyelids were frozen, several barrels of water were poured into the grave to protect it from wolves. (Slaughter, <hi rend="italic">Fortress to Farm</hi>, pp. 53&#8211;54)</p>
+
+<p>Providing children with some form of normal upbringing was difficult in the early days of <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts.  Far from towns, regular schools, and relatives, the children 
+ 
+<figure entity="x">
+<figDesc>Figure 7.  A small girl poses with the officers of <placeName rend="Military Post" reg="Fort Buford" key="buford">Fort Buford</placeName> in western <placeName rend="State\Territory" reg="Dakota Territory">Dakota Territory</placeName> in 1888.  Children were an integral part of military life at <placeName rend="Region" reg="Great Plains">Great Plains</placeName> garrisons.  Courtesy State Historical Society of North Dakota A5350.</figDesc>
+</figure>
+ 
+
+grew up not knowing ordinary community life nor many of their relatives.  However, they lived in the rarefied atmosphere of a large extended family of soldiers, officers, and other children, including African American and American Indian children.  So tightly knit was the social fabric of a frontier fort that <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> expected all officers of a Texas post to pay due attention to her child, whom she called "baby" in her memoir.  Without irony, she wrote that
+<quote> 
+if I noticed any sign of the devotion she was expected to receive from other sources flagging, my displeasure was quickly expressed.  I have since been told that the officers, after reporting for duty to their commander, would say: 
+<quote>
+'Now we must go see baby, and report her condition.' (Boyd, p. 171)</quote></quote></p> 
+
+<p>Though <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Boyd</persName> felt she had to insist upon adoration of her child, other officers and their wives clearly enjoyed having children about the post.  <persName reg="Roe, Fayette">Lt. Faye Roe</persName> remarked to <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances</persName> one evening that he thought the "five chubby little children" of <persName reg="Pierce, Major">Major Pierce</persName> who slept in a row of cots in the family's large hospital tent and who wiggled their little pink toes out of the covers was a "funny sight." (Roe, p. 167)  <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond</persName> enjoyed the visits of children to her <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName> home, especially the young son of <persName reg="Carrington, Henry">Col.</persName> and <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Carrington</persName>, who became her stepson a few years later. (F. Carrington, p. 101)</p>
+
+<p>Pets, including dogs, ponies, chickens, squirrels, and reptiles, were abundant at all posts and the children had pets of their own.  Little <persName reg="Baldwin, Juanita">Juanita Baldwin</persName> had a pony and dogs. (Steinbach, p. 126)  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName>'s toddler, <persName reg="Burt, Andrew Gano">Andrew Gano</persName>, chose a puppy from a litter of white pointers and "carried [it] away in triumph" to become his playmate and eventual hunting dog. (Burt, p. 79).  Officers' wives seemed to welcome pets as an important part of their families and often allowed them to live in crowded post quarters with the family.</p>
+
+    <figure entity="aow.img.RG0235-001">
+<figDesc>Figure 8.  An officer's baby poses with the family dog at <placeName rend="Military Post" reg="Fort Buford" key="buford">Fort Buford</placeName>, ca 1880s.  Courtesy State Historical Society of North Dakota 0235-001.</figDesc>
+</figure>  
+
+
+<p>Most garrison residents doted upon the children, and if not, orders were sometimes issued to create an environment in which children thrived.  <persName reg="Burt, Andrew Gano">Andrew Gano Burt</persName> celebrated his fifth birthday at <placeName rend="Military Post" reg="Fort C. F. Smith" key="smith">Fort C. F. Smith</placeName> in southern <placeName rend="State\Territory" reg="Montana">Montana</placeName>.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> wanted him to have a picnic birthday party on the banks of the scenic, but highly contested, Big Horn River.  Her husband's reply was "'impossible! The Indians might appear at any moment.'" <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth</persName> wheedled and appealed to other officers to support her request. Ultimately receiving permission to organize a picnic, she prepared a luncheon for the invited officers and families and for the soldiers who were to stand guard over the social event.  She was sure that the day was a "great treat to the soldiers" as well as for their young son.  (Burt, pp. 184&#8211;185)</p>
+
+<p>The children at the posts usually had playmates, the number depending on the size of the post.  Rank did not matter among small children, so officers' children played with the children of the enlisted men and laundresses.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Kate Gibson</persName> noted that post children also played with the children of the Arikara scouts who lived near <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>.  (Fougera, p. 212)  But if nearby Indians were thought to be hostile, the children were restricted to the post.  Children at <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> were not allowed to leave the garrison when Southern Cheyennes camped a few miles away.  To insure their safety, the children were tied to the flagstaff by lengthy ropes when they played outdoors. (Biddle, pp. 115&#8211;116)</p>
+
+<p><persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> became concerned about her children growing up near a tough town in <placeName rend="State\Territory" reg="Texas">Texas</placeName>.  When she found the boys playing at a shooting game, one of the boys pretending to be a dead man who had been shot, she decided to take the boys away from the bad influences of frontier towns to live in <placeName rend="State\Territory" reg="New York">New York</placeName> with their grandparents as soon as possible. (Biddle, pp. 65&#8211;66)  A few years later, when <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Biddle</persName> faced the problem of schooling for her boys, she was torn between her obligations as a mother and those she believed were proper for an officer's wife.  In 1878, <persName reg="Biddle, James">Major Biddle</persName> had been assigned to a new post in <placeName rend="State\Territory" reg="Arizona">Arizona</placeName> where there were no schools for the children.  But her sons, at 8 and 11, were of an age "too old to take back into a garrison, and . . . too young to be put at boarding-school. . . ."  She wondered "just where duty lies."  She and <persName reg="Biddle, James">Major Biddle</persName> decided that she should stay in the East with the boys.  She found a good school for them in <placeName rend="State\Territory" reg="Connecticut">Connecticut</placeName>, and after six months separation, prepared to return west to join her husband.  Leaving the boys at school was "the hardest trial I was called on to bear."  It would be six years before she saw her sons again. (Biddle, pp. 139&#8211;142, 212&#8211;213)</p>
+
+<p>Officers' children had little knowledge of eastern cultural ways, so a trip east was full of surprises.  When <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> took her young children home for a family visit in <placeName rend="State\Territory" reg="New York">New York</placeName>, she realized how little they knew of the ordinary sights and events of the states.  The "little frontiersmen" had not seen fruit orchards, vegetable gardens, nor stone grave markers. (Biddle, pp. 135&#8211;136) <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Biddle</persName> and other Army mothers had to prepare their children for a world outside the garrison, but had to leave home and husband to do so.</p>
+
+<p><persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>'s sons needed a proper education, so she sent them to <placeName rend="State\Territory" reg="Illinois">Illinois</placeName> for schooling.  <persName reg="Grierson, Robert">Robert</persName> attended school while boarding with people who lived in the Grierson's former house.  It was not satisfactory, the food was "miserable" and his landlord drank too much.  At the same time, their oldest son, <persName reg="Grierson, Charlie">Charlie</persName>, was attending West Point military academy and struggling with his grades.  Both sons eventually suffered emotional disorders that kept <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> and <persName reg="Grierson, Benjamin">Ben</persName> traveling back and forth from <placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName> and in a constant state of worry. (Leckie, pp. 71&#8211;89, 101&#8211;102)</p>
+
+<p>Governesses helped with the education of very young children if no post school was available.  Many of these young women were relatives of officers' wives who were looking for a husband among the bachelor officers of the post, and if successful, they had to be replaced.  However, mothers who raised their families on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> a decade later often found schools close to a post.</p>
+
+<p>Ordinary children's illnesses such as measles and whooping cough posed a serious threat to frontier families.  However, crowding at frontier posts when troops were brought together for a major campaign increased the threat of more deadly diseases.  Cholera broke out in <placeName rend="State\Territory" reg="Colorado">Colorado</placeName> and <placeName rend="State\Territory" reg="Kansas">Kansas</placeName> in the summer of 1867 as the Army stepped up campaigns on the Southern <placeName rend="Region" reg="Great Plains">Plains</placeName>.  Dozens of soldiers and civilians including children died before the disease lost its virulence a few weeks later.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName>'s friend <persName reg="Chase, Mrs.">Mrs. Chase</persName> and her baby died of the disease at <placeName rend="Military Post" reg="Fort Hays" key="hays">Fort Hays</placeName>.  Four children were orphaned when both their parents died. (Steinbach, p. 32).  Diphtheria struck <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName>'s daughter, <persName reg="Baldwin, Juanita">Juanita</persName>, during an epidemic at <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName>.  She recovered, but two of her young friends did not. (Steinbach, p. 105).</p>
+
+</div1>
+ 
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.v.0002" type="prev"/>
+</item>
+<item>
+<xptr n="aow.v.0004" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

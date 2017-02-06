@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.0012 SYSTEM "aow.img.0012.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.iv.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"I could, I can and I <hi rend="italic">do</hi>!: Daily Life in a Great Plains Military Post</title>
+<title level="m" type="sub">Church and School</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.iv.0005</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-05</date>
+<respStmt>
+<name>Laura Weakly / Adam Kiser</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Church and School</head>
+<div1>
+
+<p>
+The proximity of towns allowed post residents to attend church on a regular basis.  Few frontier Army posts had a chapel or chaplain, and the officers' wives frequently complained about the lack of religious services.  <persName reg="Johnson, Angeline">Angeline Johnson</persName>, at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>, first wrote to her family about her distress over the lack of church services in January 1876.  The absence of a minister and a congregation contributed to her loneliness at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>. The complaints continued periodically over more than a year before a minister arrived in <placeName rend="City/Town" reg="Sidney, Nebraska">Sidney</placeName> to lead service twice on one day.  Her joy is apparent when she wrote:
+
+<quote>
+What do you think! We have been to church this morning for the first time in over two years.  An Episcopal clergyman from <placeName rend="City/Town" reg="Omaha, Nebraska">Omaha</placeName> had service in the school house. I was astonished to see such a good congregation. (February 4, 1877, Buecker, p. 28)</quote></p>
+
+<p>
+<persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> rarely attended church, but when invited to drive into <placeName rend="City/Town" reg="Leavenworth, Kansas">Leavenworth</placeName> for services, she readily accepted.  <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> and <persName reg="Barnitz, Albert">Albert</persName> apparently attended services at several churches in <placeName rend="City/Town" reg="Leavenworth, Kansas">Leavenworth</placeName> regularly after that.  Though probably few residents of <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> made the effort to attend church, Christian holidays were recognized at the post. <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> noted that "all gayeties cease here this month as Lent commences, and persons are expected to be serious for the space of forty days."  (Utley, p. 133&#8211;135)</p>
+
+<p>
+At <placeName rend="Military Post" reg="Fort Shaw" key="shaw">Fort Shaw</placeName> in <placeName rend="State\Territory" reg="Montana">Montana</placeName>, a minister from <placeName rend="City/Town" reg="Helena, Montana">Helena</placeName> arrived weekly to lead worship services.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> who had some musical talent was ordered to conduct the church choir at <placeName rend="Military Post" reg="Fort Shaw" key="shaw">Fort Shaw</placeName>.   Though she was not a soldier and not subject to orders of this kind, her husband <persName reg="Roe, Fayette">Fayette</persName> supervised the post band.  Together with the post CO, he convinced her that it was her duty to lead the choir of enlisted men.  They were accompanied by a six piece orchestra. One sergeant sang soprano, another sergeant transposed the hymns for the orchestra.  The choir met for rehearsal several times a week.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Roe</persName> thought that she hampered the soldiers in the choir and orchestra whom she considered professional musicians so she sent them a "large cake and dozens of eggs [from her flock of chickens] . . . after each service" as a way to encourage their continued participation. (Roe,  p. 338&#8211;341)</p>
+
+<p>
+<persName rend="bio" reg="Carrington, Frances Courtney Grummond ">Frances Grummond (Carrington)</persName> enjoyed services and the presence of a Methodist chaplain at <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>, though it was one of the most remote and primitive posts on the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  Soldiers, officers, families, and servants gathered for Sunday morning services and Sunday evening hymn-singing.  The Commanding Officer occasionally overruled the chaplain in the selection of music, choosing Catholic music, such as "Te Deum Laudamus" to appeal to the German Catholic soldiers in the command.  (Carrington, p. 102) </p>
+
+<p>
+While traveling with a regiment, finding time for religious practice, including resting on Sunday, was often impossible.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName>, on a slow march from <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> to <placeName rend="Military Post" reg="Fort Kearny" key="kearny">Fort Kearny</placeName>, <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> noted that the command stopped on Sundays to rest the livestock, bake bread, launder and mend clothing.  Though she referred to the day as the Sabbath, and clearly the CO observed the Christian tradition of resting on Sunday, <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Burt</persName> did not mention any form of prayer or worship.</p>
+
+<p>
+However, <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Eveline Alexander</persName> thought time for worship a necessary part of her military life.  Marching with the newly formed Third Cavalry, she recorded her disappointment that Sundays would be a rest day only every other week.  "It distresses me," she wrote in her diary, "to travel on the Sabbath and to see the day so little regarded as it is in the army."  (Myres, <hi rend="italic">Cavalry Wife</hi>, p. 40)  For officers' wives,  observing the Sabbath was in part a well-maintained habit of their previous lives in the cities and towns of eastern states, and in part an effort to prevent the loss of civilized behaviors which they considered an important distinction between them and the <placeName rend="Region" reg="Great Plains">Plains</placeName> hunters, freighters, traders, and Indians they encountered.  They took comfort in prayer and Christian music when they could.</p>
+
+<p>
+Few frontier Army posts had schools that met on a regular basis before 1880.  Few posts had schoolhouses and those that hired post teachers found them to be unreliable or occasionally drunk. (Corbusier, p. 159) This presented a serious problem for educated officers' wives who believed that their children had to be educated in order to meet with success in life.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> noted that frontier isolation required that officers' wives "make her children's clothes and teach them, at least, the elementary branches. . . ." (Burt, p. 264)  As the children grew into adolescence, the parents faced a grim decision to take their children to eastern states for education with the mothers remaining there to care for them while living apart from their husbands; to send the children to boarding school or to live with relatives for their education; to try to educate them on the post with irregular schooling and lessons at home.  Schooling at frontier <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts was irregular at best.  At <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>, the Methodist Chaplain, <persName reg="White, David">Reverend David White</persName>, held school for all children at the post. (Carrington, p. 102)  However, the children lacked educational supplies, and all children, no matter age or educational status were schooled together.</p>
+
+<p>
+<persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> and <persName reg="Grierson, Benjamin">Benjamin Grierson</persName>, with seven children, constantly worried about educating them and tried a variety of methods for accomplishing this.  When young <persName reg="Grierson, Robert">Robert</persName> was set to attend school at <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName>, the teacher disappeared before the first day of class.  When a horse was stolen from the post, <persName reg="Grierson, Benjamin">Col. Grierson</persName> assumed that the teacher had taken it and headed for parts unknown.  A month later, the post hired another teacher and constructed a school room for the students. (Leckie, p. 68).   The Griersons hired a tutor for a short while at <placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName>, but school lessons consisted of only one to two hours a day.  When a woman showed up at <placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName> offering to start a school for the post children, <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> dismissed her for her apparent lack of knowledge about what was required to teach and of what might be expected at a military post.
+
+<quote>  
+A woman was here today from <placeName rend="City/Town" reg="San Antonio, Texas">San Antonio</placeName>, who wants to teach music, and "<hi rend="italic">literary</hi>" &#8212; she explained that the last was school.  I think she has come to a very poor place to teach either music or <hi rend="italic">literary</hi> . . . . (Leckie, p. 83)</quote></p>
+
+<p>
+Griersons placed their growing sons in school in <placeName rend="State\Territory" reg="Illinois">Illinois</placeName>, depending on relatives to look after them.  The situation was difficult:  relatives were sometimes unreliable and both boys had emotional disturbances which required <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName>, and sometimes <persName reg="Grierson, Benjamin">Ben</persName>, to make the long trip to <placeName rend="State\Territory" reg="Illinois">Illinois</placeName>, and later <placeName rend="school" reg="West Point Military Academy">West Point Military Academy</placeName>, to look after them.</p>
+
+<figure entity="aow.img.0012">
+<figDesc>Figure 11.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> with two of her sons.  Courtesy Fort Davis National Historic Site, Texas.</figDesc>
+</figure> 
+
+<p>
+Like the Griersons, the Burts sent their oldest son, <persName reg="Burt, Andrew Gano">Andrew Gano Burt</persName>, home to <placeName rend="City/Town" reg="Cincinnati, Ohio">Cincinnati</placeName> for education by the time he reached age eleven.  The parting was "heart-rending but to educate him was our first duty."  (Burt, p. 226)  Their second son was also educated in <placeName rend="City/Town" reg="Cincinnati, Ohio">Cincinnati</placeName>, but <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Burt</persName>, like most other officers' wives, did not discuss the education of their daughter.</p>
+
+<p>
+After the <placeName rend="Region" reg="Great Plains">Plains</placeName> wars ended and frontier forts saw small towns grow up around them, educating children at the post became much easier.  <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny Corbusier</persName> had four sons to educate and was happy to place them in public schools when they were stationed at <placeName rend="Military Post" reg="Fort Hays" key="hays">Fort Hays</placeName> in 1888.  Her eldest son, <persName reg="Corbusier, Claude">Claude</persName>, graduated from high school at <placeName rend="City/Town" reg="Hays, Kansas">Hays</placeName> in 1889, and entered the <placeName rend="school" reg="University of Kansas">University of Kansas</placeName> the following September.  However, when her husband was transferred to <placeName rend="Military Post" reg="Fort Supply" key="supply">Fort Supply</placeName>, <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny</persName> did not accompany him because there were no schools there.  Sadly she departed for <placeName rend="State\Territory" reg="Michigan">Michigan</placeName> and rented a house there for the year that the family was separated.  This seemed an unbearable hardship for <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Corbusier</persName>, but officers' wives who had faced similar problems a decade earlier would have told her that she was lucky to have kept her family together until the children were teenagers. (Corbusier, pp. 154, 194)</p>
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.iv.0004" type="prev"/>
+</item>
+<item>
+<xptr n="aow.iv.0006" type="next"/>
+</item>
+</list>
+</div1>
+
+
+
+
+
+
+</body>
+</text>
+</TEI>

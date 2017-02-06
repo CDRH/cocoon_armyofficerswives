@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/**
+ * "Yet Another Multicolumn Layout" - (X)HTML/CSS Framework
+ * (en) Template for designing a screen layout
+ * (de) Gestaltungsvorlage fr die Erstellung eines Screenlayouts
+ *
+ * @file		basemod_draft.css
+ * @creator		YAML Builder v0.3 Preview
+ * @link		http://builder.yaml.de
+ */
+
+@media all
+{
+ /**
+  * Design of the Basic Layout | Gestaltung des YAML Basis-Layouts
+  *
+  * @section layout-basics
+  */
+
+  /* Page margins and background | Randbereiche & Seitenhintergrund */
+  body {  }
+
+  /* Layout: Width, Background, Border | Layout: Breite, Hintergrund, Rahmen */
+  #page_margins { width: 865px; min-width: 740px; max-width: 90em }
+  #header {   }
+  #topnav {   }
+  #footer {   }
+
+
+ /**
+  * Formatting of the Content Area | Formatierung der Inhaltsbereichs
+  *
+  * @section layout-main
+  */
+
+  #col1 { float: left; width:645px}
+  #col2 { display:none}
+  #col3 { width: auto; margin-left:645px; height:100%}
+  #col1_content { padding: 0 0px 0 0px }
+  #col3_content { padding: 0 0px 0 0px }
+
+
+ /**
+  * Design of Additional Layout Elements | Gestaltung weiterer Layoutelemente
+  *
+  * @section layout-misc
+  */
+
+}

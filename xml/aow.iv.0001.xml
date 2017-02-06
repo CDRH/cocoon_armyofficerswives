@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.iv.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"I could, I can and I <hi rend="italic">do</hi>!: Daily Life in a Great Plains Military Post</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.iv.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Daily Life in a Great Plains Military Post</head>
+<div1>
+
+<p>
+Daily life in a frontier fort was very different from the life most of these women might have led in a small town in <placeName rend="State\Territory" reg="Ohio">Ohio</placeName> or <placeName rend="State\Territory" reg="Michigan">Michigan</placeName> or <placeName rend="State\Territory" reg="New York">New York</placeName>.  It was simpler, more social, and punctuated by frequent break-up of the home and travel to another fort or campaign camp.  Their homes might be comfortable and cozy, or barely provide shelter for the family.  But as "good soldiers" they learned to adjust to conditions.  As <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> said when she began her Army life, "I soon discovered that I had adaptability, which made things easier." (Biddle, p. 15). <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Carrington</persName> paraphrased an old saying:
+<quote>
+'I never could, I never would, and I never will,' became almost obsolete; and in their place was these other impulses, 'I wouldn't, but I must and I will,' or 'I could, I can, and I <hi rend="italic">do</hi>!' (M. Carrington, p. 174)</quote></p>
+
+<p>They also learned to quickly pack up the few possessions they considered their own, sell off the furniture which was too heavy for transport, and live on the trail until they reached their new post, new home, and new neighbors.</p>
+
+<p>
+Everyday housekeeping for Army officers' wives depended on whether or not they had children.  <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> described her typical day at <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> in her journal.
+
+<quote>
+In the morning we return from breakfast, then I read the morning paper, &amp; do the dusting and picking up. We drive about two, come home, dress, read or sew some, and it is time for tea.  The evenings are altogether taken up with making or receiving calls, and reading.  We read aloud all the time evenings that we are not otherwise engaged, and so the days go by like one happy dream.  (12 December 1867, Utley, p. 131)</quote>
+</p>
+
+<p>
+At a remote post in eastern <placeName rend="State\Territory" reg="Montana">Montana</placeName> a few years later, <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Lizzie Burt</persName>'s day was more complicated.  She had two children as well as a twelve year old servant whom she had promised to educate and train.  Her long-time, and very capable servant <persName reg="Maggie">Maggie</persName> had refused to go into an area where hostilities were probable, so <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Mrs. Burt</persName> depended on a "striker" &#8212; an enlisted man who served as cook and sometimes housekeeper.  Social activity was limited to the three adult women at the post.</p>
+
+<quote>
+Frequent interviews during the day with <persName reg="Miller, Mrs.">Mrs. Miller</persName> [a young officer's wife], the care of baby and <persName reg="Burt, Andrew Gano">Andrew Gano</persName>, instructing our soldier cook, watching over and schooling <persName reg="Christina">Christina</persName> [servant], together with necessary mending filled the days for me.  <persName reg="Kate">K[ate]</persName> [<persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Lizzie</persName>'s sister] was my able assistant, and was always busy.  She continued reading French, but there was no time for that for me.  (Burt, p. 167)</quote>
+
+<p>
+Social relations were an important part of military life and visiting, sharing meals, gathering for cards or music occurred daily at posts as well as in camp.  Through these visits, young officers' wives could count on advice from a seasoned woman, sometimes called an "old soldier" among the women, to help weather the irregularities of Army life on the <placeName rend="Region" reg="Great Plains">Plains</placeName>. 
+</p>
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.iv.0002" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+
+
+
+
+ 
+	
+
+
+
+
+
+
+

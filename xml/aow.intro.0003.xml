@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.intro.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Introduction</title>
+<title level="m" type="sub">Acknowledgements</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.intro.0003</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866-1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Acknowledgements</head>
+<div1>
+
+<p>A web-based publication is a new venture for me and I am indebted to many who supported and aided my effort.  My undergraduate teacher, Dr. Charles Bayard, cultivated my love of the history of the American West and the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> in particular.  My thanks to him is long overdue.  My students in the Spring 2006 Historical Methods class challenged me to apply for the Plains Humanities Alliance grant and closely monitored my progress.  I am especially grateful to friends and scholars without whom I would not amount to much.  Dr. Anne Kelsch helped me with the grant process and always gives my ideas a good critical hearing.  Dr. Mary Jane Schneider and Dr. Birgit Hans mentored my study of Native American societies on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  Dr. Rebecca Leber-Gottberg contributed to the research process.</p>
+
+<p>In locating photographs, I had the help of many attentive archivists and curators including Sharon Silengo of the State Historical Society of North Dakota, Mary-Jo Miller of the Nebraska State Historical Society, Jill Reichenbach of the New-York Historical Society, and Mary Williams of the Fort Davis National Historic Site.</p>
+
+<p>I am grateful to the Plains Humanities Alliance for the funding that made this project possible, and to the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln for their technical expertise. Thanks go to Kay Walter, who supervised the digital project and aided my effort to find the proper electronic voice. 
+
+</p>
+</div1>
+
+<!-- <div1 type="file references">
+<list>
+<item>
+<xptr n="aow.intro.0001" type="prev"/>
+</item>
+<item>
+<xptr n="aow.intro.0004" type="next"/>
+</item>
+</list>
+</div1> -->
+
+</body>
+</text>
+</TEI>

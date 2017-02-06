@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG3126-2-40 SYSTEM "aow.img.RG3126-2-40.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG1517-93-36 SYSTEM "aow.img.RG1517-93-36.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.vi.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Centers of Refinement:  Maintaining the Image of Rank and Class</title>
+<title level="m" type="sub">Cooks and Household Servants</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vi.0003</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Cooks and Household Servants</head>
+<div1>
+ 
+
+<p>"I have two of the best servants in the world!" <persName rend="bio" reg="Barnitz, Jennie Platt" id="barnitz.j">Jennie Barnitz</persName> crowed in a letter to her mother. (Utley, p. 134) But her situation was rare among officers' wives.  The women's letters home are filled with constant complaints about finding and keeping adequate household help. At some posts, not so remote as to prevent travel, cooks and housemaids came and went frequently.   Servants who accompanied officers' families to remote posts, such as <placeName rend="Military Post" reg="Fort C. F. Smith" key="smith">Fort C. F. Smith</placeName>, remained employed because there were few opportunities to leave.  Servants who violated fundamental codes of conduct might be dismissed, even if the prospects for finding a replacement were dim.</p>
+
+<p>Servants comprised two separate, and usually antagonistic, groups of people.  Some, usually women, were employees, hired through contacts from home, through advertisements, from the ranks of enlisted men's wives or passed on from departing officers.  In short, officers' wives employed almost any avenue for securing adequate household help.</p>
+
+<p>Other servants, called strikers, were hired from among enlisted men. Some served a particular officer for years; others were hired temporarily, perhaps for only a day or two, as necessary.  The use of soldier/servants was accepted until the early 1880s when the practice was officially ended, though after that time, strikers were still employed as paid servants. (Rickey, p. 111)  Some officers' wives emphasize that strikers were paid (even before 1880), and enjoyed the addition to their meager pay, as well as the association with an officer's family.  (Burt, p. 216)   Strikers were sometimes elderly soldiers who were effectively retired from more demanding or dangerous duties.  In 1866, as <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie Alexander</persName> traveled the Southern <placeName rend="Region" reg="Great Plains">Plains</placeName> with her husband's company, they were served by his striker, <persName reg="Sullivan">Sullivan</persName>.  <persName reg="Sullivan">Sullivan</persName> was an "old soldier" who had "always been a 'striker' . . . and is consequently perfectly worthless."  (Alexander, pp. 56&#8211;57)</p>
+
+<p>Strikers would apparently do any kind of household work, so were useful when the hired servant refused a task, or was too busy with routine work to take on a short-term job.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName>'s first striker cleaned the windows and floors of her new quarters at <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName>.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName>'s strikers cooked and washed dishes.  While traveling across the Southern <placeName rend="Region" reg="Great Plains">Plains</placeName>, a striker named <persName reg="Bowers">Bowers</persName> secretly made wine from wild plums which, after proper fermentation, he strained through a sock, and served to the surprised Baldwins and their guests. (Baldwin, pp. 51&#8211;52)</p>
+
+<p>Strikers and servants often disagreed about how to manage a household.  Servants generally won the battles if they resorted to the head of the household because they were so hard to keep.  <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny Corbusier</persName>'s cook, <persName reg="Louie">Louie</persName>, would periodically attack the striker, <persName reg="Lewis">Lewis</persName>, with "saucepans, flat irons, or anything else at hand."  <persName reg="Lewis">Lewis</persName> would escape her anger, but finally complained to <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Mrs. Corbusier</persName> that he could not stand <persName reg="Louie">Louie</persName>'s tantrums any longer and asked to be re-assigned to his troop.  <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny</persName>, though unable to restrain <persName reg="Louie">Louie</persName>, convinced <persName reg="Lewis">Lewis</persName> to remain in their employ. (Corbusier, p. 83)</p>
+
+<p>Officers' wives and historians have engaged in a debate about the status of strikers.  Many of the officers' wives indicate that strikers were happy to accept duty in officers' households, became part of the officers' family, and were pleased to have extra pay.  A few, however, indicated that the position of striker demeaned the status of a soldier.</p>
+
+<p><persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> wrote about Army women's need for the "occasional" labor of a soldier.  She described the striker's place in a household where he was only too happy to return the devotion of the officer.
+
+<quote>It often happened that delicate ladies had to do all kinds of menial service for a time.  Except for a kindhearted soldier now and then, who was too devoted to the wife of his company officer to see her do everything, I hardly know how army ladies would have endured their occasional domestic trials.  The soldiers were especially fond of children, and knew how to amuse them; indeed, their willing hearts made them quick to learn all kinds of domestic work.  I think they even regretted that they could not sew, when they saw an overtaxed lady wearily moving her needle.  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 147)</quote></p>
+
+<figure entity="aow.img.RG3126-2-87">
+<figDesc>Figure 3.  A striker waits at the back of the tent to serve <persName reg="Custer, George Armstrong">Armstrong</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> as they enjoy a meal in their field tent.  Many officers' wives tried to make camp as elegant as their garrison homes with tablecloths and fine serving dishes.  Courtesy Nebraska State Historical Society Photographic Collection RG 3126.PH.2.87</figDesc>
+</figure> 
+
+<p><persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> criticized the Army tradition of employing strikers to do menial household chores and childcare, while drawing attention to the shortcomings of the officers' wives who employed them.  She left readers of her fictional account of life at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> with the impression that strikers suffered humiliation at the hands of the demanding women who employed them.
+
+<quote>In front of the verandah the General's white gloved orderly paced to and fro, while at the side, 'a bronzed and whiskered grenadier,' strode back and forth with Mrs. Gaylord's baby in his arms; beside him was another tall and strapping soldier, who carried carefully a lapdog on a silken cushion.  This was Mrs. Marplot's especial pet and favorite.   She detested babies . . . . She . . . claimed a soldier from the detail for children's nurses, and exacted the same degree of attention for her quadrupedal pet as that bestowed on the nobler juvenile bipeds.  (Slaughter, "Amazonian Corps," 13 January 1875)</quote></p>
+
+<p>The level of entertaining that most officers and their wives engaged in required a dependable source of kitchen and household labor, and officers' status was enhanced by the employment of servants or strikers.  Retaining servants at remote posts was very difficult, so the employment of soldiers not otherwise necessary to the functions of the garrison was a reasonable alternative.  It is very likely that many men enjoyed household service as a break in the boring routine of most posts, especially in the winter when not on campaign.  However, considering that they were subject to orders, the men had few options if the assignment proved to be not to their liking.  Because of their limited ability to decline household service, the employment of strikers, especially those at the beck and call of women who may have been more concerned about their status than a soldier's sense of worth, may have been an abuse of military rank and privilege.</p>
+
+<p>The rights of non-enlisted household servants were probably abused as well, though officers' wives complained that they were entirely at the mercy of their servants.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> asserted that their servant, <persName reg="Mary">Mary</persName>, "ruled like a despot."  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 147)  <persName reg="Louie">Louie</persName>, the Corbusiers' cook kept her job despite her uncontrollable temper. But a cook or servant could be dismissed without notice for many infractions including drunkenness and indiscreet sexual behavior.  If dismissed on the frontier, these hapless women were usually transported to the nearest town where they were left to make their own way.</p>
+
+<p>Army women did not face the "servant problem" alone.  The lack of household help was widespread in the late nineteenth century as educational opportunities better prepared young women for professions such as nursing and teaching, and factory work in growing cities attracted young women away from traditional household service before marriage.  If the home was a moveable one, often located at remote regions of the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>, service jobs held even less appeal to women.</p>
+
+<p><persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> went through a half-dozen servants at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> and <placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">Fort McPherson</placeName>, some staying for no more than a few days.  On January 25, 1876, while still weak from a difficult childbirth and the death of her infant, she wrote to her brother:
+<quote>
+I have had all sorts of trouble with servants, and not being as strong of course yet as of old, it takes but little to tire me.  The green Irish girl I spoke of came as she promised early Monday morning, and glad was I on Tuesday to send her off on Wednesday.  She knew nothing, and I don't believe she ever will.  She was worse than no one.  I have a very good woman now, the wife of one of the trumpeters.  She will be able to do my work for a time and has written to <placeName rend="City\Town" reg="St. Louis, Missouri">St. Louis</placeName> for a sister to come out to me, &amp; I guess she will come.</quote>
+
+Five days later, she wrote that her "girl", "a nice cook &amp; a most beautiful washer and ironer as I ever saw" had been in jail "two or three times lately."  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName> also wrote to her father that she now had good help in the kitchen and hoped that she would be able to keep the woman until she was strong enough to manage on her own.  (Buecker, pp. 18&#8211;19)</p>
+
+<p>By summer, <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName> had a "good girl" <persName reg="Jennie">Jennie</persName>, who stayed with them for over a year.  In November 1877, <persName reg="Jennie">Jennie</persName> considered leaving for another position, but ultimately decided to stay until spring.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName> experienced "dread" at the thought of losing <persName reg="Jennie">Jennie</persName>, because 
+<quote>
+I never expected to get her equal again.  She has her faults, like the rest of us, but she is as near perfect as I can expect to find in a servant, &amp; I can trust her with baby any time. (Buecker, p. 36)</quote></p>
+
+<p><persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName> agreed with her friend, <persName reg="Sumner, Mrs.">Mrs. Sumner</persName>, that "trouble with servants was only next worse to a death in the house." <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName> found servants "high &amp; mighty &amp; independent" though she thought they "ought to obey their masters in this primitive state of <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName>."  (Buecker, pp. 36, 19)  Servants were "scarce, independent, and disputant" according to <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Carrington</persName>.  (M. Carrington, p. 173)  Their behavior often offended middle-class officers' wives, and sometimes landed them in trouble with the law.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> had one servant who was accused of setting fire to a cabin at <placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName>; another who "set fire to her tent, drank, smoked, and chewed, and was accused of continually treating the soldiers." (Leckie, pp. 34, 81)</p>
+
+<p>One of the problems they faced was that women servants, no matter their age or appearance, quickly found suitors among enlisted men.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> wrote to her son <persName reg="Grierson, Robert">Robert</persName> that an officer's servant married a sergeant three weeks after she arrived at <placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName>.  (Leckie, p. 97)  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Gibson</persName>'s assessment of servants in Army households was graphic:
+<quote>
+White maids from the officers' quarters were in great demand [as dance partners for enlisted men].  Some of these were imported from the East or Midwest at the trouble and expense to their employers, but, within from two to six weeks, according to their degree of pulchritude, they all married soldiers. . . . [T]he employment agencies were instructed to send only the homeliest females obtainable, and the army of knock-kneed, cross-eyed, crooked-teethed cooks and bottle washers which hove into the garrison promised domestic security to the harassed housewives.  However, their jubilance was short-lived, for at the end of two months, every one of the freaks had landed a man.  (Fougera, pp. 96&#8211;97)</quote></p>
+
+<p>Race and sex also contributed to the length of service expected from employees.  The Custers' maid, <persName reg="Mary">Mary</persName>, was African American (as was <persName reg="Eliza">Eliza</persName>, see Figure 1). <persName reg="Custer, George Armstrong">Custer</persName> commanded white troops, which meant she was not likely to find a suitor among the soldiers.  The situation was reversed, however, when the officers commanded African American troops (buffalo soldiers).  <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> employed several incompetent African American servants ("they must have been field hands") and became so prejudiced against them that she "begged for a soldier." (Boyd, p. 253)  Though formerly enslaved African Americans were more available as servants on the Southern <placeName rend="Region" reg="Great Plains">Plains</placeName>, they were also employed on the Northern <placeName rend="Region" reg="Great Plains">Plains</placeName> from among the wives of Buffalo soldiers or as employees of many years status.</p>
+
+<figure entity="aow.img.RG1517-93-36">
+<figDesc>Figure 4.  An unidentified Tenth Cavalry Soldier and his family at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName>.  Very likely this woman was either a company laundress or a servant in an officer's home.  Courtesy Nebraska Historical Society Photograph Collection RG1517.PH.93.36.</figDesc>
+</figure>	 
+
+<p>Many of the servants were immigrants to the United States.  <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> contacted a Catholic priest in a Kansas town to find Irish servants to take to <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName>.  She was pleased with the Irish girls and employed them for several years. (Biddle, pp. 106&#8211;107)  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> hired a number of servants of different ethnic origins, assigning their faults to their cultural traits.  <persName reg="Hulda">Hulda</persName> was Polish and a good cook, but soon married a soldier.  There was a "Russian treasure" who would not prepare a meal on <persName reg="Roe, Fayette">Lt. Roe</persName>'s strict schedule.  "Scotch <persName reg="Ellen">Ellen</persName>" was thought a suitable servant until she turned up drunk one day and unable to prepare a meal for the Roes and their guest.  In between were a number of old stock Americans who were no better, including one who threatened to strike <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances</persName> rather than obey orders.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Roe</persName>'s favorite servant was a Chinese man, whom she referred to as "dear yellow <persName reg="Hang">Hang</persName>," who was stubborn, but an excellent cook, loved her chickens, and remained in their employ for a relatively long time. (Roe, pp. 308&#8211;310, 318, 350&#8211;354)</p>
+
+<p>The availability of servants was also related to place.  A Chinese servant was available only at the edge of the <placeName rend="Region" reg="Great Plains">Plains</placeName> near the mountains of <placeName rend="State\Territory" reg="Montana">Montana</placeName> where Chinese immigrants had located while seeking gold.  While stationed in the mountains on the edge of the <placeName rend="State\Territory" reg="Wyoming">Wyoming</placeName> <placeName rend="Region" reg="Great Plains">Plains</placeName>, <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> was able to hire Shoshone and Arapahoe women to do occasional heavy housework.  No officers' wife in the late nineteenth century mentioned hiring Indian women to work for them at <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts.</p>
+
+<p>Racial discrimination was commonplace among members of the white middle-class in the nineteenth century.  Army families were no different in that respect.  As they made the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> safe for European American settlers and institutions, they also transported racial hierarchies to the West.  Though outright hatred of peoples of color was rare, the officers' wives maintained superior social standing by demeaning their servants, which was sometimes accomplished through expressions of affection for the very qualities they deemed inferior, such as <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> referring to her Chinese servant as "dear yellow <persName reg="Hang">Hang</persName>."  Servants, on the other hand, especially if they were white, often challenged their subordinate status in post-Civil War America which contributed to the tensions between mistress and servant.  Perhaps the soldier/strikers understood that their rank and their occupation were fundamentally honorable and that though serving in officers' households under orders, they also had rights, so household service was not as rancorous for them as it was for hired servants.  
+</p>
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vi.0002" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vi.0004" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

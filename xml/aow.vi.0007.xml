@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.vi.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Centers of Refinement:  Maintaining the Image of Rank and Class</title>
+<title level="m" type="sub">Female Grenadiers</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vi.0007</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Female Grenadiers</head>
+<div1>
+
+
+<p>While middle-class women in other parts of the country were learning how they could harness political power to foster social, economic, and political changes in their towns and states, Army women located personal power in association with their husband's rank.  Because of their appropriation of the rank and power of an officer, an illicit action at best, dangerous at worst, the wives of officers who commanded a company or a regiment, were sometimes called "female grenadiers."</p>
+
+<p><persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>, still with the regiment at <placeName rend="Military Post" reg="Fort Gibson" key="gibson">Fort Gibson</placeName>, and waiting to join <persName reg="Grierson, Benjamin">Colonel Grierson</persName> at <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName>, often had occasion to stand in for her husband and to use her position of influence as the commanding officer's wife.  She advised <persName reg="Grierson, Benjamin">Ben</persName> on his career, including the location of his headquarters, interceded on behalf of a soldier who was placed under arrest on suspicion of murder, and asked <persName reg="Grierson, Benjamin">Ben</persName> to listen carefully to the complaints of a striker who wanted to return to his company.  A confident and compassionate woman, her efforts on behalf of the soldiers fell just short of commanding, and she always told them that she could only ask for assistance on their behalf, and could make no promises.  More directly, she wrote to Colonel <persName reg="Floyd-Jones, Colonel">Colonel Floyd-Jones</persName> who wanted to rank her out of quarters shortly before her move to <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName>, challenging his right to remove her from her home.  (Leckie, pp. 28, 30, 33, 35&#8211;36)</p>
+
+<p><persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName> was accused of meddling in her husband's work when he became the agent at the Anadarko reservation in 1894.  The accusation, which <persName reg="Baldwin, Frank">Frank</persName> did not challenge, resulted from her work as his office administrator.  As an unpaid office assistant, she was given responsibilities, which she no doubt embellished with her position as an officer's wife, but no authority.  She was an easy target, though her efforts on <persName reg="Baldwin, Frank">Captain Baldwin</persName>'s behalf were probably justified and unappreciated. (Steinbach, p. 164)</p>
+
+<p>Perhaps <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Custer</persName> drew more criticism than most other officers' wives, at home and abroad, for her visibility in the Seventh Cavalry.  Sensitive to the criticism, she denied that she was one of those women who "commands her husband's company."  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 104)  However, she cultivated a role that suggested that she wielded considerable power in the regiment.  For instance, when the Seventh Cavalry went into camp a few miles from <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Lincoln</placeName>, officers' wives accompanied the troops to their campsite by ambulance, but <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> "had taken her place beside the General [<persName reg="Custer, George Armstrong">Custer</persName>] at the head of the column." (Fougera, p. 103)  One day, however, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> exceeded her authority as commanding officer's wife, when she told an officer who was seeking permission to leave the fort to follow a deserter that he should just go ahead and pursue the soldier without <persName reg="Custer, George Armstrong">Colonel Custer</persName>'s permission.  <persName reg="Custer, George Armstrong">Armstrong</persName> later chided her for this abrupt decision, and "he quietly assured me that he commanded the regiment."  (Custer, <hi rend="italic">Boots and Saddles</hi>, pp. 104&#8211;105)</p>
+
+<p>The most direct criticism of women who appropriated military power came from <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName>.   In her fictionalized story of life at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>, the "Amazons" (officers' wives) engaged in troublesome squabbles that had to be settled by the CO.  The women also forced the removal (due to improbable causes) of a sergeant whom they disliked.  <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Slaughter</persName> described the commanding officer's wife, "Madame le General," as a woman who had
+<quote>
+'an eye like Mars, to threaten and command,' and was addicted to . . . glaring over her glasses at an offender that set many a poor Lieutenant quaking in his boots. . . . and woe to the unlucky youth, who . . . dared to address her husband as 'colonel' instead of his brevet title of "General Ristenbatt."  (Slaughter, "Amazonian Corps," 13 January, 1875)</quote></p>
+
+<p><persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Slaughter</persName> aired her criticism publicly through slightly disguised fictional characters after her husband had resigned his commission.  However, despite denial and criticism, the role of the female grenadier was an integral part of life in the Army family.  If the commanding officer was unavailable, his wife might, using the information she gleaned over dinner with the company and regimental officers, be able to address the problem.  Female grenadiers never commanded in the field, but at a garrison, they had a certain amount of influence that derived legitimacy from the accepted role of middle-class women who held sway over the moral and cultural status of their families and homes.  The female grenadier was a role that combined the importance of rank in military and social relationships at an Army post with the lack of any other significant role for Army women to fill a gap in both military order and women's lives at military posts in the late nineteenth century.</p>
+
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vi.0006" type="prev"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI> 

@@ -1,0 +1,45 @@
+/* CSS Document */
+/* army wives 1st page */
+
+div.header {height:89px; background:url(../web-images/headeralt.jpg) top left no-repeat }
+div.blue {background:url(../web-images/darkblue.jpg) repeat }
+div.header h1 {display:none}
+div.header h3 {display:none}
+body { color:#000000; font-family:"Times New Roman", Times, serif;  background:url(../web-images/blue.jpg) repeat; background-color:#88C2E6 } 
+
+div.lists {height:2800px}
+
+div.list2 {font:Arial, Helvetica, sans-serif; font-size:12px}
+div.photo { width:645px; height:400px; background:url(../web-images/photo.jpg) top left no-repeat}
+div.photo h1 { display:none}
+div.title {width:645px; height:33px; background:url(../web-images/title.jpg) left no-repeat}
+div.title h1 {font-family:Arial, Helvetica, sans-serif; font-style:italic; font-weight:bold; font-size:20px; padding-left:15px; padding-top:5px}
+div.content p {font-size:14px; padding:10px 10px 15px 15px; line-height:1.5em}
+div.lists {background:url(../web-images/darkblue.jpg) repeat}
+div.list1 a:link {color:#492B01}
+div.list1 a:visited {color:#492B01}
+div.list1 a:hover {color:#FFFFFF}
+div.list1 {background:url(../web-images/lines.jpg)}
+div.list1 li{height:23.5px; margin-bottom:23px}
+div.list1 {padding-top:25px; padding-left:25px; font-size:17px; font-weight:bold; padding-bottom:15px}
+div.list2  li{height:25px; margin-left:10px; font-family:Arial, Helvetica, sans-serif; font-weight:bold}
+div.list2 a:link {color:#000000; text-decoration:none}
+div.list2 a:visited {color:#3e2f18; text-decoration:none}
+div.list2 a:hover {color:#FFFFFF; text-decoration:underline}
+div.list2 {padding-left:25px}
+/*div.ne {margin-top:-70; float:right}*/
+
+
+
+
+div.footer {background-color:#D3AC92; clear:both; font-size:14px}
+div.footer h4 { text-align:right; padding-right:20px}
+div.footer a {text-decoration:none}
+div.footer a:link {color:#000000}
+div.footer a:visited {color:#000000}
+div.footer a:hover {color:#FFFFFF}
+
+p.bold {font-family:Arial, Helvetica, sans-serif; font-weight:bold; margin:10px 0px 10px 0px; font-size:13px}
+div.content a:link {color:#10669b}
+div.content a:visited {color:#00568b}
+div.content a:hover {color:#d2e8f6}

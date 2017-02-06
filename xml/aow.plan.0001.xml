@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+
+]>
+
+<TEI id="aow.plan.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Introduction to the Lesson Plans</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.plan.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-06-22</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Introduction to the Lesson Plans</head>
+<div1>
+
+
+<p>These lessons have been designed to help students use and understand the history of Army officers' wives who lived at Great Plains Army posts during the years that followed the Civil War.  This was a time of development and settlement on the Plains and also a period of intense warfare over the question of whose culture and economy would prevail in that part of North America.  The officers' wives provide first person accounts which are often accurate, but even when the facts are in question, the emotion of the women's lives and politics remains very true.</p>
+
+<p>I have numbered the lessons I through IV.  However, the numbering is for convenience and does not indicate a hierarchy of learning.  Teachers can use each lesson or any part of the lesson independently.  The lesson plans are associated with specific portions or sections of the web site.  The reading necessary for the lessons is generally limited to that portion, though students might benefit from reading "I could, I can, and I do!:  Daily Life in a Great Plains Military Post" as background for all the lessons.</p>
+
+<p>The amount of time required for each lesson depends on how many of the activities the teacher chooses to have the students complete.   The lessons may suit the study needs of teachers at many different levels of study.  The student response should fit the intellectual achievement of the students' grade level.</p>
+
+<p>There is a glossary with some of the lessons which the teachers can ask the students to study, or the teacher may ask the students to look up and discuss the meaning of certain words which will aid their study.  If the students are to receive a copy of the glossary, the teacher may copy the glossary from the page to hand out.</p>
+
+<p>In some of the lessons, there are charts for the students to complete which will ease the process of comparison and evaluation of historic facts or events.  Teachers may copy these lesson plans from the web page to hand out to the students.</p>
+
+<p>Some links are provided for supplemental web sites.  I cannot guarantee the lifespan of these web sites, but the nature of the links are such that if one disappears, a suitable substitute (for bibliographical models for instance) can be found by a general web search.</p>
+
+<p>I encourage teachers and students who are engaged in this study to contact me if they have questions or would like to follow up on their discussions.  My email address is: <xref n="barbara.handy.marchello@und.edu.">barbara.handy.marchello@und.edu</xref>.<lb/>
+
+
+</p>
+
+<list>
+<item><ref n="lesson_plans.pdf">Lesson 1</ref></item>
+<item><ref n="lesson2.pdf">Lesson 2</ref></item>
+<item><ref n="lesson3.pdf">Lesson 3</ref></item>
+<item><ref n="lesson4.pdf">Lesson 4</ref></item>
+</list>
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

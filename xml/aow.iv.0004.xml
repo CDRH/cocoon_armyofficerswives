@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.2548-10 SYSTEM "aow.img.2548-10.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.iv.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"I could, I can and I <hi rend="italic">do</hi>!: Daily Life in a Great Plains Military Post</title>
+<title level="m" type="sub">Procuring Food and Clothing</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.iv.0004</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-05</date>
+<respStmt>
+<name>Laura Weakly / Adam Kiser</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Procuring Food and Clothing</head>
+<div1>
+
+<p>
+Army dependents could not draw rations at military posts.  Officers had to pay for food purchased at the commissary to be prepared in their own homes, or had to pay for their dependents to eat at the Officers' Mess.  <persName reg="Barnitz, Albert">Captain Albert Barnitz</persName> wrote to <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> that they could board at the Officers' Mess at <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> and then they would not have to cook, or more likely, hire a cook.
+
+<quote>
+But we need not keep house, unless you wish, for the officers' mess is elegant &#8212; as good as any first class hotel &#8212; and terms only $1. per day for each person, and it is not a bachelor's mess, as I had been previously informed although no ladies are boarding there at present.  (Utley, p. 122)</quote></p> 
+
+<p>
+For those who kept house, supplies could be found at the post commissary.  Though many soldiers and officers complained about inflated commissary prices and about the limited goods available, <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> thought the commissary at <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> had "the best of everything at such low prices."  (Utley, p. 134)   The quality of foods depended on the post and its proximity to the railroad.  <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> found the food available to her at <placeName rend="Military Post" reg="Fort Clark" key="clark">Fort Clark</placeName> in south <placeName rend="State\Territory" reg="Texas">Texas</placeName> was unappealing.
+
+<quote> 
+ . . . [W]e nearly starved in <placeName rend="State\Territory" reg="Texas">Texas</placeName>.  The butter was simply oil, if procurable at all; the milk thin &#8212; not tasteless, but with a decidedly disagreeable flavor of wild garlic and onions; and the beef dry, and with so strange a flavor we could not eat it.  Vegetables could not be procured; and potatoes shipped from a distance were a mass of decay when received. (Boyd, p. 252)</quote></p>
+
+<p> 
+Keeping perishable food cold in the heat of <placeName rend="State\Territory" reg="Texas">Texas</placeName> summer presented problems that officers' wives solved with ingenuity and hard work.  When <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> asked a young officer's bride how she was managing, she replied, "I am never idle, because my entire time is occupied in keeping wet clothes [sic] around the jars that contain our milk and butter." (Boyd, p. 254)  The evaporation of moisture from the cloth cooled the jars of milk, but the heat caused the moisture to evaporate quickly.  </p>
+
+<p>
+Some women found ways to acquire and keep chickens which provided meat and eggs.  Most important were the eggs used in baking cakes, puddings, and pies for desserts held an important place at the many social events at a remote garrison.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>'s cookbook included numerous recipes for cakes, pies, and puddings that required milk (available in cans at remote posts), sugar (plentiful in most commissaries), and eggs.  Powdered eggs were available, though their use beyond scrambled eggs was doubtful.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName> described them as having the appearance of "pale yellow rock salt in the bulk."  (Baldwin, p. 111).</p>
+
+<p>
+<persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> wrote in her fictionalized account of life at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>, about the experience of two officers' wives who ordered twenty dozen eggs &#8212; "embryo omelets and custards" &#8212; to be delivered to the remote Missouri River post.  The cost of the eggs plus freight was an astonishing forty dollars, which the women reluctantly paid, but then found all of the eggs were rotten; several exploded when they tried to crack them open.  The house had to be vacated until it had been cleaned and aired out, soldiers carried the remainder of the out-dated freight out to the prairie, and the women were reprimanded for bringing such a stench to the post. (Slaughter, "Amazonian Corps," 21 April 1875.)</p>
+
+<p>
+Surprisingly, those who kept chickens had fewer problems.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> kept chickens which made her table the envy of the garrison.  Her Chinese cook, <persName reg="Charlie">Charlie</persName>, made pets of the chickens and became their sole protector and caretaker.  Though officers usually packed for transport only what they could encase in three trunks, <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Roe</persName> caged the chickens and took them along to <persName reg="Roe, Fayette">Lt. Roe</persName>'s new assignments.
+
+<quote>
+The chickens were let out at every camp, and each time, without fail, they flew up to their boxes on the wagons.  <persName reg="Charlie">Charlie</persName> would put in little temporary roosts, that made them more comfortable, and before daylight every morning he would gather up the little ones and the mothers and put them in the crates for the day. (Roe,  233&#8211;240)</quote>
+
+Though it meant building special chicken boxes that were mounted on the rear of the transport wagons, it also meant that <persName reg="Charlie">Charlie</persName>, highly valued as a cook by the Roes, would remain in the Roes' employ in order to take care of the chickens.  This domesticity in the middle of military transport seemed to cause few extra problems for the soldiers and officers, and the chickens helped <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> maintain her social position in Army society.</p>
+
+<p>
+<persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> purchased twelve chickens and a dairy cow named Susy that traveled from <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> to several posts on the northern <placeName rend="Region" reg="Great Plains">Great Plains</placeName> with her young family.
+
+<quote>
+Susy proved a great addition, giving several quarts of milk a day, for the table, providing cream for breakfast and milk to drink in abundance.  She had been shod before starting on the trip and soon learned to follow with the command, after being led for a few days.  Good old Susy, what a blessing she proved! When baby wakened, he had his cup of milk with cracker or baking-powder biscuit or sometime hardtack. (Burt, p. 57)</quote>
+
+Susy and the same twelve chickens remained with the Burt family for more than two years during which they had brief stays at six posts.</p>
+
+<p>
+Acquiring fresh water was often a problem on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  Most posts were located near a river which provided water for drinking, bathing and other uses.  At <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> and other Missouri River posts, water was drawn from the river and filtered (Slaughter, p. 27), but it still contained sediment.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> noted that she 
+
+<quote>
+bravely began to drink the water, when the glass had been filled long enough for the sediment partially to settle, and to take our baths in what at first seemed liquid mud. (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 61)</quote></p>
+
+<p>
+At some posts, ice was harvested from frozen rivers in the winter and preserved for summer use.  When it was gone, water was served warm.  In 1868, at <placeName rend="Military Post" reg="Fort Gibson" key="gibson">Fort Gibson</placeName>, <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>'s ice supply which she kept in her basement gave out by mid-June.  The garrison's supply was expected to last until mid-July.  In 1871, <persName reg="Grierson, Benjamin">Colonel Grierson</persName> purchased a water cooler for the house which helped preserve their meager supply of ice.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> appreciated the cooler, noting that "[i]t is a great convenience, and the ice a great luxury.  (Leckie, pp. 22, 48&#8211;49) </p>
+
+<p>
+<persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> complained about the lack of fresh fruits and vegetables at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>.  Though some vegetables were cultivated at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney</placeName>, grasshoppers had damaged the local gardens.
+
+<quote>
+I don't expect to see [a melon.] We do so miss fruit and vegetables here. We have a few vegetables in the garden, but fruit all comes from California.  It is very high.  Peaches 35 cts. and 40 cts. a lb., four and five in a lb. &#8212; grapes 35 cts., pears 20 cts.  They will be cheaper I suppose after a while, &amp; we shall have them sent down from <placeName rend="City/Town" reg="Cheyenne, Wyoming">Cheyenne</placeName> [Wyoming] and so avoid the <placeName rend="City/Town" reg="Sidney, Nebraska">Sidney</placeName> merchant's profits. (August 15, 1875, Buecker, p. 16)</quote>
+
+
+Finally, in 1877, <persName reg="Zimmer, Conrad">Conrad Zimmer</persName> opened a grocery in <placeName rend="City/Town" reg="Sidney, Nebraska">Sidney</placeName>.  Winnes were able to purchase vegetables and fruits locally.  Oranges and lemons cost fifty cents a dozen "which is very cheap here," and they could get fresh lettuce as well.  (April 1, 1877, Buecker, 30, 45)</p>
+ 
+ <figure entity="aow.img.RG2548-10">
+<figDesc>Figure 10.  The town of <placeName rend="City/Town" reg="Sidney, Nebraska">Sidney</placeName> grew up around <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> (upper left within stockade) along the Union Pacific Railroad tracks. Courtesy Nebraska State Historical Society Photograph Collection RG2548.PH.0.10.</figDesc>
+</figure>
+
+<p>
+Many officers and their wives hunted local wild game and fished when possible.  Game supplemented their food supply and provided a welcome break from military beef which military dependents did not like any more than did the Indians who received animals from the same stock.  Hunting was a common pastime and many women enjoyed it as much as the men.  Rabbits, game birds, deer, antelope, and occasionally bison meat supplemented the generally limited menus in officers' homes.</p>
+
+<p>
+When stationed at a remote post, shopping was difficult.  Some purchased their clothing and other goods from catalogs or asked family members to ship goods to them.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Lizzie Burt</persName> approached a sutler's store in Montana to see about cloth to make a dress for her servant.  Calico was available at one dollar per yard.
+
+<quote>
+Preposterous! Though <persName reg="Christina">Christina</persName> needed a dress, I declined to invest in one for her at that price.  A dollar a yard for common calico?  Never! (Burt, p. 168)</quote></p>
+
+<p>
+A post located near a town meant additional luxuries for Army families.  Stores that sold cloth for sewing, food, books, and toys or other gifts for children meant that their lives would be far more comfortable. Some women, however, resisted the amount of work that could accumulate if they did not assert themselves in limiting demands on their labor.</p>
+
+<p>
+<persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> purchased fabric at a store in <placeName rend="City/Town" reg="Leavenworth, Kansas">Leavenworth</placeName>, <placeName rend="State\Territory" reg="Kansas">Kansas</placeName> in order to sew shirts for her husband to wear on a summer campaign.  She obtained a pattern and advice from <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName>, then "sent for the ambulance &amp; went at once to town, &amp; got the heavy flannel."  She went to the home of another officer's wife for help in cutting the cloth.  Two other women came to her home to help with her "first attempt" at making clothes for her husband.  Four days after first shopping for the flannel, she completed the shirts and was "quite proud of them." (Utley, pp. 139&#8211;140.)</p>
+
+<p>
+Though <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName>, as a commanding officer's wife, did not find sewing for her husband beneath her status, it is well to remember that she did not have children, and always had servants for cooking and other household chores.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>, also a commander's wife and mother of seven children, resented having to sew for her household.  While on a visit to <placeName rend="State\Territory" reg="Illinois">Illinois</placeName>, where she could purchase ready-made garments and household items, and where servants were not so difficult to find and keep, she wrote to her husband that in her parents' <placeName rend="State\Territory" reg="Illinois">Illinois</placeName> home she was
+
+<quote>
+not obliged to make a single article of clothing, nor anything, but a pair of sheets, and the strain of having to cut, and make almost every article for the children, and the house at Ft. Sill, was greater on me, than you can estimate . . . . (Leckie, p. 58)</quote></p>
+
+<p>
+<persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Grierson</persName> also asserted that Army housekeeping had to be simple and refused to buy lace curtains and other ornaments for their <placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName> home.  Not only would a simple household save them money and the labor of maintenance, it would eventually mean less to dispose of when they were moved again.  <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName>, however, held a less practical view than <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> on decorating the commanding officer's quarters and furnished her home to be "dainty and pretty."  She fixed up her quarters at <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> with muslin canopies for the beds, muslin skirts for the dressing tables, and "clean white [lace] curtains."   When <persName reg="Biddle, James">Colonel Biddle</persName>'s dogs jumped through the window, breaking the glass and dragging the lace curtains with them into the yard, she seemed to think it simply another day in a frontier post. (Biddle, pp. 111&#8211;112)</p>
+
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.iv.0003" type="prev"/>
+</item>
+<item>
+<xptr n="aow.iv.0005" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

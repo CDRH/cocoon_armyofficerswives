@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.bibl.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Selected Bibliography</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.bibl.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Selected Bibliography</head>
+<div1>
+
+<div2>
+
+<head>Primary Sources</head>
+
+<bibl><editor n="Adam, Donald K.">Adam, Donald K.</editor>, ed. <title level="a">"The Journal of Ada A. Vogdes, 1868&#8211;71."</title> <title level="j">Montana: The Magazine of Western History</title>.  <biblScope type="volume">13</biblScope> (<date value="1963">Summer 1963</date>): <biblScope type="pages">2&#8211;17</biblScope>.</bibl>
+
+<bibl><author n="Alexander, Eveline M.">Alexander, Eveline M.</author> <title level="m">Cavalry Wife: The Diary of Eveline M. Alexander, 1866&#8211;1867</title>.  Edited by <editor n="Myres, Sandra">Sandra Myres</editor>. <pubPlace>College Station</pubPlace>: <publisher>Texas A&amp;M University Press</publisher>, <date value="1977">1977</date>.</bibl>
+
+<bibl><author n="Baldwin, Alice Blackwood">Baldwin, Alice Blackwood</author>.  <title level="m">An Army Wife on the Frontier: The Memoirs of Alice Blackwood Baldwin, 1867&#8211;1877</title>.  <respStmt><resp>Introduction by</resp> <name reg="Carriker, Robert C.">Robert C. and</name> <name reg="Carriker, Eleanor R.">Eleanor R. Carriker</name></respStmt>.  <pubPlace>Salt Lake City</pubPlace>: <publisher>Tanner Trust Fund, University of Utah Library</publisher>, <date value="1975">1975</date>.</bibl> 
+
+<bibl><author n="Biddle,  Ellen McGowan">Biddle,  Ellen McGowan</author>.  <title level="m">Reminiscences of a Soldier's Wife</title>.  <respStmt><resp>Introduction by</resp> <name reg="Cozzens, Peter">Peter Cozzens</name></respStmt>.  <pubPlace>Mechanicsburg, PA</pubPlace>: <publisher>Stackpole Books</publisher>, <date value="2002">2002</date>.</bibl>
+
+<bibl><author n="Boyd, Mrs. Orsemus Bronson (Frances)">Boyd, Mrs. Orsemus Bronson (Frances)</author>. <title level="m">Cavalry Life in Tent and Field</title>.  <date value="1894">1894</date>.  <note>Reprint.</note> <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1982">1982</date>.</bibl>
+
+<bibl><editor n="Buecker, Thomas R.">Buecker, Thomas R.</editor>, ed.  <title level="a">"Letters of Caroline Frey Winne from Sidney Barracks and Fort McPherson, Nebraska, 1874&#8211;1878."</title>  <title level="j">Nebraska History</title> <biblScope type="volume">62</biblScope> (<date value="1981">Spring 1981</date>): <biblScope type="pages">1&#8211;46</biblScope>.</bibl> 
+
+<bibl><author n="Burt, Elizabeth J. Reynolds">Burt, Elizabeth J. Reynolds</author>.  <title level="m">An Army Wife's Forty Years in the Service, 1862&#8211;1902</title>.  <note>Unpublished manuscript.  Elizabeth J. Reynolds Burt Papers.  Library of Congress, Washington, D.C.</note></bibl>
+
+<bibl><editor n="Carriker, Robert C.">Carriker, Robert C.</editor> and <editor n="Carriker, Eleanor R.">Eleanor R.</editor>, eds., <title level="m">An Army Wife on the Frontier: The Memoirs of Alice Blackwood Baldwin, 1867&#8211;1877</title>. <pubPlace>Salt Lake City</pubPlace>: <publisher>Tanner Trust</publisher>, <date value="1975">1975</date>.</bibl>   
+
+<bibl><author n="Carrington, Frances C.">Carrington, Frances C.</author>  <title level="m">My Army Life and the Fort Phil Kearney Massacre</title>.  <pubPlace>Philadelphia</pubPlace>: <publisher>J. B. Lippincott Company</publisher>, <date value="1910">1910</date>.  <note>Reprint</note>. <pubPlace>Boulder, Co</pubPlace>: <publisher>Pruett Publishing Company</publisher>, <date value="1993">1993</date>.</bibl>   
+
+<bibl><author n="Carrington, Margaret I.">Carrington, Margaret I.</author>  <title level="m">Ab-sa-ra-ka, Home of the Crows: Being the Experiences of an Officer's Wife on the Plains</title>.  <pubPlace>Philadelphia</pubPlace>: <publisher>J. B. Lippincott Company</publisher>, <date value="1869">1869</date>.</bibl>
+
+<bibl><author n="Corbusier, Fanny Dunbar">Corbusier, Fanny Dunbar</author>.  <title level="m">Fanny Dunbar Corbusier: Recollections of Her Army Life, 1869&#8211;1908</title>.  <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="2003">2003</date>.</bibl>  
+
+<bibl><author n="Custer, Elizabeth Bacon">Custer, Elizabeth Bacon</author>.  <title level="m">Boots and Saddles: Life in Dakota With General Custer</title>. <pubPlace>New York</pubPlace>: <publisher>Harper and Brothers Publishers</publisher>, <date value="1885">1885</date>.  <note>Reprint.</note> <pubPlace>New York</pubPlace>: <publisher>Barnes and Noble Publishing, Inc.</publisher>, <date value="2006">2006</date>.</bibl>
+
+ 
+<bibl><author n="Custer, Elizabeth Bacon">________</author>.  <title level="m">Following the Guidon</title>. <pubPlace>New York</pubPlace>:  <publisher>Harper and Brothers</publisher>, <date value="1890">1890</date>.  <note>Reprint.</note>  <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1966">1966</date>.</bibl> 
+ 
+<bibl><author n="Custer, Elizabeth Bacon">________</author>.  <title level="m">Tenting on the Plains; or, General Custer in Kansas and Texas</title>.  <note>3 vols.</note>  <pubPlace>New York</pubPlace>: <publisher>Charles L. Webster</publisher>, <date value="1887">1887</date>.  <note>Reprint.</note>  <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1971">1971</date>.</bibl>
+
+<bibl><editor n="Fougera, Katherine Gibson">Fougera, Katherine Gibson</editor>, ed.  <title level="m">With Custer's Cavalry: From the Memoirs of the Late Katherine Gibson, Widow of Captain Francis M. Gibson of the Seventh Cavalry U.S.A.</title> <pubPlace>Caldwell, Idaho</pubPlace>: <publisher>Caxton</publisher>, <date value="1940">1940</date>. <note>Reprint.</note> <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1986">1986</date>.</bibl>
+
+<bibl><author n="Grierson, Alice Kirk">Grierson, Alice Kirk</author>.  <title level="m">An Army Wife's Cookbook: with Household Hints and Home Remedies</title>. Edited by <editor n="Williams, Mary L.">Mary L. Williams</editor>.  <respStmt><resp>Introduction by</resp> <name reg="Grierson, Alice Kirk">Alice Kirk Grierson and</name> <name reg="Grierson, Sarah Joy">Sarah Joy Grierson</name></respStmt>.  <pubPlace>Tucson</pubPlace>: <publisher>Southwest Parks and Monuments Association</publisher>, <date value="1972">1972</date>.</bibl>  
+
+<bibl><editor n="Howe, George Frederick">Howe, George Frederick</editor>, ed. <title level="a">"Expedition to the Yellowstone River in 1873: Letters of a Young Cavalry Officer."</title>  <title level="j">The Mississippi Valley Historical Review</title> <biblScope type="volume">39</biblScope> (<date value="1952">December 1952</date>): <biblScope type="pages">519&#8211;534</biblScope>.</bibl>
+
+<bibl><editor n="Leckie, Shirley Anne">Leckie, Shirley Anne</editor>, ed.  <title level="m">The Colonel's Lady on the Western Frontier: The Correspondence of Alice Kirk Grierson</title>.  <pubPlace>Lincoln</pubPlace>:  <publisher>University of Nebraska Press</publisher>, <date value="1989">1989</date>.</bibl>
+
+<bibl><editor n="Mattison, Ray H.">Mattison, Ray H.</editor>, ed.  <title level="a">"A Army Wife on the Upper Missouri: The Diary of Sarah E. Canfield, 1866&#8211;1868."</title>  <title level="j">North Dakota History</title> <biblScope type="volume">20</biblScope> (<date value="1953">October 1953</date>): <biblScope type="pages">191&#8211;220</biblScope>.</bibl>  
+
+<bibl><editor n="Miles, Susan">Miles, Susan</editor>, ed.  <title level="a">"Mrs. Buell's Journal, 1877."</title>  <title level="j">Fort Concho and the South Plains Journal</title> <biblScope type="volume">22</biblScope> (<date value="1990">Autumn 1990</date>): <biblScope type="pages">109&#8211;126</biblScope>.</bibl>
+
+<bibl><editor n="Millbrook, Minnie Dubbs">Millbrook, Minnie Dubbs</editor>, ed., <title level="j">"Mrs. General Custer at Fort Riley, 1866."</title> <title level="j">Kansas Historical Quarterly</title>, <biblScope type="volume">40</biblScope> (<date value="1974">1974</date>): <biblScope type="pages">63&#8211;71</biblScope>.</bibl>
+
+<bibl><editor n="Millbrook, Minnie Dubbs">_______</editor>. <title level="a">"Rebecca Visits Kansas and the Custers: The Diary of Rebecca Richmond."</title> <title level="j">Kansas Historical Quarterly</title>, <biblScope type="volume">42</biblScope> (<date value="1976">1976</date>): <biblScope type="pages">366&#8211;402</biblScope>.</bibl>
+
+<bibl><author n="Roe, Frances M. A.">Roe, Frances M. A.</author>  <title level="m">Army Letters From An Officer's Wife, 1871&#8211;1888</title>.  <pubPlace>New York</pubPlace>: <publisher>D. Appleton and Company</publisher>, <date value="1909">1909</date>.  <note>Reprint.</note>  <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1981">1981</date>.</bibl>
+
+<bibl><author n="Sheridan, P. H.">Sheridan, P. H.</author> <title level="m">Outline Descriptions of the Posts in the Military Division of the Missouri, commanded by Lieutenant General P.H. Sheridan</title> (<pubPlace>Chicago</pubPlace>: <publisher>Headquarters, Military Division of the Missouri</publisher>, <date value="1872">1872</date> &amp; <date value="1876">1876</date>).</bibl>
+
+<bibl><author n="Slaughter, Linda W.">Slaughter, Linda W.</author>  <title level="m">Fortress to Farm, or Twenty-three Years on the Frontier</title>. Edited by <editor n="Eastman, Hazel">Hazel Eastman</editor>.  <pubPlace>New York</pubPlace>: <publisher>Exposition Press</publisher>, <date value="1972">1972</date>.</bibl>
+
+<bibl><author n="Slaughter, Linda W.">______</author>.  <title level="a">"The Amazonian Corps: A Romance of the Army."</title> <title level="j">Bismarck Tribune</title> <date value="1874">2 December 1874</date> &#8211; <date value="1875">19 May 1875</date>.</bibl>
+
+ 
+<bibl><editor n="Twitchell, Phillip G.">Twitchell, Phillip G.</editor>, ed. <title level="a">"Camp Robinson Letters of Angeline Johnson."</title> <title level="j">Nebraska History</title> <biblScope type="volume">77</biblScope> (<date value="1996">Summer 1996</date>): <biblScope type="pages">89 &#8211; 95</biblScope>.</bibl>
+
+<bibl><author n="Utley, Robert M.">Utley, Robert M.</author> <title level="m">Life in Custer's Cavalry: Diaries and Letters of Albert and Jennie Barnitz</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1977">1977</date>.</bibl> 
+</div2>
+
+<div2>
+<head>Secondary Sources &#8212; Books</head>
+
+<bibl><author n="Brown, William L. III">Brown, William L. III</author>. <title level="m">The Army Called It Home: Military Interiors of the 19th Century</title>.  <pubPlace>Gettysburg, PA</pubPlace>: <publisher>Thomas Publications</publisher>, <date value="1992">1992</date>.</bibl>
+
+<bibl><author n="Burkey, Blaine">Burkey, Blaine</author>.  <title level="m">Custer, Come At Once! The Fort Hays Years of George and Elizabeth Custer 1866&#8211;1870</title>.  <pubPlace>Fort Hays, Kansas</pubPlace>: <publisher>Thomas More Prep</publisher>, <date value="1976">1976</date>.  <note>Reprint.</note> <publisher>Society of Friends of Historic Fort Hays</publisher>, <date value="1992">1992</date>.</bibl>
+
+<bibl><author n="Campbell, Robin Dell">Campbell, Robin Dell</author>.  <title level="m">Mistresses of the Transient Hearth: American Army Officers' Wives and Material Culture, 1840&#8211;1880</title>.  <pubPlace>New York</pubPlace>: <publisher>Routledge</publisher>, <date value="2005">2005</date>.</bibl>
+
+<bibl><author n="Coffman, Edward M.">Coffman, Edward M.</author>  <title level="m">The Old Army: A Portrait of the American Army in Peacetime, 1784&#8211;1898</title>.  <pubPlace>New York</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1986">1986</date>.</bibl>
+
+<bibl><editor n="Cox-Paul, Lori A.">Cox-Paul, Lori A.</editor> and <editor n="Wengert, James W.">James W. Wengert</editor>, eds.  <title level="m">A Frontier Army Christmas</title>.  <pubPlace>Lincoln</pubPlace>: <publisher>Nebraska State Historical Society</publisher>, <date value="1996">1996</date>.</bibl>
+
+<bibl><author n="Eales, Anne Bruner">Eales, Anne Bruner</author>.  <title level="m">Army Wives on the American Frontier:  Living by the Bugles</title>. <pubPlace>Boulder</pubPlace>:  <publisher>Johnson Books</publisher>, <date value="1996">1996</date>.</bibl> 
+
+<bibl><author n="Frost, Lawrence A.">Frost, Lawrence A.</author>  <title level="m">General Custer's Libbie</title>.  <pubPlace>Seattle</pubPlace>:  <publisher>Superior Publishing Co.</publisher>, <date value="1975">1975</date>.</bibl>
+
+<bibl><author n="Georgi-Findlay, Brigitte">Georgi-Findlay, Brigitte</author>.  <title level="m">The Frontiers of Women's Writing: Women's Narratives and the Rhetoric of Westward Expansion</title>. <pubPlace>Tucson</pubPlace>: <publisher>The University of Arizona Press</publisher>, <date value="1996">1996</date>.</bibl>
+
+<bibl><author n="Jeffrey, Julie Roy">Jeffrey, Julie Roy</author>.  <title level="m">Frontier Women: The Trans-Mississippi West, 1840&#8211;1880</title>.  <pubPlace>New York</pubPlace>: <publisher>Hill and Wang</publisher>, <date value="1979">1979</date>.</bibl>
+
+<bibl><author n="Leckie, Shirley A.">Leckie, Shirley A.</author>  <title level="m">Elizabeth Bacon Custer and the Making of a Myth</title>.  <pubPlace>Norman</pubPlace>:  <publisher>University of Oklahoma Press</publisher>, <date value="1993">1993</date>.</bibl>  
+
+<bibl><author n="Leckie, Shirley A.">________</author>.  <title level="a">"Gender as a Force in History and Biography: Examining the Custer Myth through the Prism of Domestic Ideals."</title>  <title level="j">North Dakota History</title>, <biblScope type="volume">64</biblScope> (<date value="1997">1997</date>): <biblScope type="pages">16&#8211;27</biblScope>.</bibl> 
+
+
+
+<bibl><editor n="Merrington, Marguerite">Merrington, Marguerite</editor>, ed.  <title level="m">The Custer Story: The Life and Intimate Letters of General George A. Custer and His Wife Elizabeth</title>.  <pubPlace>New York</pubPlace>: <publisher>Devon-Adair</publisher>, <date value="1950">1950</date>.  <note>Reprint.</note> <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press, Bison Books</publisher>, <date value="1987">1987</date>.</bibl>
+
+<bibl><author n="Myres, Sandra L.">Myres, Sandra L.</author>  <title level="a">"The Ladies of the Army: Views of Western Life."</title>  <title level="m">The American Military on the Frontier.  Proceedings of the Seventh Military History Symposium.</title> USAF Academy 1976.  <pubPlace>Washington, D.C</pubPlace>: <publisher>Office of Air Force History</publisher>, <date value="1978">1978</date>.</bibl>
+ 
+
+<bibl><author n="Nacy, Michele J.">Nacy, Michele J.</author>  <title level="m">Members of the Regiment: Army Officers' Wives on the Western Frontier, 1865&#8211;1890</title>.  <publisher>Greenwood Press</publisher>, <date value="2000">2000</date>.</bibl>  
+
+<bibl><author n="Nye, W. S.">Nye, W. S.</author>  <title level="m">Carbine and Lance: The Story of Old Fort Sill</title>.  <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1937">1937</date>.</bibl>  
+
+<bibl><author n="Smith, Sherry">Smith, Sherry</author>.  <title level="m">View from Officers' Row: Army Perceptions of Western Indians</title>.  <pubPlace>Tucson</pubPlace>: <publisher>University of Arizona Press</publisher>, <date value="1990">1990</date>.</bibl>
+ 
+<bibl>
+<author n="Stallard, Patricia Y.">Stallard, Patricia Y.</author>  <title level="m">Glittering Misery: Dependents of the Indian Fighting Army</title>. <pubPlace>Norman</pubPlace>:  <publisher>University of Oklahoma Press</publisher>, <date value="1992">1992</date>.</bibl>
+
+<bibl><author n="Steinbach, Robert H.">Steinbach, Robert H.</author>  <title level="m">A Long March: The Lives of Frank and Alice Baldwin</title>.  <pubPlace>Austin</pubPlace>: <publisher>University of Texas Press</publisher>, <date value="1989">1989</date>.</bibl>
+
+<bibl><author n="Wherry, Maryan">Wherry, Maryan</author>.  <title level="a">"Women on the Western Military Frontier: Elizabeth Bacon Custer."</title>  In <title level="m">Nineteenth-Century Women Learn to Write</title>, edited by <editor n="Hobbs, Catherine">Catherine Hobbs</editor>.  <pubPlace>Charlottesville</pubPlace>:  <publisher>University Press of Virginia</publisher>, <date value="1995">1995</date>.</bibl>
+</div2>
+
+<div2>
+<head>Secondary Sources &#8212; Articles</head>
+
+<bibl><author n="Baker, Anni P.">Baker, Anni P.</author> <title level="a">"Daughters of Mars: Army Officers' Wives and Military Culture on the American Frontier."</title> <title level="j">The Historian</title> <biblScope type="volume">67</biblScope> (<date value="2005">2005</date>): <biblScope type="pages">20&#8211;42</biblScope>.</bibl>
+
+<bibl><author n="Campbell, Julie A.">Campbell, Julie A.</author> and <author n="Brandt, Brenda">Brenda Brandt</author>.  <title level="a">" 'No Seamstresses, No Ready-Made Clothing' Clothing Consumption on the American Frontier, 1850&#8211;1890."</title>  <title level="j">Clothing and Textiles Research Journal</title> <biblScope type="volume">12</biblScope> (<date value="1994">1994</date>): <biblScope type="pages">16&#8211;21</biblScope>.</bibl> 
+
+<bibl><author n="Leckie, Shirley">Leckie, Shirley</author>.  <title level="a">"Reading Between the Lines: Another Look at Officers' Wives in the Post-Civil War Frontier Army."</title> <title level="j">Military History of the Southwest</title> <biblScope type="volume">19</biblScope> (<date value="1989">Fall 1989</date>): <biblScope type="pages">137&#8211;160</biblScope>.</bibl>
+
+<bibl><author n="Leonard, Thomas C.">Leonard, Thomas C.</author>  <title level="a">"Red, White and the Army Blue: Empathy and Anger in the American West."</title>  <title level="j">American Quarterly</title> <biblScope type="volume">26</biblScope> (<date value="1974">May, 1974</date>): <biblScope type="pages">176&#8211;190</biblScope>.</bibl>
+
+<bibl><author n="McInnis, Verity">McInnis, Verity</author>.  <title level="a">" 'Ladies' of the Frontier Forts."</title> <title level="j">Military History of the West</title> <biblScope type="volume">35</biblScope> (<date value="2005">2005</date>): <biblScope type="pages">35&#8211;56</biblScope>.</bibl>
+
+<bibl><author n="Nelson, Vance E.">Nelson, Vance E.</author>  <title level="a">"Fort Robinson During the 1880s: An Omaha Newspaper Man Visits the Post."</title>  <title level="j">Nebraska History</title> <biblScope type="volume">55</biblScope> (<date value="1974">Summer 1974</date>): <biblScope type="pages">181&#8211;202</biblScope>.</bibl>
+
+<bibl><author n="Stewart, Miller J.">Stewart, Miller J.</author>  <title level="a">"Army Laundresses: Ladies of the 'Soap Suds Row.' "</title> <title level="j">Nebraska History</title> <biblScope type="volume">61</biblScope> (<date value="1980">1980</date>): <biblScope type="pages">421&#8211;436</biblScope>.</bibl>
+
+<bibl><author n="Myres, Sandra L.">Myres, Sandra L.</author>  <title level="a">"Frontier Historians, Women, and the 'New' Military History."</title> <title level="j">Military History of the Southwest</title> <biblScope type="volume">19</biblScope> (<date value="1989">Spring 1989</date>): <biblScope type="pages">27&#8211;37</biblScope>.</bibl> 
+
+<bibl><author n="Myres, Sandra L.">_____</author>.  <title level="a">"Army Women's Narratives as Documents of Social History: Some Examples from the Western Frontier, 1840&#8211;1900."</title> <title level="j">New Mexico Historical Review</title> <biblScope type="volume">65</biblScope> (<date value="1990">April 1990</date>): <biblScope type="pages">175&#8211;198</biblScope>.</bibl> 
+ 
+
+<bibl><author n="Williams, Mary L.">Williams, Mary L.</author>  <title level="a">"Ladies of the Regiment: Their Influence on the Frontier Army."</title>  <title level="j">Nebraska History</title> <biblScope type="volume">78</biblScope> (<date value="1997">Winter 1997</date>): <biblScope type="pages">158&#8211;164</biblScope>.</bibl>
+
+<bibl><author n="Wood, Cynthia">Wood, Cynthia</author>. <title level="a"> "Army Laundresses and Civilization on the Western Frontier."</title>  <title level="j">Journal of the West</title> <biblScope type="volume">41</biblScope> (<date value="2002">Summer 2002</date>): <biblScope type="pages">26&#8211;34</biblScope>.</bibl>
+
+</div2>
+</div1>
+
+
+</body>
+</text>
+</TEI>
+
+
+
+ 
+ 
+
+
+
+
+
+
+

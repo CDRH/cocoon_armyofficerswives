@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.vii.0008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">So Wholly Unlike Cooper's Indians: Army Women and Plains Indians</title>
+<title level="m" type="sub">Conclusion</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vii.0008</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Conclusion</head>
+<div1>
+
+
+<p>Though it took her three decades and the accumulation of many life experiences on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>, <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Slaughter</persName> ultimately drew on hindsight and her former proximity to the "Indian question" to re-think her relation to the process of conquest and the consequences of confinement of Indians to reservations.  Few other officers' wives, though intelligent and not entirely unsympathetic observers, were able to set aside their personal history to write memoirs that fairly assessed the conflict on the <placeName rend="Region" reg="Great Plains">Plains</placeName>, nor report without prejudice on the customs of Indian families they met.  They defended their husbands' actions even while condemning the policies the Army carried out.  Though their confusion obscures some of the meaning of their letters and memoirs, if we are to understand the legacy of racism we need to read these books and letters carefully.  We won't find a consistent expression of racial hatred, nor of Christian, womanly concern for the lives of women and children.  But we will find a history of the creation of social and economic racism through fear, ignorance, prejudice, and gendered constructions of feminine behavior that shaped the lives of most Army women, but did not apply to Indian women.</p>
+
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vii.0007" type="prev"/>
+</item>
+
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

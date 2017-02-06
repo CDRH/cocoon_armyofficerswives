@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG2787-2 SYSTEM "aow.img.RG2787-2.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG3126-2-53 SYSTEM "aow.img.RG3126-2-53.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.v.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"Much Depends On a Wife": Personal Relationships and Family Life</title>
+<title level="m" type="sub">The Army Marriage</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.v.0002</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>The Army Marriage</head>
+<div1>
+
+<p><persName reg="Baldwin, Frank">Frank</persName> and <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName> were devoted to each other, but often disagreed on the qualities of their relationship.  <persName reg="Baldwin, Frank">Frank</persName> held a fairly rare view (for Army officers) of marriage and the role of an officers' wife.  He scolded her when she failed to meet his expectations which were Victorian, and not practical for Army marriages.</p>
+
+<quote>
+Be an ornament to . . . society, which you are fully competent and able to be, although you may not have all the finery that a few others may have, remember that true greatness lays [sic] in an honest, true, and upright heart, and feel, my darling, that you can by your interests in me and my welfare do a great deal to aid me . . . . You know how much depends on a wife. I believe most fully she can and will cheer her husband in hours of darkness when his prospects are gloomy and improsperous.  (Steinbach, p. 105).</quote>
+ 
+<figure entity="aow.img.RG2787-2">
+<figDesc>Figure 2.  <persName reg="Long, D.B.">Lt.</persName> and <persName reg="Long, Mrs. D.B.">Mrs. D. B. Long</persName>, ca. 1866. This young married couple lived at <placeName rend="Military Post" reg="Fort Dodge" key="dodge">Fort Wallace</placeName>, <placeName rend="State\Territory" reg="Kansas">Kansas</placeName>.  Courtesy Nebraska State Historical Society Photograph Collection RG2787.PH.0.2</figDesc>
+</figure>
+
+<p>Few women, including <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName>, could meet <persName reg="Bladwin, Frank">Frank Baldwin</persName>'s highly restrictive definition of an Army wife.  Women who had to make the daily effort to procure and manage household help, prepare nourishing and interesting meals from Army rations with or without kitchen help, care for and educate their children, and pack up and move whenever the Army or a superior officer required it, had to have more substance of character than mere ornamentation.  Successful and happy Army officers' wives were far sturdier than the cheerful, but vapid, companion <persName reg="Bladwin, Frank">Baldwin</persName> described, and they took advantage of periods of separation to express in writing their ideas of what a good marriage might be.</p>
+
+<p><persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> wrote to <persName reg="Grierson, Benjamin">Ben</persName> about her understanding of a good marriage:
+<quote>
+I want always to have my husband the male head of the establishment I live in, and I of course want to be the female head.<lb/>
+. . .<lb/>
+Before we were married I told you I wanted a certain amount of money of my own, to use just as a husband does, exactly as he pleases, or thinks right or proper. . . . You know of course there never has been such an arrangement, and I never have been, and don't know that I ever shall be quite satisfied without it, unless you should come <hi rend="italic">really</hi> to think the money you earn, as much mine as yours, which you certainly do not now.</quote>
+
+In the same letter, Alice suggested that Ben might think back to their courtship days and in so doing, might fall
+<quote>
+in love with me over again, so deeply too, that you almost entertained the absurd idea, that an earnest &#8212; truthful &#8212; woman might perhaps have as clear, and just, notions of right and wrong in even business matters as a man. (Leckie, p. 13&#8211;14)</quote></p>
+
+<p>Outspoken women such as <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> managed well in the Army.  Spunk may have been a quality that most officers (other than <persName reg="Baldwin, Frank">Frank Baldwin</persName>) respected in women.  That attitude which revealed itself as assertiveness in some circumstances, and as a cool commitment to duty in others, may have been considered abrasive in eastern women of upper middle-class standing.  Among Army women it served to stiffen a woman's resolve when her husband rode out on a campaign.  Not knowing if her husband would return from a campaign alive and well was a tremendous burden which officers' wives lived with constantly until the Battle of the Little Big Horn (1876) which brought an end to most hostilities on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  Until the command returned to the post, the women were to wait patiently, occupying themselves as well as possible.</p>
+
+<p><persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> gave her fictional commanding officer's wife the characteristics necessary for women in the frontier Army.  
+<quote>
+Mrs. General Ristenbatt stood beside her husband, and bore herself loftily, as became the wife of a soldier and distinguished General.  She was devoted to her husband, but her notions of duty were as unflinching as his own.  Hence wither he was ordered on an arduous and dangerous enterprise, she accepted it even as he did, as a trust committed to his honor, and like him would have spared no pains, nor left no duty unperformed that would contribute to its success or assist him to fulfill the perilous mission in a manner worthy of himself and of his government. (Slaughter, "The Amazonian Corps," 12 May 1875)</quote></p>
+
+<p>Though a young bride might shed tears at parting from her husband, a woman was expected to grow in her patriotic and wifely duty, and become an example to others.
+<quote>
+Mrs. General Ristenbatt is too old a soldier to shed tears at a three month's parting from her husband.  Her heart is heavy with apprehension, and she will miss her dear old General, sadly.  But she makes her farewells calmly, and embraces him without a tear.  Then when the old hero has vaulted into his saddle, . . . and gallops off to join the moving train, she watches him so long as he remains in sight through a glass held with a steady hand to her earnest eyes, . . . and then with a deep drawn sigh of sad foreboding, goes slowly back to the Fort to comfort [others].  (Slaughter, "The Amazonian Corps," 12 May 1875)</quote></p>
+
+<p>Many officers' wives took pride in their emotional and physical strength.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett Gibson</persName> quickly learned what was required of an officers' wife and loved Army life.  Assigned to Reconstruction duty in <placeName rend="State\Territory" reg="Louisiana">Louisiana</placeName>, the Gibsons lived in civilian housing in <placeName rend="City\Town" reg="New Orleans, Louisiana">New Orleans</placeName> where <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> met an officer's wife who had not lived in the West.  The woman fainted easily, a habit, <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> assumed, that she practiced 
+<quote>
+at the slightest provocation . . . . Fainting became the latest craze, and Mrs. ___ had the art down to a science.  Moreover, she learned it was a potent medium to attract men's attentions, bringing out their chivalrous and protective qualities admirably. (Fougera, p. 208)</quote>
+<persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> considered the behavior shameful in its deceit, and certainly useless on the frontier.</p>
+
+<p><persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> was frail and often unwell, but still could draw on surprising strength when required.   While stationed in <placeName rend="State\Territory" reg="Texas">Texas</placeName>, the young mother was riding in a carriage with her children, when she noticed the soldier-driver was so drunk that he was about to fall out of the seat.  She climbed through the window to the driver's seat, and took the reins of the galloping horses.  Lacking the strength to slow the horses, she guided them back to her quarters where <persName reg="Biddle, James">Colonel Biddle</persName> grabbed the bridles and stopped the team.  She can hardly be faulted for fainting from relief.  (Biddle, p. 68&#8211;69)  Her story illustrates the strength Army wives had to draw on to protect themselves and their children.  In this case, it was a custom of Army life that put her in harm's way, as it was her husband who ultimately rescued her.  Those same elements frame the stories that many officers' wives tell.</p>
+
+<p>Though many officers' wives found life at a frontier post very liberating, in their marriage relationships, they were subject to their husband's control.  At times, husbands issued "orders" which provided for basic protection of their wives and the other women in their company even though the women resented such restrictions.  At other times, husbands regulated their wives behavior for their own needs.</p>
+
+
+<p>Shortly before her marriage to <persName reg="Gibson, Frank">Frank Gibson</persName>, <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett</persName>, her sister <persName reg="McIntosh, Mollie">Mollie McIntosh</persName>, and several other women accompanied officers on a bison hunt near <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>.  Most of the women traveled to the site of the hunt in an Army ambulance, but <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> and <persName reg="McIntosh, Mollie">Mollie</persName> rode horseback.  The women were given clear and firm orders to avoid becoming involved in the actual pursuit and shooting of the bison, but a large bull ran toward them, putting <persName reg="McIntosh, Mollie">Mollie</persName> in danger.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> killed the bull with the small handgun she carried, was thrown from her horse, and fell unconscious to the ground.  When she awoke, <persName reg="Gibson, Frank">Frank</persName> and his commanding officer, <persName reg="Custer, George Armstrong">Armstrong Custer</persName>, scolded her for disobeying orders.  Her protests that she killed the bull to defend <persName reg="McIntosh, Mollie">Mollie</persName> were not sufficient to overturn her disobedience. <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> had learned a bewildering lesson about the military discipline that would govern her life as an Army wife. (Fougera, 152&#8211;155)</p>
+
+<p><persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> doted on <persName reg="Custer, George Armstrong">Armstrong</persName> and did her best to make his life comfortable and happy.  Though she does not reveal in her memoirs any discontent with her marriage, she notes that his rules were occasionally too restrictive.  As a commanding officer's wife, she had to entertain almost daily and had "excellent servants" to do most of the household work.  <persName reg="Custer, George Armstrong">Colonel Custer</persName>, however, exacted from her a "promise that I would never go [to the kitchen] for more than a moment."  She "never forgot to be grateful that I was spared domestic care in garrison." (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 93)</p>
+
+<p><persName reg="Custer, George Armstrong">Armstrong</persName>'s restrictions extended to <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName>'s social life as well.  <persName reg="Custer, George Armstrong">Custer</persName> enjoyed her company while he read or wrote his memoirs in the library of their elegant home at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName> and frequently called her away from visitors to join him there.  One evening when she and a friend were visiting other officers' wives in their quarters with a friend, <persName reg="Custer, George Armstrong">Custer</persName> sent an orderly who was to retrieve her by saying, "'The general presents his compliments, and would like to know when he shall send the trunks?'"  Though couched in humor, it was clear that <persName reg="Custer, George Armstrong">Col. Custer</persName> controlled <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName>'s social life completely. (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 107)</p>
+
+<figure entity="aow.img.RG3126-2-53">
+<figDesc>Figure 3.  <persName reg="Custer, George Armstrong">Armstrong</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> in the library of their home at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>, 1873.   They often spent time together in the library while their guests entertained themselves in the parlor.  Courtesy Nebraska State Historical Society Photograph Collection RG 3126.PH.0.0.</figDesc>
+</figure> 
+
+
+<p>Officers' wives also expected and encouraged socially and morally appropriate behaviors of their husbands.  In this way, they conformed to the widespread expectation that middle-class women would exert a moral influence on their husbands. Army life at a frontier post offered plenty of opportunity for misbehavior.  <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> encouraged her husband to give up bad habits.  He wrote to her from <placeName rend="Military Post" reg="Fort Hays" key="hays">Fort Hays</placeName> that he had given up "cussing" and that he had not 
+<quote>
+drank any toddies, and haven't chewed any [tobacco] since the Virginia-leaf disappeared.  I don't think I will buy another pipe as you recommend, for a pipe is a very inconvenient thing when one is on the march. . . . . (Utley, p. 152)</quote></p>
+
+
+<p><persName reg="Gibson, Frank">Frank Gibson</persName>'s mother thought that his marriage to <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett</persName> would help him "safeguard some of the habits of refinement that must be lacking that rough country, and which he had missed." (Fougera, p. 180)  It was just such "habits of refinement" that <persName reg="Sherman, William T.">General Sherman</persName> hoped that the presence of officers' wives would ensure on the frontier.  Too often officers sought relief from boredom with alcohol and illicit sexual relations.  Drunkenness was widespread among enlisted men and officers.  <persName reg="Barnitz, Albert">Albert Barnitz</persName>'s letters to <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> were full of references to officers too drunk to execute their duties.  (Utley, pp. 125&#8211;127)  Tension increased between <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice</persName> and <persName reg="Bladwin, Frank">Frank Baldwin</persName> because of his drinking. (Steinbach, p. 164).  At <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName>, among the problems that <persName reg="Grierson, Benjamin">Col. Grierson</persName> had to deal with was an illicit affair between an officer and the wife of another officer.  So visible was their relationship, that <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> was informed of the matter by her eleven year old son. (Leckie, 56&#8211;57)  Though officers' wives could not always assure that their husbands would be exemplars of behavior (and the women were subject to some of the same temptations themselves) they established standards of civility and morality that tended to limit personal corruption of both married and unmarried officers.</p>
+
+<p>Life on the frontier gave officers' wives the freedom to ride, hunt, fish, and participate in other outdoor activities.  Those activities took place in the company of their husbands and/or reliable officers and were generally considered to be well within the bounds of properly feminine behavior.  However, those who stepped beyond the bounds of good behavior were subject to gossip and their husbands might encounter diminished career opportunities.  <persName reg="Sokalski, Annie">Annie Sokalski</persName>, like many officers' wives, rode horseback, carried handguns, and hunted.  But her appearance, her refusal to bend to Victorian notions of feminine behavior, and gossip about the nature of her marriage placed her in a different category from other Army women.  <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond (Carrington)</persName> met the recently widowed <persName reg="Sokalski, Annie">Sokalski</persName> while traveling home from <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>.  <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Mrs. Grummond</persName> was astonished when <persName reg="Sokalski, Annie">Annie Sokalski</persName>
+<quote>
+flourished into the room with her two favorite dogs, Romeo and Juliet, . . . unbuckled her belt from which two revolvers were suspended and handed them to the lieutenant with these laconic instructions: 'have these pistols repaired at once, and see to it that the same are returned, for if exchanged or otherwise appropriated I can identify them anywhere in the United States.'  (F. Carrington, p. 208&#8211;209)</quote></p>
+
+<p><persName reg="Sokalski, Annie">Annie Sokalski</persName> was also known for her outlandish riding habit which was made of wolf-skin with wolf tails attached to the hem of the skirt.  More wolf-tails draped from her fur hat.  Her appearance outraged <persName reg="Sherman, William T.">General Sherman</persName> who asked, "'What the devil of a creature is that?'" (F. Carrington, p. 209)  It had been rumored at <placeName rend="Military Post" reg="Camp Cottonwood" key="cottonwood">Camp Cottonwood</placeName> that <persName reg="Sokalski, Captain">Captain Sokalski</persName> beat his wife, and when he was investigated for irregularities in monthly reports, the investigating officer saw an opportunity to have him charged with misconduct for violence against his wife.  In order to determine whether that was true, the officer questioned the strikers who served in the Sokalskis' home.  <persName reg="Sokalski, Annie">Annie</persName>, offended by the invasion of her privacy, stormed into his office and addressed the officer as a "'dammed [sic] dirty little peep.'" (quoted in Eales, p. 124)  When <persName reg="Sokalski, Captain">Captain Sokalski</persName> was eventually court-martialed for an offense against a fellow officer, <persName reg="Sokalski, Annie">Annie</persName> attempted to testify at his trial.  The presiding officer refused to let her testify, but her very public support and defense of her husband suggested a stronger marital bond than most who knew them would have suspected. (Stallard, p. 108)</p>
+
+<p>Though all of these couples faced many obstacles in their attempt to balance the demands of duty with the equally powerful demands of family life, many Army marriages were affectionate and happy.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName>'s marriage had an almost fairy tale quality, and she dedicated her book to her husband <persName reg="Roe, Fayette">Faye</persName>, calling him "My Comrade."  Though <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> eventually divorced her husband, her affection for him did not diminish and she married him again, and one more time after a second divorce.  <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Carrington</persName> described <persName reg="Horton, Mrs.">Mrs. Horton</persName>'s officer husband  as "her lover-husband . . . ready always to second her efforts."  (Carrington, p. 107)</p>
+
+<p>The Griersons struggled to forge equality in their relationship and suffered during lengthy separations, but their affection remained strong.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> described the Army marriage when she wrote to <persName reg="Grierson, Benjamin">Ben</persName> that "the comfort of a family depends much more upon the family <hi rend="italic">being together</hi> in love, than on the house they are quartered in . . . ." Though she eventually declared the necessity of separation in order to prevent another pregnancy, the affection in their marriage is quite apparent.  (Leckie, p. 30)</p>
+
+<p>Officers often expressed deep affection for their wives, a custom that was common among young couples of the late nineteenth century.  The sentiment between husband and wife served <persName reg="Sherman, William T.">General Sherman</persName>'s plan for conquest of the Plains well.  The officers had a duty to respond to orders that enacted federal Indian policy, but they also had to consider the safety of their wives and children.  The presence of wives and children at frontier posts intensified the officers' commitment to duty and clarified any doubts (and they often doubted) they may have entertained about the consequences of federal Indian policy.</p>
+
+<p>Though <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> protested that only rarely was an officer unkind to his wife, there are some examples of distressed marriages.  The Sokalskis' marriage would be one example.  Rumors of <persName reg="Sokalski, Captain">Capt. Sokalski</persName>'s mistreatment of his wife contributed to discord between him and other officers.  <persName reg="Baldwin, Frank">Frank</persName> and <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName>'s marriage was filled with tensions over his alcoholism and her frustration at not being able to meet his expectations of the ideal Army wife.  According to their biographer, <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie</persName> sometimes called <persName reg="Baldwin, Frank">Frank</persName> a "'damned bastard,'" and <persName reg="Baldwin, Frank">Frank</persName> was known to have slammed the door in her face.  (Steinbach, p. 164)</p>
+
+<p>The Custers thought that only an officer who had spent a "long life among Indians, and having the treatment of the squaw before him, would cause a man to act with  . . . brutality."  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 93)  However, it was not the example of Indians, whose affection for their spouses was often evident to officers and their wives, but a mismatch of temperament, alcoholism, or conflict of interests that set couples such as the Baldwins to quarreling.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName> was never able to live up to <persName reg="Baldwin, Frank">Frank</persName>'s carefully contrived formula for his wife.  She wanted to sing for audiences (which he refused to allow) and to have a purposeful life in her own name.  She wrote to <persName reg="Baldwin, Frank">Frank</persName> saying that she was proud of his successful military career, but that life was much different for her.
+<quote>
+You are living a life fraught with peril and excitement. Your mental and physical powers are kept in constant service. . . . And you are living the life you love.  That's everything and besides all this you are a man!  Now look at me.  I am a woman with all the love and anxiety of a wife for the man she loves. I have no stirring scenes to pass through. . . .  I am not living the life I love.  All I have to do are a few paltry duties and that makes up my daily life. (Steinbach,  p. 81)</quote></p>
+
+<p>Marriage was advantageous to both husband and wife.  Men enjoyed a comfortable home, a social and sexual companion, and the affection of wife and children.  A wife who was "a good soldier" could help advance her husband's career through her social skills and support.  In addition, Army custom sometimes allowed married officers a "post of favor" &#8212; to remain at a garrison rather than go into the field. (Utley, p. 142)  Married women at military posts often encouraged bachelor officers to marry. <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName>'s sister-in-law <persName reg="Calhoun, Maggie">Maggie Calhoun</persName>, also an officer's wife, accused <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> of greeting officers newly assigned to <persName reg="Custer, George Armstrong">Custer</persName>'s command with "I am very glad to see you; I hope that you are engaged."  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 165)  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Mrs. Custer</persName> believed that marriage would help the young men withstand the temptations of drink and gambling that filled the long hours of winter.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName>, however, like many of the officers' wives, also believed that an Army marriage was good for women.  A woman's role in the Army was "privileged" because they were aiding the soldiers in "opening up the country to civilization."  She encouraged <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett</persName> to accept <persName reg="Gibson, Francis">Lt. Gibson</persName>'s marriage proposal by assuring her that "we are the pioneer army women, and we're proud of it."  (Fougera, p. 136&#8211;137)</p>
+
+<p>Social life at frontier posts centered around married couples.  They hosted frequent dinners, parties, hops, and evening gatherings.  Officers were expected to pay a social call on the wives of the men they served with and the wives of their commanding officers.  Social relations implied more than good manners; they provided the substance which bound the officers to one another in loyalty.  <persName reg="Barnitz, Albert">Albert Barnitz</persName>, who served in <persName reg="Custer, George Armstrong">Custer</persName>'s command, limited his social involvement with the Custers, refusing to pay calls on <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName>, though he liked her and she was always kind to <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName>.  <persName reg="Barnitz, Albert">Albert</persName> understood that socializing with <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> and her social circle would obligate him to show respect towards <persName reg="Custer, George Armstrong">Col. Custer</persName>, a position he found impossible to manage because of <persName reg="Custer, George Armstrong">Custer</persName>'s "unfeeling treatment of enlisted men . . . and shameful discourtesy to officers."  Because of his stance, <persName reg="Barnitz, Albert">Albert</persName> refused to let <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> join him at Fort Hays knowing her presence would necessarily require social relations with the Custers. (Utley, p. 52)</p>
+
+<p>Life in the Army provided women with a life of adventure they could never have imagined in their eastern homes.  When adventure turned to danger, the women believed that they could count on their husbands for the ultimate act of love &#8212; to shoot her to prevent her capture by Indians.  Though no official standing orders to this effect were ever issued, the women assumed that all officers would accept the duty to protect them from torture and death or from lengthy captivity should a post be overrun by hostile Indians.  Only a few of the officers' wives experienced imminent danger.  When <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> was attacked, several of the officers' wives panicked and left their quarters, though they were under orders to remain in their homes in case of attack.  Not knowing what to do, one of them said, "'The Indians are between the fort and the river, . . . we must try to reach our husbands.  They will not let us be taken alive.'" (Slaughter, <hi rend="italic">Fortress to Farm</hi>, p. 40).  Shortly after the Fetterman massacre in 1866, <persName reg="Carrington, Henry">Colonel Carrington</persName> gave explicit orders for protection of women and children in case of attack on <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>.  They were to be placed in the powder magazine with water and food, and "in the event of a last desperate struggle, destroy all together, rather than have any captured alive." (F. Carrington, p. 154).  There is no record of any officers' wife being captured, nor killed intentionally or accidentally for such reasons, but many took comfort in knowing that they would not become victims of the <placeName rend="Region" reg="Great Plains">Plains</placeName> wars.</p>
+
+<p>Despite physical discomfort, sudden transfers, and the constant fear of her husband's death, many officers' wives loved Army life and had sound, happy marriages.  Army marriages differed from other middle-class marriages of the nineteenth century by the role of the Army as the third partner and the requirement that an Army bride transform herself into a "good soldier" who had the nearly impossible task of maintaining a middle-class existence under extraordinary circumstances.</p>
+
+</div1>
+ 
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.v.0001" type="prev"/>
+</item>
+<item>
+<xptr n="aow.v.0003" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

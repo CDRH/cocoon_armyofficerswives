@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG4488-55 SYSTEM "aow.img.RG4488-55.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG4488-22 SYSTEM "aow.img.RG4488-22.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.vii.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">So Wholly Unlike Cooper's Indians: Army Women and Plains Indians</title>
+<title level="m" type="sub">Women and Children</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vii.0005</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Women and Children</head>
+<div1>
+ 
+
+<p>Army officers' wives interacted directly with Indian women in a variety of ways but many of these encounters reveal cross-cultural understanding which surpassed pre-conceived ideas about race and civilized society.  In mid-April, 1877, <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline Johnson</persName>, along with two other officers' wives, paid a call on <persName reg="Red Cloud">Red Cloud</persName>'s wife, identifying her in the Anglo tradition, as <persName reg="Pretty Owl">Mrs. Red Cloud</persName>.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Mrs. Johnson</persName>'s husband was acting agent at the Red Cloud agency.  <persName reg="Red Cloud">Red Cloud</persName> was an important war and civil leader of the Oglalas who had led his people to the agency near <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName>.  Paying a visit to <persName reg="Red Cloud">Red Cloud</persName>'s wife, <persName reg="Pretty Owl">Pretty Owl</persName>, in her tipi home, was the proper social custom of middle-class women.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline</persName> found <persName reg="Pretty Owl">Pretty Owl</persName> in mourning for the death of her niece and "not well."  We don't know <persName reg="Pretty Owl">Pretty Owl</persName>'s response, but <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Johnson</persName> was interested in the mourning customs and was pleased to have entered a tipi for the first time.  (Johnson, p. 92)</p>
+
+<figure entity="aow.img.RG4488-55">
+<figDesc>Figure 2. A child stands near <persName reg="Red Cloud">Red Cloud</persName>'s tipi near <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in 1895.  Presumably <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline Johnson</persName>'s visit to <persName reg="Pretty Owl">Pretty Owl</persName> took place in a similar setting. Courtesy Nebraska Historical Society Photographic Collection RG 4488.PH.O.3.</figDesc>
+</figure>
+ 
+<p>A similar cultural encounter occurred at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName> when the wives of the Arikara scouts approached the Custers' quarters and honored them with a dance.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> characteristically referred to the dance as "mummery," but, minding her manners and her role as the wife of the commanding officer, walked onto the porch to thank them.  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 101)</p>
+
+<p>The wife of <persName reg="Iron Bull">Iron Bull</persName>, a Crow woman of high standing, called on <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> at <placeName rend="Military Post" reg="Fort C. F. Smith" key="smith">Fort C. F. Smith</placeName> one spring day in 1867.  She was dressed for a social visit in her best buckskin dress and had her daughter <persName rend="bio" reg="Pinahawney">Pinahawney</persName> and several other women with her.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Burt</persName> thought that they wanted to see her sister, assuming that Indians would be fascinated by her blond hair.  The interpreter told <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Burt</persName>, however, that they had come to see the new Burt baby and wanted to hold it.  Cautiously, <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth</persName> watched as the women "held the little one . . . and with an admiring smile and comments passed her to the next [woman]."  After each woman had held the baby, they then asked to see <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth</persName>'s dresses.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth</persName> agreed, believing this interest to be universal in women whose "curiosity was aroused to see the clothing and modes of living so different from their own." (Burt, pp. 169&#8211;171)  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Burt</persName> explained this visit in terms of her whiteness and strangeness to the Crow women.  Her own curiosity about the Crow women was, however, tempered by her concern about their personal cleanliness and the reputation the Crows had for thievery. (Burt, p. 158)</p>
+
+<p><persName reg="Canfield, Sarah">Sarah Canfield</persName> had an experience that was similar to that of <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName>'s.  A sensitive observer, <persName reg="Canfield, Sarah">Canfield</persName> learned a lot about herself and her position as a newcomer to the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  As she walked with her husband through a village near <placeName rend="Military Post" reg="Fort Berthold" key="berthold">Fort Berthold</placeName>, nearly one hundred small children began to follow them.  Much to her surprise, <persName reg="Canfield, Sarah">Sarah</persName>
+
+<quote>
+discovered that <hi rend="italic">I</hi> was a curiousity to them for often they ran in front of us and peering into my face which was somewhat hidden by my Sunbonnet, then dodge back laughing and chattering as though it was great fun. (Canfield, p. 67)</quote>
+
+Children formed a common ground for mothers of all ethnicities, but children were also able, through their innocence, to convey a message that would likely have been misunderstood if presented by an adult.</p>
+
+<p>Officers' wives took a strong interest in the Indian childcare customs.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> came to know the wife and daughter of <persName reg="Iron Bull">Iron Bull</persName> well enough to learn a little about how the little girl had been raised.  "I cannot say that Indians ever indulge in caresses," she wrote.  "I never saw a mother kiss her child.  Neither have I ever seen one punished."  The child, <persName reg="Pinahawney">Pinahawney</persName>, was devoted to her mother, "though there was no demonstration." <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Burt</persName> believed that Crow mothers taught their children "to control their emotions."  (Burt, pp. 171, 173)</p>
+ 
+<figure entity="aow.img.RG4488-42">
+<figDesc>Figure 3.  Photograph of <persName reg="Iron Crow">Iron Crow</persName> and his wife taken at <placeName rend="City\Town" reg="Wounded Knee">Wounded Knee</placeName> in 1897.  Officers' wives often pitied Indian women, but also admired their mothering skills and endurance.  Courtesy Nebraska Historical Society Photographic Collection RG4488.PH.0.8.</figDesc>
+</figure>
+  
+
+<p>
+<persName reg="Gibson, Katherine Garrett" key="gibson.k">Katie Gibson</persName> was charmed by the young Arikara children who peered into her <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> window one Christmas Eve.  She invited them in, gave them presents, and the leftovers from her party including cake, ice-cream, and hot chocolate.  The children were pleased with the treats so they danced for her in return.  She sent them home with warm clothing and blankets as well as a few little toys.  She thoughtfully alerted the guard that the children would be passing through the gate in order to avoid a tragic mistake.  Though she was kind and delighted in the children's presence, she pitied them, thinking that their parents were neglectful.  (Fougera, p. 242)</p>
+
+<p>The plight of Indian children often evoked an emotional response in the officers' wives who had close contact with them.  At <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName>, <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline Johnson</persName> watched from her quarters as the Cheyenne escaped from the guard house igniting a battle in which men, women, and children were killed and wounded.  <persName reg="Johnson, Charles">Johnson's husband</persName> brought a badly wounded infant to <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline</persName> for care.  The child's mother had been killed and in the chaos there was no one to care for the infant.  After the post surgeon dressed the wounds, <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline</persName> cared for the baby, fed it, and turned it over to a Cheyenne woman the next day.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline</persName> "felt a real interest in [the baby] after taking care of it" and was "quite sick" when she later learned that the child had died.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Johnson</persName>'s emotions were probably complicated by the death of her own infant (and only child) a few months earlier.  (Johnson, p. 95)</p>
+
+<p>Babies helped form bonds among people who usually saw themselves as antagonists.  <persName reg="Gibson, Katherine Garrett" key="gibson.k">Katie Gibson</persName> related two stories about kindness between adults over their mutual concerns for children.  In one case, her husband was involved in transporting Indians to a reservation.  After a woman had given birth along the trail,  <persName reg="Gibson, Frank">Frank Gibson</persName> brought her water and arranged a place for her in an Army ambulance so she would not have to walk.  Years later, the baby's father brought two beaver skins as a gift to the Gibsons' own baby.  (Fougera, p. 211)</p>
+
+<p><persName reg="Gibson, Katherine Garrett" key="gibson.k">Gibson</persName> also told of a grieving mother at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> who had gone to the post cemetery to tend her baby's grave.  The cemetery also served the Arikara scouts and their families.  <persName reg="Hart, Mrs.">Mrs. Hart</persName> was startled to see an Indian man in the cemetery dressed for battle visiting the grave of someone important to him.  He asked about her child, and then walked her back to the post.  She invited him into her house and offered him food.  She made sure that the guards did not detain him because "the man had not harmed her in any way, but rather, had shown her great respect and kindness."  (Fougera, p. 247&#8211;248)</p>
+
+<p>Indian children were not subject to the stereotyping and demonizing typical of racially divided societies.  Army women forgot their fear of Indians when babies brought the two cultures together.  A baby requires care from an adult, and few adults could refuse to attend to a child's needs.  However, children, along with women and adult men, were killed in the Army's attacks on Indian villages.  That fact troubled some Army women and left them questioning the process of conquest.  When <persName reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett (Gibson)</persName> was visiting her sister at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>, she listened as <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> and other wives of the Seventh Cavalry talked about the Battle of the Washita.  In that 1868 event, <persName reg="Custer, George Armstrong">Custer</persName> and his troops attacked a peaceful village of Cheyenne under the leadership of <persName reg="Black Kettle">Black Kettle</persName> killing 103 women, children, and men.  <persName reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> found this story 
+
+<quote>
+appalling, [and] it confused my sense of justice.  Doubtless the white men were right, but were the Indians entirely wrong?  After all these broad prairies had belonged to them. (Fougera, p. 125)</quote></p>
+
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vii.0004" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vii.0006" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

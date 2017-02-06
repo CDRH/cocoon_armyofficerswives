@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG3126-2-1 SYSTEM "aow.img.RG3126-2-1.jpg" NDATA jpeg>
+<!ENTITY aow.img.0013 SYSTEM "aow.img.0013.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.vi.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Centers of Refinement:  Maintaining the Image of Rank and Class</title>
+<title level="m" type="sub">Fashion</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vi.0002</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Fashion</head>
+<div1>
+
+<p>Clothing was the outward symbol of class, and up-to-date fashion was a means of claiming status, but officers' wives at remote <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts often complained about their lack of fashionable clothing, especially when garrisons were isolated from market towns.  Some women sewed, but sewing had to be done by hand; the weight and size of a sewing machine would have made it an unlikely piece of equipment to be transported by the Army.  Printed dress patterns were hard to come by as well, and in the "far West [officers' wives] knew nothing about these aids to sewing."  (Burt, p. 182)</p>
+
+<p>When first preparing for her life at a remote post, a young officer's wife may have packed all of her dresses and evening clothes.  More likely than not, the trunks carrying these things would have been sacrificed if the wagons had limited space.  In other cases, women's fine clothing was ruined when trunks were left sitting in rain or snow on river docks, or dumped into rivers when a wagon overturned.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName>'s first letter home on her journey to <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> was full of despair at having to select only one trunk to take with her.  She had to "leave my pretty dresses here, to be sent for . . . . But imagine my mortification in having to go with <persName reg="Roe, Fayette">Faye</persName> to his regiment with only two dresses."  She soon learned to disregard fashion and clothe herself as she could.  Seventeen years later, when assigned to a post in the city of <placeName rend="City\Town" reg="Omaha, Nebraska">Omaha</placeName>, <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Roe</persName> found herself an unfashionable woman with sun-browned skin, and few urban skills.  She had to re-learn how to shop in a store.  For years, she had shopped from catalogs, but now found it "so confusing &#8212; to have to select things from a counter, with a shop girl staring at me . . . ."  She found new fashions cumbersome, she forgot to open her parasol, and often left it behind in a store. (Roe, pp. 2, 366)</p>
+
+<p>Women who had been on the frontier for a time paid little attention to fashions.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett (Gibson)</persName> was surprised that <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> and other women wore faded, unfashionable dresses, but realized that "the cut of their out-of-date gowns betrayed a long absence from civilization."  When the regiment prepared for a ball, <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> felt comfortable with the clothes she had recently brought from home, but other women "dug down in the army chests and resurrected what finery they could, but no one would have taken a fashion prize." (Fougera, p. 75, 132)</p>
+
+<p>Officers' wives dressed for the occasion as their wardrobes allowed.  <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie Alexander</persName> was invited to ride beside the commanding officer to review the troops when she first arrived on the Southern <placeName rend="Region" reg="Great Plains">Plains</placeName> at <placeName rend="Military Post" reg="Fort Smith" key="smith">Fort Smith</placeName>, <placeName rend="State\Territory" reg="Arkansas">Arkansas</placeName>.   For this very special event she wore a "grey riding habit and black velvet hat." (Alexander, p. 35)   However, when <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> was invited to participate in a November buffalo hunt on horseback, she dressed for cold, windy weather in "one of <persName reg="Roe, Fayette">Faye</persName>'s citizen caps, with tabs tied down over my ears, and a large silk handkerchief around my neck."  The outfit "did not improve my looks in the least, but it was quite in keeping with the dressing of the officers. . . ."  (Roe, p. 17)</p>
+
+<p>On the frontier, officers' wives created a fashion statement of their own in adopting the military style dress of the officers.  They had dresses made that were decorated with gold braid and brass buttons.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> cut her dress from her husband's West Point uniform.  They often wore a forage cap (a small brimmed cap with a squashed crown) when riding, and in many portraits, officers' wives 
+
+<figure entity="aow.img.RG3126-2-1">
+<figDesc>Figure 1.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon Custer</persName> poses with <persName reg="Custer, George Armstrong">Armstrong</persName> and their long-time servant, <persName reg="Eliza">Eliza</persName>. <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> wears a dress made to mimic an officers' uniform. She also wears gauntlets and carries a riding crop.  Courtesy Nebraska Historical Society Photograph Collection RG 3126-2-1.</figDesc>
+</figure>    
+
+
+proudly wear military style dress. (Fougera, p. 99)  These garments were suitable for riding sidesaddle, but also substantiated their identity as Army women.  Though the Army had no official role for officers' wives, the women used their dress to indicate their own sense of belonging and participating in Army life.</p>
+
+<p>Women struggled to find or make appropriate clothing for special occasions, but they could count on the support of other officers' wives in an emergency.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett</persName>'s mother sent fabric for her wedding dress to <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName> from <placeName rend="State\Territory" reg="Virginia">Virginia</placeName>.  The officers' wives helped to cut and sew the dress while the troops were on an expedition to the <geogName rend="Mountains" reg="Black Hills">Black Hills</geogName>. (Fougera, pp. 192&#8211;3)  The women of <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName> worked together to provide <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond</persName> with mourning clothes after her husband was killed in the Fetterman Massacre.  While no one at the fort needed the clothing to remind them of her emotional state, they knew that when traveling dark clothing would "ward off thoughtless intrusion" from strangers. (F. Carrington, p. 157)</p>
+
+<p>Hair fashions were also important to Army women.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName>, whose portrait shows a pretty young woman with a row of tight curls set neatly into her parted hair, used crimping pins and clasps to set the curl which she declared to be the envy of Indian women she met. (Baldwin, p. 79)   <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> often made fun of herself for being vain about her hair, but nevertheless wore it in shoulder length ringlets.  While at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>, her hair attracted the attention of a Lakota man who attempted to remove it from her scalp one day while she rode outside of the stockade.  Rescued by her officer escort and a guard who alerted the entire garrison, she retained her girlish hair style well into her middle years.  (Slaughter, <hi rend="italic">Fortress to Farm</hi>, pp. 38&#8211;39)</p>
+
+<figure entity="aow.img.0013">
+<figDesc>Figure 2.  <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> wore her luxurious hair in long curls and secured hair ornaments with hair pins.  Courtesy State Historical Society of North Dakota A5418.</figDesc>
+</figure>   
+
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vi.0001" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vi.0003" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

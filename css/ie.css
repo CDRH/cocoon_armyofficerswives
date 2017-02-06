@@ -1,0 +1,6 @@
+/* CSS Document */
+/* For IE cuz IE is dumb */
+
+div.body {color:#00FF00}
+div.footer {clear:none;}
+div.listlow {background:url(../web-images/darkblue2.jpg) repeat}

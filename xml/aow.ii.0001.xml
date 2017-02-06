@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.0011 SYSTEM "aow.img.0011.jpg" NDATA jpeg>
+<!ENTITY aow.img.0014 SYSTEM "aow.img.0014.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG3126-2-58 SYSTEM "aow.img.RG3126-2-58.jpg" NDATA jpeg>
+<!ENTITY aow.img.0016 SYSTEM "aow.img.0016.jpg" NDATA jpeg>
+<!ENTITY aow.img.0013 SYSTEM "aow.img.0013.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.ii.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Biographies</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.ii.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Biographies</head>
+<div1>
+
+<p>
+Though dozens of Army officers' wives followed their husbands to large and small posts on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>, only a few left letters, journals, or memoirs.  Some of the officers' wives published books about their experiences with the hope of adding to their income, or to secure a proud history of their husband's service. Others wrote memoirs for their families, or scholars discovered their diaries years later and published them.</p>
+
+<p>
+The women listed in these pages are those whose memoirs and letters contain elegant descriptions of Army life, the <placeName rend="Region" reg="Great Plains">Plains</placeName> environment, and their opinions of military policy and relations with Indians.  Most of these women were married to men who served as officers of the Union Army during the Civil War.  Some of the officers gained their military experience and rank in the War, while others were graduates of West Point.  Many, such as <persName reg="Custer, George Armstrong">George Armstrong Custer</persName>, had received brevet or field promotions during the war.  <persName reg="Custer, George Armstrong">Custer</persName>, a brevet Major General, ultimately achieved the rank of Lt. Colonel, but was usually addressed as General, though that rank did not prevail after the U.S. Army was re-constituted after the war.</p>
+
+
+<div2 type="bio" id="alexander.e">
+<head><persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Eveline Throop Martin Alexander</persName>.</head>  <p>b. 1843, <placeName rend="City\Town" reg="Utica, New York">Utica</placeName>, <placeName rend="State\Territory" reg="New York">New York</placeName>.  <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evy Martin</persName> was born into the well-to-do family of a lawyer.  She met tall, blond and handsome <persName reg="Alexander, Andrew">Andrew Alexander</persName> while he was serving in the Union Army and married him in 1864.  He remained in the Army after the war, and they were eventually posted to several western forts.  They had two children, a daughter, <persName reg="Alexander, Midge">Midge</persName>, who died at the age of six, and a son, <persName reg="Alexander, Upton">Upton</persName>.  As a young Army wife, <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evy</persName> enjoyed riding, camp life, and hunting.  <persName reg="Alexander, Andrew">Andrew</persName> attained the rank of Lieutenant Colonel and successively commanded several garrisons. The Alexanders retired from the Army after <persName reg="Alexander, Andrew">Andrew</persName>'s health began to fail in 1885.  He died in 1886 and she supplemented her widow's pension with a baking and canning business.  She died in 1922.  Her diary was edited for publication by Sandra Myres and published as <hi rend="italic">Cavalry Wife: The Diary of Eveline M. Alexander, 1866&#8211;1867</hi> (College Station: Texas A &amp; M Press, 1977).</p>
+</div2>
+
+<div2 type="bio" id="baldwin.a">
+<head><persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Blackwood Baldwin</persName>.</head> <p>b. around 1843, <placeName rend="City\Town" reg="Ann Arbor, Michigan">Ann Arbor</placeName>, <placeName rend="State\Territory" reg="Michigan">Michigan</placeName>.  She traveled to <placeName rend="State\Territory" reg="California">California</placeName> with her parents and sister in 1854, but after her mother died, her father sent the girls back to <placeName rend="State\Territory" reg="Michigan">Michigan</placeName>.  His death left them orphans dependent on relatives for their care.  She married <persName reg="Baldwin, Frank">Frank Baldwin</persName>, an officer honored for distinguished service in the Civil War in 1867.  He had re-enlisted after the Civil War as a First Lieutenant in 1866, and the early years of their marriage were marked by the difficulties of living uncomfortably on a lieutenant's pay.  Their only child, <persName reg="Baldwin, Juanita">Juanita</persName>, was born late in 1867. <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie</persName> and <persName reg="Baldwin, Juanita">Nita</persName> often lived in Michigan with relatives because <persName reg="Baldwin, Frank">Frank</persName>'s pay could not support them as well as she wished.  <persName reg="Baldwin, Frank">Frank</persName> retired from the Army in 1906 and died in 1923.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie</persName> tried to publish his memoirs, but did not find a publisher until 1929.  Her own memoir is titled <hi rend="italic">An Army Wife on the Frontier: The Memoirs of Alice Blackwood Baldwin, 1867&#8211;1877</hi> (Salt Lake City: Tanner Trust Fund, University of Utah Library, 1975).  She died around 1930.</p>
+</div2>  
+
+<div2 type="bio" id="barnitz.j">
+<head><persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Platt Barnitz</persName>.</head>  <p>b. 1841 in Ohio.  <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> met <persName rend="bio" reg="Barnitz, Albert">Albert Barnitz</persName>, a highly decorated Union Army officer shortly after the Civil War.  A widower, he had been a lawyer in civil life, and an accomplished poet.  He re-enlisted and served in the campaigns of 1867 and 1868 in <placeName rend="State\Territory" reg="Kansas">Kansas</placeName> where he was severely wounded.  In 1870, he retired from the Army.  <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> was an intelligent woman who loved to read.  She preferred quiet evenings at home rather than the usual social whirl of Army life.  She and <persName rend="bio" reg="Barnitz, Albert">Albert</persName> raised three daughters.  She died in 1926.  Some of the letters and diary entries of <persName rend="bio" reg="Barnitz, Albert">Albert</persName> and <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> have been published in Robert M. Utley, <hi rend="italic">Life in Custer's Cavalry: Diaries and Letters of Albert and Jennie Barnitz, 1867&#8211;1868</hi> (Lincoln: University of Nebraska Press, 1977).</p>
+</div2>
+
+<div2 type="bio" id="biddle.e">
+<head><persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen McGowan Biddle</persName>.</head>  <p>b. 1847.  <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen McGowan</persName> was born into the large family of a Navy officer.  She was raised in <placeName rend="State\Territory" reg="New Jersey">New Jersey</placeName>. In 1864, when she was 17, she married <persName reg="Biddle, James">James Biddle</persName> who was fifteen years older.  He was a Union Army officer from a good <placeName rend="City\Town" reg="Philadelphia, Pennsylvania">Philadelphia</placeName> family.  He was strong and athletic, she was small and frail, and often ill during their years at frontier posts.  They had six children (and one miscarriage) born between 1866 and 1885.  Two of the children died in childhood.  The family was often separated for months or years due to her ill health, to matters of caring for the children, or because he was on campaigns against Indians.  By 1894, <persName reg="Biddle, James">James</persName> was Commanding Officer at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> where <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen</persName> lived contentedly.  He retired in 1896 and died in 1910.  She died in 1922 after writing her memoir for her grandchildren, <hi rend="italic">Reminiscences of a Soldier's Wife</hi> (J. B. Lippincott, 1907).</p>
+</div2>
+
+<div2 type="bio" id="boyd.f">
+<head><persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Anne Mullen Boyd</persName>.</head>  <p>b. 1848, <placeName rend="City\Town" reg="New York City, New York">New York City</placeName>.  <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Mullen</persName>'s father was a well-to-do baker.  She grew up in <placeName rend="City\Town" reg="New York City, New York">New York City</placeName>, and was educated in <placeName rend="City\Town" reg="New York City, New York">New York</placeName>.  <persName reg="Boyd, Orsemus Bronson">Orsemus Bronson Boyd</persName> was appointed to West Point after two years of distinguished service in the Civil War.  They met while she was in school, and married in 1867 shortly after his graduation from the academy.  <persName reg="Boyd, Orsemus Bronson">Orsemus Boyd</persName> asked for a western post because of his unhappy years at West Point where he had been accused of theft.  Lacking close association with other officers, he spent fourteen years as a lieutenant.  He was promoted to captain shortly before his death from illness while on a campaign in <placeName rend="State\Territory" reg="New Mexico">New Mexico</placeName>.  During their eighteen years of marriage, <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Fannie</persName> gave birth to a daughter and two sons.  Though they spent months apart while she tended to her children in <placeName rend="City\Town" reg="New York City, New York">New York</placeName>, <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Fannie</persName> loved the West and Army life.  She told her story in <hi rend="italic">Cavalry Life in Tent and Field</hi> (by Mrs. Orsemus Boyd, University of Nebraska Press, 1982) which she published in 1894.  <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> died in 1926.</p>
+</div2>
+
+<div2 type="bio" id="burt.e">
+<head><persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Reynolds Burt</persName>.</head>  <p>b. 1839, <placeName rend="City\Town" reg="Cincinnati, Ohio">Cincinnati</placeName>, <placeName rend="State\Territory" reg="Ohio">Ohio</placeName>.  When the Civil War broke out, <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Lizzie Reynolds</persName> engaged in the war effort.  Her brother, a cousin, and her suitor, <persName reg="Burt, Andrew Sheridan">Andrew Sheridan Burt</persName>, enlisted in the Army, and <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Lizzie</persName> volunteered with the Sanitary Commission doing work she had not done before:  knitting socks and mittens, tending the wounded in Army hospitals, and preparing bandages.  When <persName reg="Burt, Andrew Sheridan">Andrew</persName>'s regiment was ordered out of <placeName rend="City\Town" reg="Cincinnati, Ohio">Cincinnati</placeName>, he suggested they marry right away.  They were married in 1862 in <placeName rend="City\Town" reg="Cincinnati, Ohio">Cincinnati</placeName> which was governed by martial law.  After the War, the Burts were stationed at many posts in the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>, Rocky Mountains, Pacific coast, and the Philippines while <persName reg="Burt, Andrew Sheridan">Andrew</persName> rose in the ranks to General.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth</persName> always took her wedding silver, packed in a wooden box, with her to every post.  The Burts raised two sons and a daughter and remained in the Army until 1902.  She wrote about her experiences for her family in a memoir titled "An Army Wife's Forty Years in the Service 1862&#8211;1902" (available on microfilm from the Library of Congress.)  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> died in 1926.</p>
+</div2>
+
+ 
+<div2 type="bio" id="carrington.f">
+<figure entity="aow.img.0011">
+<figDesc><persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond Carrington</persName>.  Courtesy American Heritage Center, University of Wyoming.</figDesc>
+</figure>
+
+<head><persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Courtney Grummond Carrington</persName>.</head>  <p>b.  1840s? Unlike most of the other Army officers' wives of the time, <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond</persName> was raised in a slave-owning household.  She followed her husband, <persName reg="Grummond, George">Lieutenant George Grummond</persName> west to <placeName rend="Military Post" reg="Fort Laramie" key="laramie">Fort Laramie</placeName> and <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName> in the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  She was late in pregnancy when <persName reg="Grummond, George">Grummond</persName> was killed in the Fetterman Massacre.  As a widow, she had no place in a military fort and had to leave the fort in a bitter cold January traveling with <persName reg="Carrington, Henry Beebee">General</persName> and <persName rend="bio" reg="Carrington, Margaret">Margaret Carrington</persName> to <placeName rend="Military Post" reg="Fort Casper" key="casper">Fort Casper</placeName>.  In 1871, she married the widowed <persName reg="Carrington, Henry Beebee">Henry Beebee Carrington</persName>.  In 1910, she published <hi rend="italic">My Army Life: A Soldiers' Wife at Fort Phil Kearny</hi> (Boulder, CO: Pruett Publishing Company, 1990).</p>
+</div2>  
+
+ 
+<div2 type="bio" id="carrington.m">
+<figure entity="aow.img.0014">
+<figDesc><persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Irvin Carrington</persName>. Courtesy American Heritage Center, University of Wyoming</figDesc>
+</figure>
+
+ 
+<head><persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Irvin Carrington</persName>.</head>  <p>b. 1831.  <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Irvin Carrington</persName> was the first wife of General <persName reg="Carrington, Henry Beebee">Henry Beebee Carrington</persName>.  In 1866, she and her two sons accompanied him as he marched his troops to <placeName rend="State\Territory" reg="Wyoming">Wyoming</placeName> to build <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName> in the troubled Powder River country where the Sioux opposed gold miners and merchants invading their homeland.  <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret</persName> accepted <persName reg="Sherman">General Sherman</persName>'s suggestion that officers' wives keep journals.  Her journal of two years at <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName> contains the record of the Fetterman Massacre (December 1866) and her life at a rough post in hostile territory.  She published it in 1868 as <hi rend="italic">Absaraka: Home of the Crows</hi> (Lincoln: University of Nebraska Press, 1983).  <persName reg="Carrington, Henry Beebee">Henry</persName> retired in 1869 having suffered serious wounds and an inquiry concerning his leadership at <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>.  <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret</persName> died in 1870.  <persName reg="Carrington, Henry Beebee">Henry</persName>, who became an historian in retirement, re-published Margaret's journal several times adding material from his own service records in subsequent editions.</p>
+</div2>
+
+<div2 type="bio" id="corbusier.f">
+<head><persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny Dunbar Corbusier</persName>.</head>  <p>b. 1839.  <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny Dunbar</persName> was born in <placeName rend="State\Territory" reg="Maryland">Maryland</placeName>, but raised in <placeName rend="City\Town" reg="Amite, Louisiana">Amite</placeName>, <placeName rend="State\Territory" reg="Louisiana">Louisiana</placeName> where her father worked with railroads.  During the Civil War, <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny</persName>'s mother briefly ran a hospital at <placeName rend="City\Town" reg="Amite, Louisiana">Amite</placeName> with the help of her two daughters.  <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny</persName> married <persName reg="Corbusier, William Henry">William Henry Corbusier</persName>, a physician under contract to the US Army, in 1869.  They were stationed at more than a dozen posts in every corner of the US as well as the Philippines until <persName reg="Corbusier, William Henry">William</persName>'s retirement in 1908.  <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny</persName> and <persName reg="Corbusier, William Henry">William</persName> raised five sons and attended carefully to their education.   She died in 1918.  She wrote her memoir for her children in 1908, and it remained in family hands and archives until recently.  (<hi rend="italic">Fanny Dunbar Corbusier: Recollections of her Army Life, 1869&#8211;1908</hi>, ed. Patricia Y. Stallard (Norman: University of Oklahoma Press, 2003).</p>
+</div2>  
+
+ 
+<div2 type="bio" id="custer.e">
+<figure entity="aow.img.RG3126-2-58">
+<figDesc><persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon Custer</persName>.  Photograph by Hill, 1876. Courtesy Nebraska Historical Society Photograph Collection RG 3126 PH.0.0.</figDesc>
+</figure>
+
+<head><persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon Custer</persName>.</head>  <p>b. 1842, <placeName rend="City\Town" reg="Monroe, Michigan">Monroe</placeName>, <placeName rend="State\Territory" reg="Michigan"></placeName>Michigan.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon</persName>'s father was a judge and businessman.  The death of her siblings left her an only child, and her mother died when she was twelve.  She was well-educated and graduated valedictorian of her class in 1862.  Shortly thereafter, she met <persName reg="Custer, George Armstrong">George Armstrong Custer</persName>, soon to become famous as the "boy general" of the Union Army.  They married in 1864.  After a couple of years of Reconstruction duty in the South, the Custers traveled to posts in <placeName rend="State\Territory" reg="Kansas">Kansas</placeName> and <placeName rend="State\Territory" reg="Dakota">Dakota</placeName>.  She had no children and spent as much time with <persName reg="Custer, George Armstrong">Armstrong</persName> (often called Autie) as possible, even riding horseback with him and his command en route to <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>.  After his death at the Battle of the Little Big Horn in 1876, she moved to <placeName rend="State\Territory" reg="New York">New York</placeName> where she sought work that would supplement her tiny widow's pension.  She wrote three books about their life at frontier posts in order to ensure that his memory would always be honored.  The first book, <hi rend="italic">Boots and Saddles: Life in Dakota with General Custer</hi> was published in 1885, followed by three volumes titled, <hi rend="italic">Tenting on the Plains: General Custer in Kansas and Texas</hi> (1887). She published the last book <hi rend="italic">Following the Guidon</hi> in 1890.  She died in 1933, having succeeded in having her version of his years of military service take precedence over other histories.   PICTURE</p>
+</div2>
+ 
+<div2 type="bio" id="gibson.k">
+<head><persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katherine Garrett Gibson</persName>.</head>  <p>b. 1853.  As a young woman from a close-knit, and properly raised family of sisters, <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett</persName> journeyed to <placeName rend="State\Territory" reg="Dakota Territory">Dakota Territory</placeName> to visit her sister <persName reg="McIntosh, Mollie">Mollie McIntosh</persName> who was married to <persName reg="McIntosh, Donald">Lieutenant Donald McIntosh</persName> of the 7th Cavalry. There <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> met and married <persName reg="Gibson, Francis">Lieutenant Francis Gibson</persName> in 1875.  They became part of the Custer social circle at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName> where <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> was known for her musical ability with  the guitar and piano.  Her husband was not with <persName reg="Custer, George Armstrong">Custer</persName> at the Little Big Horn and they continued to serve in the Army until <persName reg="Gibson, Francis">Francis</persName> retired in 1891 with the rank of Captain.  They had one daughter, <persName reg="Fougera, Katherine Gibson">Katherine Gibson Fougera</persName>, who edited her mother's memoirs and published them as <hi rend="italic">With Custer's Cavalry</hi> (Lincoln: University of Nebraska Press, 1986) in 1942.</p>
+</div2>
+
+ 
+
+<div2 type="bio" id="grierson.a">
+<figure entity="aow.img.0016">
+<figDesc><persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Kirk Grierson</persName>.  Courtesy Fort Davis National Historic Site, Texas.</figDesc>
+</figure>
+
+<head><persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Kirk Grierson</persName>.</head>  <p>b. 1828, <placeName rend="City\Town" reg="Youngstown, Ohio">Youngstown</placeName>, <placeName rend="State\Territory" reg="Ohio">Ohio</placeName>.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName>'s father, a well-to-do merchant and real estate developer, was an abolitionist who participated in the Underground Railroad.  She was the oldest of thirteen children.  She had the advantage of a good education at a female academy and taught school before her marriage.  She married <persName reg="Grierson, Benjamin">Benjamin Grierson</persName> in 1854, and spent the first several years of their marriage trying unsuccessfully to convert him to Christian faith.  He joined the Union Army in 1861 and rose quickly to the rank of colonel.  By war's end, they had four children and she asked him to continue his Army career.  He was made commanding officer of the 10th Cavalry &#8212; a division of African American troops who distinguished themselves in Western combat as the Buffalo Soldiers.  Three more children were born to them, though one died in infancy.  The difficulty of educating their children and other family responsibilities kept them apart for many months at a time. <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice</persName> died after a long illness in 1888, a few months before <persName reg="Grierson, Benjamin">Benjamin</persName> was promoted to general. Her letters have been published by Shirley Anne Leckie, ed., <hi rend="italic">The Colonel's Lady on the Western Frontier: The Correspondence of Alice Kirk Grierson</hi> (Lincoln: University of Nebraska Press, 1989).</p>
+</div2>
+
+<div2 type="bio" id="johnson.a">
+<head><persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline Hankins Johnson</persName>.</head>  <p>b. <placeName rend="City\Town" reg="Hankins, New York">Hankins</placeName>, <placeName rend="State\Territory" reg="New York">New York</placeName>, 1838.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angie</persName> married <persName reg="Johnson, Charles">Lieutenant Charles Johnson</persName>, an Infantry officer, in 1873.  She accompanied him to his assignments including the three years he spent at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName>.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angie</persName> gave birth in 1877 to one child who died shortly after birth.  <persName reg="Johnson, Charles">Charles</persName> retired from the Army in 1893 having attained the rank of Captain.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline</persName> returned to <placeName rend="State\Territory" reg="New York">New York</placeName> and died on February 1, 1903.  While stationed at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName>, the Johnsons were witness to the death of <persName reg="Crazy Horse">Crazy Horse</persName> and the escape of the Cheyenne from the <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> prison.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angie</persName>'s letters about these events were preserved by her family and later published by her grandnephew. Phillip G. Twichell, ed. "Camp Robinson Letters of Ageline Johnson 1876&#8211;1879," <hi rend="italic">Nebraska History</hi> 77 (Summer 1996): 89&#8211;95.</p>
+</div2>
+
+
+<div2 type="bio" id="roe.f">
+<head><persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Marie Antoinette Mack Roe</persName>.</head>  <p>b. in <placeName rend="State\Territory" reg="New York">New York</placeName>, around 1850.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Mack</persName> was the daughter of a farmer, and grew up in <placeName rend="City\Town" reg="Orleans, New York">Orleans</placeName>, <placeName rend="State\Territory" reg="New York">New York</placeName> with a good education.  She married West Point graduate <persName reg="Roe, Fayette">Fayette Roe</persName> (pronounced "ray") in 1871.  They were immediately posted to <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> in southeastern <placeName rend="State\Territory" reg="Colorado">Colorado</placeName> where she learned how to live happily in a remote Army post and to co-exist with other Army families.  <persName reg="Roe, Fayette">Faye</persName>'s promotions came slowly and his career was undistinguished, but their marriage was a happy one, and she accompanied him to most of his posts.  Like many Army couples, they had no children, but <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances</persName> kept pets &#8212; a much loved greyhound Hal,  and a squirrel named Billie.  Shortly after his last promotion to Lieutenant Colonel in 1898, he retired in ill health.  <persName reg="Roe, Fayette">Faye</persName> committed suicide in 1916;  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances</persName> lived until 1920.  Her book, <hi rend="italic">Army Letters from an Officer's Wife</hi> was originally published in 1909.  It is now available through University of Nebraska Press (1981) and as an e-book at www.gutenberg.org.</p>
+</div2>
+ 
+<div2 type="bio" id="slaughter.l">
+<figure entity="aow.img.0013">
+<figDesc><persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Warfel Slaughter</persName>.  Courtesy State Historical Society of North Dakota A541B.</figDesc>
+</figure>
+
+
+<head><persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Warfel Slaughter</persName>.</head>  <p>b. 1843, <placeName rend="City\Town" reg="Cadiz, Ohio">Cadiz</placeName>, <placeName rend="State\Territory" reg="Ohio">Ohio</placeName>.  <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Malinda Warfel</persName>'s father was a merchant and miller who was probably involved with the Underground Railroad.  She enjoyed an excellent education which included a few terms at Oberlin College.  After the Civil War, she spent several months as a supervisor of missionary schools for freed people in Western <placeName rend="State\Territory" reg="Kentucky">Kentucky</placeName> and <placeName rend="State\Territory" reg="Tennessee">Tennessee</placeName>.  There she met <persName reg="Slaughter, Frank">Frank Slaughter</persName>, a physician and officer in the Union Army, whom she married in 1868.  They were posted to <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> in <placeName rend="State\Territory" reg="Dakota Territory">Dakota Territory</placeName> in 1870 and served two and one-half years at Missouri River posts before <persName reg="Slaughter, Frank">Frank</persName> retired in 1873.  <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda</persName> gave birth to three daughters and a son.  She wrote a fictional account about her life as an officer's wife at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> titled "The Amazonian Corps: A Romance of Army Life" which was published in 1874 in the <hi rend="italic">Bismarck Tribune</hi>.  In 1892, she published a memoir of her early life in <placeName rend="State\Territory" reg="Dakota Territory">Dakota Territory</placeName> titled <hi rend="italic">From Fortress to Farm, or Twenty-three Years on the Frontier</hi> (New York: Exposition Press, 1972).  Though she twice divorced <persName reg="Slaughter, Frank">Frank Slaughter</persName>, they were married for a third time before he died in 1896.  She died in 1911, having published more history of Indians and military activity on the northern <placeName rend="Region" reg="Great Plains">plains</placeName>.</p>
+</div2>  
+
+<div2 type="bio" id="winne.c">
+<head><persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Frey Winne</persName>.</head>  <p>b. 1841, <placeName rend="City\Town" reg="Palatine Ridge, New York">Palatine Ridge</placeName>, <placeName rend="State\Territory" reg="New York">New York</placeName>.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Frey</persName> married <persName reg="Giddings, Grotius R.">Grotius R. Giddings</persName> in 1861.  He died in 1867, after serving the Union in the Civil War and in the post-war Army.  In 1874, <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline</persName> married Army surgeon <persName reg="Winne, Charles">Charles Winne</persName> and went to <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> where they were stationed at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks (Fort Sidney)</placeName> and <placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">Fort McPherson</placeName>.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline</persName> suffered a miscarriage at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>, but later gave birth to a healthy son.  Her letters from <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> to her family in <placeName rend="State\Territory" reg="New York">New York</placeName> are collected in the New York Historical Society.  They have been published by Thomas R. Buecker, "Letters of Caroline Frey Winne from Sidney Barracks and Fort McPherson, Nebraska 1874&#8211;1878" in <hi rend="italic">Nebraska History</hi> 62 (Spring 1981):1&#8211;46.</p>
+</div2>
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>
+

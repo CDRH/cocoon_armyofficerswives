@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.intro.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Introduction</title>
+<title level="m" type="sub">The Author</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.intro.0004</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866-1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>The Author</head>
+<div1>
+
+<p>Barbara Handy-Marchello earned her M.A. in History from North Dakota State University (1988) and her Ph.D. at the University of Iowa (1996).  She taught courses in the History of American Women and the American West at the University of North Dakota before her retirement in 2006.  She is author of <hi rend="italic">Women of the Northern Plains: Gender and Settlement on the Homestead Frontier 1870&#8212;1930</hi> (Minnesota Historical Society Press, 2005) which was awarded the 2006 Caroline Bancroft History Prize from the Denver Public Library.</p>
+
+</div1>
+
+<!-- <div1 type="file references">
+<list>
+<item>
+<xptr n="aow.intro.0003" type="prev"/>
+</item>
+</list>
+</div1> -->
+
+</body>
+</text>
+</TEI>

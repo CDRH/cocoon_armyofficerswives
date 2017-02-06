@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG4488-17 SYSTEM "aow.img.RG4488-17.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.v.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"Much Depends On a Wife": Personal Relationships and Family Life</title>
+<title level="m" type="sub">Conclusion</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.v.0005</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Conclusion</head>
+<div1>
+
+<p>Though most women acknowledged the difficulty of establishing and maintaining social ties with whomever was posted to the garrison, they also embraced the Army as a broad and interesting family.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> wrote that her family received assistance when traveling across eastern <placeName rend="State\Territory" reg="Wyoming">Wyoming</placeName> to a new assignment, because it was "in the Army where one finds the closest ties of friendship. Especially is this true when formed at frontier posts where people are dependent upon each other for companionship, day after day, month after month." (Burt, p. 127)  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Gibson</persName> also reflected on the warmth and strong ties of life in the Army. She suspected that Army life, with few "pretensions, [and] with everyone knowing the pay of the other fellow," cemented social relations among Army families.  But, she added, it was also 
+<quote>
+the very solitude of their mutual existence &#8212; just a handful of people, so to speak, afloat upon an uncharted sea of desolation, miles and miles from civilization, and the shared hardships of a bleak climate with its privations, and the daily perils they faced together. These were the factors that brought these army pioneers closer to each other in some instances than many brothers and sisters, and forged ties of friendship that neither time nor circumstances could sever. (Fougera, p. 74)</quote></p>
+
+ 
+<figure entity="aow.img.RG4488-17">
+<figDesc>Figure 12.  Unidentified officer's wife and escort riding on Christmas Day, 1896, <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName>.  Courtesy Nebraska Historical Society Photograph Collection RG4488.PH.0.3</figDesc>
+</figure>
+
+
+<p>Army wives defined a place for women in the Army and created a comfortable role that balanced their own interests, the needs of their husbands, and the peculiarities of life in the frontier Army.  If they found an Army marriage too personally restrictive and too materially limited, they had compensations in their friendships, motherhood, participation in Army policy and decisions, and their freedom to ride, hunt, shoot, fish, and otherwise enjoy the <placeName rend="Region" reg="Great Plains">Plains</placeName> before settlement.</p>
+	
+</div1>
+ 
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.v.0004" type="prev"/>
+</item>
+
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>  	 

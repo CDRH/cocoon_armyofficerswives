@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.vii.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">So Wholly Unlike Cooper's Indians: Army Women and Plains Indians</title>
+<title level="m" type="sub">War</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vii.0006</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>War</head>
+<div1>
+   
+
+<p>In the spring of 1876, as the Seventh Cavalry prepared for the summer campaign that would lead to their defeat at the Battle of the Little Big Horn, <persName reg="Gibson, Katherine Garrett" key="gibson.k">Katie Gibson</persName> begged her husband to take advantage of an opportunity to take a new assignment. He agreed and was spared the fate of the rest of <persName reg="Custer, George Armstrong">Custer</persName>'s command.  Twenty-six other women, however, received the terrifying news of the deaths of their husbands in that pivotal battle.  No matter what a woman's position was on federal policy, on the right of Indians to their homelands, on the duty of a soldier to the nation, she feared on a very personal level that duty would result in her husband's injury or death followed by the loss of her home and her association with the Army family.  (see Boyd, pp. 313&#8211;314)  When the fear of death became a reality for someone &#8212; at the Fetterman Massacre, the Battle of the Little Big Horn, and in many smaller skirmishes &#8212; whatever common ground an officers' wife had felt for an individual Indian or an entire tribe faded rapidly as her own fears intensified.</p>
+
+<p>Army women often reported to their families back East that they felt very comfortable and safe at the garrisons, or even traveling on the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Angeline Johnson</persName> whose husband was sent to the Red Cloud Agency near <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in December 1876, wrote home to her family that there was no need for them to be concerned about her safety.  
+
+<quote>
+There isn't any danger here.  I thought I should feel afraid here but I don't.  There are too many troops here, and besides the Indians would not do any of their harm here. . . . (Johnson, p. 91)</quote></p>
+
+<p>A few months later, <persName rend="bio" reg="Johnson, Angeline Hankins" key="johnson.a">Johnson</persName> felt the first pangs of fear as the followers of <persName reg="Crazy Horse">Crazy Horse</persName> protested his arrest and incarceration.  The turmoil was visible from the front porch of her quarters.  After <persName reg="Crazy Horse">Crazy Horse</persName> was killed, she wrote her family that "I shall not go over there [Red Cloud agency].  In fact, I don't think I shall venture very far away from the post."  (Johnson, p. 94)</p>
+
+<p>In January 1879, the situation had changed again.  Cheyenne prisoners at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> escaped using weapons they had secreted in the guard house.  Her illusions of safety were dashed as "the balls [bullets] flew pretty thick around our quarters. . . . I was afraid <persName reg="Johnson, Charles">Charlie</persName> would get hit as he went down from our house to the office across the parade, when the balls were flying all around. . . ."  (Johnson, p. 95)</p>
+
+<p>Though officers sought to preserve the safety of their families and the illusion of safety for themselves, warfare and the consequent deaths of soldiers and Indians, was the reality of military life on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> in this time period.  Officers' wives lived with that knowledge and fear until the Massacre at Wounded Knee in 1890 finally ended conflict upon the <placeName rend="Region" reg="Great Plains">Plains</placeName>. The subsequent peace did not improve relations because the poverty Indians experienced on reservations where traditional skills languished increased the distance between officers' wives and Indian women.</p>
+
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vii.0005" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vii.0007" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

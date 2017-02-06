@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.0004 SYSTEM "aow.img.0004.jpg" NDATA jpeg>
+<!ENTITY aow.img.0015 SYSTEM "aow.img.0015.jpg" NDATA jpeg>
+<!ENTITY aow.img.0003 SYSTEM "aow.img.0003.jpg" NDATA jpeg>
+<!ENTITY img.aow.RG1517-42-3 SYSTEM "img.aow.RG1517-42-3.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG3126-2-87 SYSTEM "aow.img.RG3126-2-87.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG1517-13-13 SYSTEM "aow.img.RG1517-13-13.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.iv.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"I could, I can and I <hi rend="italic">do</hi>!: Daily Life in a Great Plains Military Post</title>
+<title level="m" type="sub">Military Housing</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.iv.0002</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-05</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Military Housing</head>
+<div1>
+
+ 
+<p>
+Housing at military posts on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> varied with time and place.  Women who traveled with their husbands to posts shortly after the Civil War often found housing very rough and uncomfortable.  As time went on, and the Army determined which posts would house several regiments and would probably continue to operate for several years, the housing and other amenities improved.  Posts located near growing towns also offered social and material comforts that those assigned to more remote posts did not have.  No matter the condition of the post, officers' wives were expected to make a home appropriate to their class and rank, provide attractive food and comfortable shelter to visitors, and provide a safe place for their children to grow.  Their ability to accomplish these tasks was not only part of the expectations of middle-class women in the United States in this time period, but together formed the singular role of the Army wife.  She had few choices other than to accept her situation, and her success was closely linked to her husband's success at pleasing his superiors and keeping the men in his command happy.</p>
+
+<p>
+Officers and their families were assigned single family units (in duplexes) depending on rank.  Line officers occupied one half of a duplex that may have included a parlor, kitchen, dining room, and one or two bedrooms.  The houses were constructed of various kinds of materials.  Adobe was common in the early posts, even as far north as <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in western <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName>.  Uncomfortable log houses and dugouts remained in some posts for a few years after the close of the Civil War.</p>
+
+<p>
+<persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Blackwood Baldwin</persName> arrived at <placeName rend="Military Post" reg="Fort Harker" key="harker">Fort Harker</placeName>, her first military post following her marriage, to find that permanent housing had not yet been constructed and she would spend several months living in a dugout.  Upon first seeing the dugout, she asked,  " 'Why, where is our house?' "  She soon found that
+
+<quote>
+its conveniences were limited to one camp chair, two empty candle boxes and a huge box stove, red with rust and grime, its hearth gone and the space filled with a tobacco-stained hill of ashes . . . . The sordid interior filled me with gloom, scarcely lessened by the four-pane glass window, dirty, dim and curtainless. (Baldwin, pp. 30&#8211;31)</quote>
+
+<persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Baldwin</persName> soon found that she shared her house with pack-rats and prairie mice which ran across the low beams in the dugout and watched her from above.  But as a good soldier's wife, <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName> accommodated the "boarders" who were "indifferent to my attempts to oust them with my broom." (Baldwin, p. 31)</p>
+
+<p>
+Though <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> was built during the Civil War, and re-built in 1868, housing there remained uncomfortable until the post was de-commissioned in 1881.  <persName reg="Custer, George Armstrong">George Armstrong</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon Custer</persName> stopped briefly at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> on their way to their final post at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Lincoln</placeName>.  Remarking on the home of their hosts, the commanding officer at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> wrote:</p>
+
+<quote>
+Their quarters were very ordinary frame buildings, with no modern improvements.  They were painted a funereal tint, but one warranted to last.  The interior showed the presence of a tasteful woman.  She met us as cheerfully as if she were in the luxurious home from which we knew she had gone as a girl to follow a soldier's life.  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 61)</quote>
+
+
+<figure entity="aow.img.0004">
+<figDesc>Figure 1.  Stereopticon photograph of Officers Row at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>, Dakota Territory after the post had been rebuilt. Courtesy State Historical Society of North Dakota. 0670-053.</figDesc>
+</figure>
+ 
+
+<p>
+<persName reg="Gibson, Katherine Garrett" key="gibson.k">Katherine Gibson</persName> also noted the poor condition of <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> quarters when she went there to visit <persName reg="Benteen, Mrs.">Mrs. Benteen</persName>, wife of the commanding officer.</p>
+
+<quote>
+Flanked on one side of the sun-baked parade ground, rickety officers' quarters confronted us, while across the plains soldiers' barracks loomed forlornly. (<hi rend="italic">With Custer's Cavalry</hi>, p. 163)</quote>
+
+
+<p>
+By the mid-1870s most posts offered families frame houses with at least two wood stoves for heat.  Many officers' wives commented on the comfort of their small and simple homes.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> wrote to her father, January 31, 1875:</p>
+
+<quote>
+We are at last settled in our house &#8212; a little box of a thing but really cozy and pretty.  We have a pretty little parlor with bedroom back, &amp; opening out of it a nice good sized dining room. And still back of this the kitchen &#8212; then upstairs two rooms and two closets.  We . . . are very content &amp; happy.  (Buecker, p. 8)</quote>
+
+<figure entity="aow.img.0015">
+<figDesc>Figure 2.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName>'s drawing of her quarters at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>.  She drew the location of windows, doors, rooms, and furniture.  The Piazza is the front porch.  <persName reg="Howley, Captain">Captain Howley</persName>'s family occupied the other side of  the duplex across the shared central hallway. Caroline Frey Winne to Ludlow, 31 January 1875.  Negative 79632d. Frey Family Papers, Collection of The New-York Historical Society.</figDesc>
+</figure>
+
+
+<p>
+Commanding officers (CO) usually had an entire house for their families.  By the mid-1870s, the CO's house often matched in style and size homes of men of equal social and economic standing in developed communities in "the states."  The commanding officer's house commonly served as post headquarters and the commanding officer's office as well as housing his family.</p>
+
+<figure entity="aow.img.0003">
+<figDesc>Figure 3.  <persName reg="Custer, George Armstrong">Lt. Colonel George Armstrong Custer</persName> and his wife <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon Custer</persName> lived in a large and elegant new house at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>.  As commanding officer, the Custers did not share a duplex, but their home was the social center and guest house for the post. Courtesy State Historical Society of North Dakota.  0260-03</figDesc>
+</figure>
+
+<p>
+The CO provided temporary housing for newly arrived officers and their families in his own home if no other quarters were available.  Most women recorded a warm welcome from the commanding officer's wife and a quick introduction to life at that post while staying with the CO's family.  The commanding officer's wife, however, had to often set aside her own privacy and family needs to accommodate newcomers.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> whose husband <persName reg="Grierson, Benjamin">Benjamin</persName> commanded the Tenth Cavalry at several <placeName rend="State\Territory" reg="Oklahoma">Oklahoma</placeName> and <placeName rend="State\Territory" reg="Texas">Texas</placeName> posts found the responsibilities tiring when added to the care of her seven children and her other social duties at the post.  After four years of serving as the CO's wife and garrison hostess, she wrote to <persName reg="Grierson, Benjamin">Ben</persName> from <placeName rend="City\Town" reg="Chicago, Illinois">Chicago</placeName> where she was visiting family that upon her return to <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName> she would prefer to set new standards for the commander's home:
+
+<quote>
+I also want you to use your best endeavors to prevent <hi rend="italic">our home</hi>, from being either a hotel, or a boarding house.  I am social by nature, and believe hospitality to be a sacred duty, and enjoy company, and entertaining guests, to the best of my ability, but I am unwilling to make a martyr of myself for an individual, or any garrison.  (Leckie, p. 67)</quote>
+</p>
+
+<p>
+Housing was assigned according to rank.  At any time, an officer's family might be moved out, with very little notice, into inferior housing if an officer of higher rank arrived at the fort.  This system of "ranking out" (also known as "bricks falling") was often irritating to the woman who would be moved, and even after a  few years' experience, and with the help of soldiers to do the packing and lifting, most still resented or resisted, if possible, the pressure to yield their homes to a superior officer.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> was "ranked out" twice in ten years on posts where there were few families.  The first time, (June 1872 at <placeName rend="Military Post" reg="Camp Supply" key="supply">Camp Supply</placeName>) she was given 3 hours notice.
+
+<quote>
+This time I must tell you that Faye has been turned out of quarters &#8212; "ranked out," as it is spoken of in the Army.  But it all amounts to the same thing, and means that we have been driven out of our house and home, bag and baggage, because a captain wanted that one set of quarters! Call it what one chooses, the experience was not pleasant and will be long remembered. (Roe, p. 66)</quote></p>
+
+    <figure entity="aow.img.RG1517-42-3">
+<figDesc>Figure 4. Officers' Row at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> 1884.  To the right are the older officers' duplexes constructed in 1874.  The next set of houses, built in 1876, were a little larger.  The house under construction on the left represents the new, larger and more comfortable housing for officers and their families.  If an officer's  family was "ranked out" they would likely have to move down the line into smaller, older quarters. Courtesy  Nebraska State Historical Society Photograph Collection RG1517.PH.42-3.</figDesc>
+</figure>
+
+<p>
+<persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> was in labor with her third child when she was notified that her house at <placeName rend="Military Post" reg="Fort Clark" key="clark">Fort Clark</placeName> was wanted by six different officers.  Once the ranking officer was determined and the move was ordered, she was protected from the move by her doctor until she had recovered from the difficult birth.  When the infant came down with whooping cough, the Boyds were allowed to remain in their quarters until the child was well enough at four weeks of age to be moved.  Then, the Boyd family with three small children moved into quarters of a single room with a lean-to.  (Boyd, pp. 270&#8211;273)</p>
+
+<p>
+In addition to the inconvenience of losing a house on very short notice, ranking out also served to remind junior officers that promotions, and the security and pay that came with higher rank, were slow to come in the post-Civil War Army.  <persName reg="Roe, Fayette">Fayette Roe</persName> had to wait 12 years for promotion to first lieutenant; <persName reg="Boyd, Orsemus">Orsemus Boyd</persName> served as a lieutenant for 21 years before his promotion to captain (Roe, p. 310; Boyd, p. 301).</p>
+ 
+<p>
+Even highly ranked officers were occasionally subject to displacement.  While <persName reg="Grierson, Benjamin">Colonel Benjamin Grierson</persName> was building <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName>, his family waited at <placeName rend="Military Post" reg="Fort Gibson" key="gibson">Fort Gibson</placeName> where he had been the previous commanding officer.  The new CO at Gibson tried to dislodge <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>, who was pregnant at the time, and her three small children, but she sought and received permission to resist moving shortly before the transfer to <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName>.  She wrote to the new CO, <persName reg="Floyd-Jones, Colonel">Colonel Floyd-Jones</persName>:
+
+<quote>
+The quarters occupied by myself and family, are not only held by the courtesy of yourself, but by direct permission from <persName reg="Sheridan, Philip H.">Lieut. Gen. Sheridan</persName>, who said he would if necessary issue a "Special Order" permitting my husband to retain these Quarters, or any others in the District which he might choose for his Private Quarters. (Leckie, p. 35)</quote>
+</p>
+
+<p>
+How women responded to these posts depended on their expectations as well as the quality of the housing they were assigned.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> was desperately homesick for her home and family in <placeName rend="State\Territory" reg="New York">New York</placeName> state.  During the three years she spent at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> and <placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">Fort McPherson</placeName>, she suffered a miscarriage, gave birth to a son, saw her closest friends transferred to distant posts, and watched her physician husband struggle with increasing loss of vision.  Yet, she often wrote of how much she enjoyed their comfortable and cozy little house at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>.
+
+<quote>
+We are deprived of very much that we would greatly enjoy seeing and having, but these months and years we have spent in this happy house so quietly by ourselves, we shall always remember as a very happy time.  (Feb 4, 1877 in Buecker, p. 28)</quote>
+
+When the Winnes were transferred to <placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">Fort McPherson</placeName> in south central <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName>, <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline</persName> wrote to her brother that she was reluctant to leave their house at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney</placeName>, but once she was settled in her quarters at <placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">McPherson</placeName>, she happily described it as
+
+<quote>
+more roomy than the one we occupied at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>.  The parlor is much larger, and also the bedroom and the kitchen here would make two of my old one.  We have a large coal stove in the parlor and a small one in our bedroom, so we can keep . . . warm all the time . . . .  It is astonishing how soon one can feel at home in new quarters and at a new post in the army.  Now the change is made &amp; we are settled we don't mind.   (December 6, 1877,  Buecker, p. 40)</quote>
+</p>
+
+<p>
+When housing was not available at a post, or while traveling between posts, and occasionally at temporary military camps, officers' families lived in tents until more substantial housing became available.  Though it might have been more troublesome for women with small children, many officers' wives thought that camping in tents was fun, and usually as comfortable for summer weather as permanent housing.  When <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName>, as a civilian years after <persName reg="Custer, George Armstrong">Armstrong</persName>'s death, owned a summer cabin, she kept a tent on the grounds so that she could sleep out as she had so many times while traveling on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> with her husband.</p>
+
+<figure entity="aow.img.RG3126-2-87">
+<figDesc>Figure 5. <persName reg="Custer, George Armstrong">Armstrong</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> in their private dining tent near <placeName rend="Military Post" reg="Camp Hayes" key="hayes">Camp Hayes</placeName> in 1867.  The dog was probably one of <persName reg="Custer, George Armstrong">Custer</persName>'s prized hunting dogs.  Note the striker attending the Custers' meal.  Courtesy Nebraska State Historical Society Photograph Collection.  RG3126.PH.0.0.</figDesc>
+</figure>
+ 
+<p>
+<persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> wrote about the joy of camping in tents on a military expedition.
+
+<quote>
+It is really delightful to be in a tent once more, and I am anticipating much pleasure in camping through a strange country.  A large wagon train of commissary stores will be with us, so we can easily add to our supplies now and then.  It is amazing to see the really jolly mood everyone seems to be in. . . . And the wives! There is an expression of happy content on the face of each one.  We know, if the world does not, that the part we are to take on this march is most important.  We will see that the tents are made comfortable and cheerful at every camp; that the little dinner after the weary march, the early breakfast, and the cold luncheon are each and all as dainty as camp cooking will permit.  (Roe,  pp. 165&#8211;166)</quote></p>
+
+<figure entity="aow.img.RG1517-13-13">
+<figDesc>Figure 6.  Two tents housing two women and children at <placeName rend="Military Post" reg="Camp Conrad" key="conrad">Camp Conrad</placeName>.  <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Fort Sidney</placeName> is in the background. 1893.  Courtesy Nebraska State Historical Society Photograph Collection. RG 1517PH.</figDesc>
+</figure> 
+</div1>
+ 
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.iv.0001" type="prev"/>
+</item>
+<item>
+<xptr n="aow.iv.0003" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

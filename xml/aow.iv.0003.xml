@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG4488-18 SYSTEM "aow.img.RG4488-18.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG2311-23 SYSTEM "aow.img.RG2311-23.jpg" NDATA jpeg>
+<!ENTITY aow.img.RG2548-26 SYSTEM "aow.img.RG2548-26.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.iv.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"I could, I can and I <hi rend="italic">do</hi>!: Daily Life in a Great Plains Military Post</title>
+<title level="m" type="sub">Climate and Environment</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.iv.0003</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-05</date>
+<respStmt>
+<name>Laura Weakly / Adam Kiser</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Climate and Environment</head>
+<div1>
+
+<p>
+Military posts on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> were often set in bleak and unattractive locations and subject to all kinds of weather.  Terrible cold and heat, constant wind, devastating floods, extended drought, and dust storms are common to the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  Officers' wives learned to respect the weather, but found that they and their children had the capacity to withstand weather extremes that they had not encountered before coming to the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> rode from <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> to <placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">Fort McPherson</placeName> in an Army ambulance with a two month old baby wrapped in fur against the zero degree cold.  She "did not suffer at all" she wrote, and "Baby slept all the way." (November 30, 1877, Buecker, p. 38)
+</p>
+
+<p>	
+<persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> was caught in a dust storm while riding with two officers near <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> in southeastern <placeName rend="State\Territory" reg="Colorado">Colorado</placeName>.  The storm was frightening and without the help of the experienced officers she might have perished in the suffocating dust.  She wrote to her family
+
+<quote>Well, that cloud increased in size with a rapidity you could never imagine, and soon the sun was obscured as by an eclipse.  It became darker and darker, and by the time we got opposite the post trader's there could be heard a loud, continuous roar, resembling that of a heavy waterfall.</quote>
+
+Each officer took one side of <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Mrs. Roe</persName>'s horse's bridle and together they managed to keep the horses calm until they were on the parade ground in the middle of the post.  Then the dust storm struck with its full fury.
+
+<quote> . . . as we reached the officer's line the storm struck us, and with such force that I was almost swept from my saddle.  The wind was terrific and going at hurricane speed, and the air so thick with sand and dirt we could not see the ears of our own horses.  (Roe, pp. 30&#8211;31) </quote>
+
+Of course, the aftermath of the storm for housewives and servants meant hours of cleaning every item in the house of the dust that seeped in through crevices and around windows.</p>
+
+<p>
+Officers' wives, especially the daughters of genteel middle-class families, had been accustomed to lovely homes that displayed their social and economic status, as well as their aesthetic taste.  Flower gardens and shade trees not only demonstrated status, but provided beauty and comfort for the home.  Cold winters and hot, dry summers limited their ability to grow flowers and vegetables which many of the women craved.  Flowers, needing constant attention in the uncertain environment of the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>, were especially difficult to manage.  At <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>, and other <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts, cucumber vines grew up along the front porches of officers' quarters to provide shade and a cool place to sit and visit.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName>, writing to her family, noted that 1875 was an unusually wet summer at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> so the "porches are all shaded with the wild cucumber vine." Gardens, she thought, could be established at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> "if anyone understood the business, but no one here at the post does, and the citizens [of nearby <placeName rend="City/Town" reg="Sidney, Nebraska">Sidney</placeName>] think only of raising cattle and selling whiskey. . . ." (August 15, 1875, Buecker, p. 16)
+</p>
+ 
+<figure entity="aow.img.RG4488-18">
+<figDesc>Figure 7. <persName reg="Hamilton, Kate Chaffee">Kate Chaffee Hamilton</persName> and her husband lived in these quarters at <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName>. The porch is shaded with wild cucumber vines.  Courtesy Nebraska State Historical Society Photograph Collection RG4488PH.01</figDesc>
+</figure>
+
+<p>
+<persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny Dunbar Corbusier</persName> planted a garden at <placeName rend="Military Post" reg="Camp Sheridan" key="sheridan">Camp Sheridan</placeName> in northwestern <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> in 1878.  She raised "geraniums, nasturtiums, and other flowers, and although there were no indications that vegetables had ever been raised, we planted a garden down near the creek.  When we were about to reap the fruits of our labor, a cloudburst washed everything away." (Corbusier, p. 81)</p>
+
+<p>
+On the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> between 1865 and 1880, military housing rarely offered mature trees for shade or a windbreak.  Trees had to be planted and cared for, and precious water had to be brought to them.  <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> described <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> in her fictional account of military life as having, "glaring white walls, unrelieved by trees or verdure of any kind [which] were exceedingly trying to the eyes." (Slaughter, "Amazonian Corps" 6 January 1875. See also Fort Rice, Figure 1)</p>
+
+<p>
+But when grown, trees made the posts far more comfortable and appealing to women.  Trees were planted at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> in the early 1870s.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> wrote home that rains had greened the prairie grasses and the newly planted trees had "grown wonderfully" with the rain.  (August 15, 1875,  Buecker, p. 16)</p> 
+  
+<figure entity="aow.img.RG2311-23">
+<figDesc>Figure 8.  Newly planted trees line the parade ground at <placeName rend="Military Post" reg="Fort Niobrara" key="niobrara">Fort Niobrara</placeName>.  Courtesy Nebraska State Historical Society Photograph Collection.  RG2311.PH.0.23.</figDesc>
+</figure>
+
+<figure entity="aow.img.RG2548-26">
+<figDesc>Figure 9. Trees on the officers' row at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Fort Sidney (formerly Sidney Barracks)</placeName> in 1885 about ten years after <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> noted the growth of trees in a wet summer.  Nebraska State Historical Society Photograph Collection RG2548.PH.0.26.</figDesc>
+</figure>
+
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.iv.0002" type="prev"/>
+</item>
+<item>
+<xptr n="aow.iv.0004" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>	 

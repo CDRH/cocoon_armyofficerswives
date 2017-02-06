@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.intro.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Introduction</title>
+<title level="m" type="sub">Methodology</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.intro.0002</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866-1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Methodology</head>
+<div1>
+
+
+<p>Drawing on diaries, letters, and memoirs written by officers' wives who spent a great deal of time on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>, I have chosen to use sources that have been published or are easily accessible, rather than materials that are available only in archives.  I depend heavily on quotations of the women's own words, so the reader can know how the women described their lives on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  Their books are all well written and extremely interesting.  I urge readers to read them in their entirety if possible.  Photographs accompanying the text were made during the period under discussion.</p>
+
+<p>I often refer to women by their first names rather than using the historian's traditional system of nomenclature using surnames only.  I do this intentionally for clarification.  For some of these women, whose husbands had notable careers and were famous in their time and today, it is necessary to be sure that they are distinguished from their husbands.</p>
+
+<p>When referring to the officers, I usually use their regular rank rather than brevet rank.  Brevet ranks were conferred on the field, and most officers who served in the Civil War were reduced in rank in the "peacetime" army.  Regular rank better relates to their duties and post hierarchies.  For instance, <persName reg="Custer, George Armstrong">George Armstrong Custer</persName> may be more familiar by his Civil War brevet rank, <persName reg="Custer, George Armstrong">General Custer</persName>.  His wife, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth</persName>, and others referred to him by that rank, but his official rank in the 1870s was Lt. Colonel.  Lieutenants were addressed as "mister," but for clarification, I use rank.</p>
+
+<p>I use military terminology whenever necessary.  Some of the terms in common use in officers' wives memoirs are:
+<list>
+<item><label>Ambulance:</label>  This vehicle, either open or enclosed and drawn by mules or horses, was used to transport people (rather than equipment).  Soldiers rode in an ambulance if they were ill or injured.  It was the most common form of transportation of Army families on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> frontier.</item>
+<item><label>Colored troops:</label>  African Americans served under white officers in segregated regiments following the Civil War.  "Colored troops" or "buffalo soldiers" are the historical terms for these soldiers.</item>
+<item><label>Forage cap:</label>  The crushed, blue, short-billed cap of the soldier.  Officers' wives often wore this cap for outdoor events, or in formal portraits.</item>
+<item><label>Frontier Army:</label>  Term used by officers' wives and others to describe the portion of the 
+U.S. Army which occupied the often temporary, quickly built, isolated garrisons, where the Army's duties included bringing Indian tribes to reservations, controlling outlaw activity in sparsely settled areas, and protecting the railroad surveyors and track builders.  The term was in common use, but by the mid-1880s women began to recognize, as historian Frederick Jackson Turner did in 1893, that frontier conditions were fading as some of the posts closed and life at permanent posts such as <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> became far more comfortable.</item>
+<item><label>Indians:</label>  Term referring to any of the many tribes, or individuals who occupied the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> during the period of discussion.  I use tribal or individual names when they are known to me, but often the only term available is Indian.  The term suggests the level of ignorance of race and culture that officers' wives brought to the <placeName rend="Region" reg="Great Plains">Plains</placeName>.</item>
+<item><label>Rations:</label>  The supply of food maintained at garrisons or on campaigns sufficient for each soldier, officer, and civilian employee including laundresses.  Officers' wives and children did not draw rations, but could purchase food and other supplies from the quartermaster's stores, by mail, or in nearby towns.</item>
+<item><label>Striker:</label>  A soldier given temporary duty in an officer's household or assigned to personally attend an officer.  The system was eliminated in the early 1880s, but continued to be used when soldiers were available for extra paid work as cooks, servers, houseworkers, and a variety of domestic tasks.</item>
+</list>
+</p>
+</div1>
+
+<!-- <div1 type="file references">
+<list>
+<item>
+<xptr n="aow.intro.0001" type="prev"/>
+</item>
+<item>
+<xptr n="aow.intro.0003" type="next"/>
+</item>
+</list>
+</div1> -->
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.0001 SYSTEM "aow.img.0001.jpg" NDATA jpeg>
+<!ENTITY aow.img.0009 SYSTEM "aow.img.0009.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.vi.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Centers of Refinement:  Maintaining the Image of Rank and Class</title>
+<title level="m" type="sub">Entertaining</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vi.0006</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Entertaining</head>
+<div1>
+
+
+<p><persName rend="bio" reg="Barnitz, Jennie Platt" id="barnitz.j">Jennie Barnitz</persName> joined <persName reg="Barnitz, Albert">Albert</persName> at <placeName rend="Military Post" reg="Fort Leavenworth">Fort Leavenworth</placeName> in December 1867, and found the post and her quarters pleasing. She wrote to her mother about the vibrant social life:
+<quote>
+I had twelve calls after tea last evening, which will give you a little idea of our evenings. Three ladies and nine gentlemen.  Every two weeks there is a Hop, at which they have elegant suppers, &amp; every two weeks a promenade concert.  We have a Theatre &#8212; Tableaux etc. (Utley, p. 130)</quote></p>
+
+<p><persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Jennie</persName>'s description of social calls, hops (or informal dances), balls (formal dances or masquerades), suppers, concerts, and theatre was typical of most posts.  Even at small or remote posts there were dances for almost any occasion.  Holidays or the arrival of a new company, even for a brief stopover, called for music, dancing, and grand suppers.  Special guests enlivened the quiet life of a <placeName rend="Region" reg="Great Plains">Plains</placeName> fort.  A visit by General <persName reg="Sheridan, Philip H.">Sheridan</persName> or General <persName reg="Sherman, William T.">Sherman</persName> was a major social as well as military event.  In addition, travelers turned to Army officers for information on <placeName rend="Region" reg="Great Plains">Plains</placeName> life and politics.  Officers and their wives welcomed special guests such as the artist <persName reg="Moran, Thomas">Thomas Moran</persName> and writers <persName reg="Wister, Owen">Owen Wister</persName> and <persName reg="Twain, Mark">Mark Twain</persName>.  With no less pomp, they prepared fine dinners for such illustrious Native American men as Chief <persName reg="Washakie">Washakie</persName> of the Shoshone nation. (Burt, pp. 254, 113).</p>
+
+<p>Though officers' wives had to sell their furniture every time they moved to a new post, they tried to keep a set of fine dishes and silver serving pieces that could be transported in relatively small boxes. <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> was surprised to find "dainty china and bright silver" setting the table of the commanding officer at <placeName rend="Military Post" reg="Fort Lyon">Fort Lyon</placeName>.  <persName reg="Gibbs, Mrs.">Mrs. Gibbs</persName>, known to "[put] on an immense amount of style," used her best silver to entertain <persName reg="Sherman, William T.">General Sherman</persName> when he visited <placeName rend="Military Post" reg="Fort Harker">Fort Harker</placeName>. <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> sent for her china before she set out for the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  Setting a fine table not only reaffirmed their upbringing as ladies, but asserted their rank as wives of commanding officers.  (Roe on Mrs. Philips, p. 2; Barnitz on Mrs. Gibbs, pp. 15, 108; Burt, pp. 45&#8211;46)</p>
+
+<p>Officers' wives give an inordinate amount of space in their letters and memoirs to describing the various balls, hops, dinners, and holiday entertainments they participated in, attended, or prepared.  One might be left with the impression that their lives were an endless social whirl and that little else mattered.  Certainly they danced more than their eastern counterparts.  <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> explained that Army officers were good dance partners, the dances brought the families together in pleasant circumstances, and that dancing was good exercise which Army couples enjoyed until the officer retired from the service.  Dancing was another way in which Army women distinguished themselves from other women of similar class for, as <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Biddle</persName> claimed, "an Army woman usually keeps her youth because she dances so much."  (Biddle, pp. 49&#8211;50)</p>
+
+<p>The regimental band was usually assigned to the regimental headquarters garrison, but a band or orchestra could be got together at almost any post from among the officers and enlisted men who played instruments. (Baldwin, p. 37) A band was an important adjunct to military events, musically escorting the troops out of the post as they left on campaign (usually playing "The Girl I Left Behind Me"); playing for funerals &#8212; dirges on the way to the cemetery, light airs or jigs on return; welcoming fresh troops.  So important was this tradition, that when two relief companies arrived at <placeName rend="Military Post" reg="Fort Phil Kearny">Fort Phil Kearny</placeName> after the Fetterman Massacre, the band was employed to welcome the new troops with "impromptu dances and musicales" after receiving assurances from <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond</persName> that she did not mind the frivolity while she was in mourning.  (F. Carrington, p. 173&#8211;175)</p>
+
+<p><persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> described the round of social events that signaled the arrival of new regiments at <placeName rend="Military Post" reg="Fort Clark">Fort Clark</placeName>. 
+<quote> 
+Those already stationed at <placeName rend="Military Post" reg="Fort Clark">Fort Clark</placeName> gave a large ball to welcome the new-comers . . . which courtesy was returned by a very grand affair.  Then each regiment &#8212; six were represented, two of them colored &#8212; extended hospitalities on its individual account and each vied with the others in somewhat varying the character of the entertainment. (Boyd, pp. 277&#8211;278)</quote></p>
+
+<p>Balls and hops were given and attended by the officers and their wives, but the enlisted men usually decorated the halls and served the meals.  As <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> noted:
+<quote>
+We had only to notify the quartermaster that a hop was to be given, when our barren hallway would immediately be transferred [sic] into a beautiful ballroom, with canvas stretched tightly over the floor, flags decorating the sides, and ceiling so charmingly draped as to make us feel doubly patriotic.  (Boyd, p. 198&#8211;199)</quote></p>
+
+
+<figure entity="aow.img.0001">
+<figDesc>Figure 6.  A <placeName rend="Military Post" reg="Fort Buford">Fort Buford</placeName> hall was decorated for a dance given in honor of <persName reg="Whistler, Colonel">Colonel Whistler</persName> in 1886.  Officers' wives often directed enlisted men in the placing of decorations for the balls.  Typically, the halls were decorated with flags, sabers, and greenery.  The cannons in this picture are unusual. Courtesy State Historical Society of North Dakota 0030-I-08.</figDesc>
+</figure> 
+
+<p>Enlisted men held their own dances which laundresses and servants attended.  When the enlisted men held a special social event, officers and their wives were usually invited and attended for a short while.  That was the extent of social mixing across rank at most posts.</p>
+
+<p>Masquerade balls were popular at <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts.  Somehow, with few resources, officers' wives created complicated and original costumes for the dance.  Masks hid their faces and each dancer took delight in trying to guess the person behind the mask.  Officers sometimes dressed as women; apparently there was no costume too silly to impede an officer's career.  The women may have found it more satisfying to make ridiculous costumes for a masquerade than to try to come up with fashionable finery for a ball.  At <placeName rend="Military Post" reg="Fort Lyon">Fort Lyon</placeName>, <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> attended a masquerade where
+<quote>
+<persName reg="Anderson, Lieutenant">Lieutenant Anderson</persName>, who was six feet two or three inches tall, went as a skeleton.  His costume was of heavy black [fabric] and was painted in white, the mask being painted as a skull.  <persName reg="Hentig, Captain">Hentig</persName> went as the 'Evil Eye.'  He was also in black, with one eye, and really scared me whenever he approached. . . . There was a harlequin, and the devil . . . who was sewed up in red and painted with white and phosphorus. . . . [N]o one knew them.  (Biddle, p. 122&#8211;123)</quote></p>
+
+<figure entity="aow.img.0009">
+<figDesc>Figure 7.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> sent this picture, taken in their backyard at <placeName rend="Military Post" reg="Fort Concho">Fort Concho</placeName> in February 1876, to her son <persName reg="Grierson, Robert">Robert</persName> with a complete description of each costume.  The costumes include a shepherdess, the Jack of Clubs and Queen of Hearts, a bearded "lady" (<persName reg="Douglas, Lt. Colonel">Lt. Colonel Douglas</persName>), a devil, a gypsy, a king (Colonel <persName reg="Grierson, Benjamin">Grierson</persName>), and a jockey. (Leckie, pp. 85&#8211;86).  Courtesy Fort Davis National Park.</figDesc>
+</figure>
+ 
+  
+<p>Residents of military posts enjoyed plays, musicals, and skit nights which passed the time.  Usually officers and their wives were the actors.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> devotes much of her memoir to "theatricals" or tableaux, which were sometimes well-known plays and sometimes were organized at the post.  While traveling the central <placeName rend="Region" reg="Great Plains">Plains</placeName>, the Burts spent a few days at <placeName rend="Military Post" reg="Fort Sedgwick">Fort Sedgwick</placeName> in southwestern <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> where <persName reg="Burt, Andrew">Major Burt</persName>'s "theatrical talent" bloomed.  He and <persName reg="Van Voast, Lt. Colonel">Lt. Colonel Van Voast</persName> prepared a vaudeville show for the post residents.  Years later, stationed at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)">Fort Sidney</placeName>, <persName reg="Burt, Andrew">Burt</persName> was still engaged in theatre and one play was 
+<quote>
+so successful that [it] was given for charity at the theater in [<placeName rend="City\Town" reg="Sidney">Sidney</placeName>] reaping a harvest for the poor. . . . [The actors] covered themselves with glory as stars on the stage.  (Burt, p. 228)</quote></p>
+
+<p>Weddings brought post residents together in a joyful occasion that required no less preparation than did the balls.  A regimental wedding was glamorous as any other event at a remote post and seemed to draw the envy of women who had married in their parents' eastern homes.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">France Roe</persName> attended a "real Army wedding" at <placeName rend="Military Post" reg="Fort Shaw">Fort Shaw</placeName>. The bride, "a child of the regiment," married a lieutenant of the regiment.  The wedding hall was decorated with American flags, regimental flags, ropes of cedar branches, and wild flowers.  Two companies of enlisted men, one commanded by the father of the bride, the other associated with the groom, stood at attention in full dress uniforms at the back of the hall.  The bride received gifts of silver serving dishes from the officers of the regiment and the enlisted men.  The regimental band played for the wedding and the reception.  (Roe, pp. 348&#8211;350)</p>
+
+<p>Holidays, especially Christmas and New Year's were marked by feasts and home visits.  Army women placed orders with the quartermaster for special foods to be sent from distant cities.  In 1878 <persName rend="bio" reg="Corbusier, Fanny Dunbar" key="corbusier.f">Fanny Corbusier</persName>'s Christmas dinner shopping list included items from <placeName rend="City\Town" reg="Grand Island">Grand Island</placeName>, <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> and <placeName rend="City\Town" reg="Chicago, Illinois">Chicago</placeName>.  Before sitting down to her own table with her guests, following Army tradition, the Corbusiers' went to the enlisted men's mess hall "to inspect the men's dinner, which was equally as good as ours, for the Captain was a good provider."  (Corbusier, p. 89)</p>
+
+<p>On January 1, 1868, <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> kindly invited <persName reg="Smith, Mrs. A. E.">Mrs. A. E. Smith</persName>, wife of a lieutenant of her husband's company and a woman she had once called "commonplace," to receive calls with her at <placeName rend="Military Post" reg="Fort Leavenworth">Fort Leavenworth</placeName>. They received more than fifty guests including forty-eight officers, "some of them of high rank," and five gentlemen from the city, "one a judge."  The day was pleasant, but <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> was nearly overwhelmed by the "responsibility to entertain so many."  (Utley, p. 132)</p>
+
+<p>The sheer number of social events and the detail with which Army women recorded them in letters, diaries, and memoirs suggest the importance of the occasions to people who always lived with danger in the background, but expected, nevertheless, to maintain standards of class and rank.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName>, thinking about a dance she enjoyed at <placeName rend="Military Post" reg="Fort Harker">Fort Harker</placeName>, explained that social events chased away the isolation of a remote post.  "Forgotten for the time was absence of home and the associations of dear friends of the past."</p>
+
+
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vi.0005" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vi.0007" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI> 

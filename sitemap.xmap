@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+
+  <map:components>
+    <map:serializers default="xhtmlutf8">
+    <map:serializer logger="sitemap.serializer.xhtml" mime-type="text/html" name="xhtmlutf8" pool-grow="2" pool-max="64" pool-min="2" src="org.apache.cocoon.serialization.XMLSerializer">
+      <!--+
+          | You can choose from Strict, Transitional, or Frameset XHTML.
+          | For Strict XHTML set doctype to:
+          |   <doctype-public>-//W3C//DTD XHTML 1.0 Strict//EN</doctype-public>
+          |   <doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd</doctype-system>
+          | For Transitional XHTML set doctype to:
+          |   <doctype-public>-//W3C//DTD XHTML 1.0 Transitional//EN</doctype-public>
+          |   <doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd</doctype-system>
+          | For Frameset XHTML set doctype to:
+          |   <doctype-public>-//W3C//DTD XHTML 1.0 Frameset//EN</doctype-public>
+          |   <doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd</doctype-system>
+          |
+          | Default XHTML doctype in Cocoon is XHTML Strict. If you want to use more than one
+          | XHTML DTD simultaneously, you can define several XHTML serializers.
+          +-->
+           <doctype-public>-//W3C//DTD XHTML 1.0 Transitional//EN</doctype-public>
+           <doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd</doctype-system>
+      <encoding>US-ASCII</encoding>
+	  <omit-xml-declaration>yes</omit-xml-declaration>
+    </map:serializer>
+	</map:serializers>
+	
+    <map:generators default="file">
+      <map:generator name="customsearch" src="edu.unl.cdrh.cocoon.generation.CustomSearchGenerator" />
+    </map:generators>
+    
+    <map:actions>
+      <map:action name="search-builder" src="edu.unl.cdrh.cocoon.acting.SearchStringAction"/>
+   </map:actions>
+      
+  </map:components>
+  
+  
+  <map:pipelines>
+  
+     <map:component-configurations>
+    <global-variables>
+        <!--<index-path>/usr/local/tomcat/webapps/cocoon/cdrh/radicalscatters</index-path>-->
+        <index-path>C:\apache\apache-tomcat-4.1.36-LE-jdk14\apache-tomcat-4.1.36-LE-jdk14\webapps\cocoon\radicalscatters\text_index</index-path>
+    </global-variables>
+  </map:component-configurations>
+  
+  
+    <map:pipeline>
+
+
+      <map:match pattern="^(index.html)?$" type="regexp">
+        <map:read src="index.html"/>
+      </map:match>    
+    
+	  <map:match pattern="^daily_life/(index.html)?$" type="regexp">
+        <map:generate src="xml/aow.iv.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>
+	  <map:match pattern="daily_life/p*">
+        <map:generate src="xml/aow.iv.{1}.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>
+	
+	  <map:match pattern="^family_life/(index.html)?$" type="regexp">
+        <map:generate src="xml/aow.v.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>
+	  <map:match pattern="family_life/p*">
+        <map:generate src="xml/aow.v.{1}.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>
+
+	  <map:match pattern="^rank_and_class/(index.html)?$" type="regexp">
+        <map:generate src="xml/aow.vi.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>
+	  <map:match pattern="rank_and_class/p*">
+        <map:generate src="xml/aow.vi.{1}.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	
+	  <map:match pattern="^indians/(index.html)?$" type="regexp">
+        <map:generate src="xml/aow.vii.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>
+	  <map:match pattern="indians/p*">
+        <map:generate src="xml/aow.vii.{1}.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	
+	  <map:match pattern="biographies">
+        <map:generate src="xml/aow.ii.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	  
+	  <map:match pattern="military_posts">
+        <map:generate src="xml/aow.iii.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	
+	  <map:match pattern="bibliography">
+        <map:generate src="xml/aow.bibl.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	  
+	  <map:match pattern="lesson_plans">
+        <map:generate src="xml/aow.plan.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+		 
+	  <map:match pattern="about/introduction">
+        <map:generate src="xml/aow.intro.0001.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	   
+	  <map:match pattern="about/methodology">
+        <map:generate src="xml/aow.intro.0002.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	  
+	  <map:match pattern="about/acknowledgements">
+        <map:generate src="xml/aow.intro.0003.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	
+	  
+	  <map:match pattern="about/barbara_handy-marchello">
+        <map:generate src="xml/aow.intro.0004.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+	  </map:match>	 
+
+	
+      <map:match pattern="*.html">
+        <map:generate src="xml/{1}.xml" />
+        <map:transform src="xsl/aow.tei.xsl" />
+        <map:serialize type="xhtmlutf8" />
+      </map:match>
+	  
+      <map:match pattern="javascript/*.js">
+        <map:read src="javascript/{1}.js" mime-type="text/javascript"/>
+      </map:match>
+    
+      <map:match pattern="*.pdf">
+        <map:read src="{1}.pdf" mime-type="application/pdf"/>
+      </map:match>
+	  
+      
+      <map:match pattern="**/*.jpg">
+        <map:read src="{1}/{2}.jpg" mime-type="image/jpeg"/>
+      </map:match>
+      
+      <map:match pattern="**/*.gif">
+        <map:read src="{1}/{2}.gif" mime-type="image/gif"/>
+      </map:match>
+      
+       <map:match pattern="css/*.css">
+        <map:read src="css/{1}.css" mime-type="text/css"/>
+      </map:match>  
+      
+      
+      
+    </map:pipeline>
+  </map:pipelines>
+</map:sitemap>

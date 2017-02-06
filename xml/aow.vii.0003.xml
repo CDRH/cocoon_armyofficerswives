@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.vii.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">So Wholly Unlike Cooper's Indians: Army Women and Plains Indians</title>
+<title level="m" type="sub">Women, Racism, and Gender</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vii.0003</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Women, Racism, and Gender</head>
+<div1>
+
+<p>Officers' wives generally expressed distrust of all Indians and disgust for their personal appearance.  At the same time, they often sympathized with Indian mothers and took an interest in the well-being of Indian children.  They sometimes called for the entire extinction of the Indian population of the United States, but also identified Indians whom they trusted or pitied.  Their racism was complex and incomplete.</p>
+
+<p><persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName>, like many other officers' wives considered Indians dirty and feared getting too close.  When several Brule Sioux passed their quarters one day as she stood with her husband on the porch, she worried that they "would all want to shake hands, but they passed by."  One of them, <persName reg="Red Fly">Red Fly</persName>, greeted <persName reg="Winne, Charles">Charles Winne</persName>, the post surgeon, with "'how be you Dr.?'"  The friendly greeting did not moderate <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline</persName>'s view that  "they are dreadful beggars" and that "it would be a great mercy to them if they could all freeze to death, as many of them have this winter." (Winne, p. 7&#8211;8)  Her opinion was less virulent a few weeks later when she wrote to her brother
+
+<quote>
+I do pity these poor wretches, for all they are so deceitful.  There are some good ones &#8212; those who have done good service to the whites.  And there is no doubt they are dreadfully imposed upon and cheated by the Indian agents and traders.  They don't get half that the Govt. sends them, and they are poor as poverty itself. . . . (Winne, p. 10)</quote>
+
+In a subsequent letter, <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline</persName> reported to her brother that she and <persName reg="Winne, Charles">Charles</persName> were reading a "very interesting book, "'Primative Cultures.'"  This source of information on non-European societies probably supported <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName>'s views of the superiority of Western cultures. <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName> was unable to sort out her personal fear, her sense of cultural superiority, and her knowledge of the enforced poverty and dependence that was robbing the Brule of their dignity.  The result was pity combined with hatred of an entire race and despair over the muddled and poorly executed federal policies that determined the fate of both the Indians and the Army in the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>. (Winne, p. 11)</p>
+
+<p>While <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName>'s views were inconsistent, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName>'s views were firm.  When, in 1873, she was riding north along the Missouri River with an officer escort, they came suddenly upon a group of young Indian men, probably on a hunting expedition.  Without acknowledging that the men were probably as startled and frightened as she was, she noted two facts about the situation:  "Indians were Indians" to her and she was in imminent danger of being captured or killed &#8212; by either the Indians or the officer; and her "horse reared violently at first sight of the Indians . . . ."  Taking her cues from her trusted horse, the many stories she had heard about Indians over her long years in the Army, and her assumption that "anyone having me in charge . . . should shoot me instantly" if she were in danger, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> appears to have held a lifelong fear and repulsion of Indians.  Though, unlike other officers' wives, she did not call for extermination in print, she seldom found any common ground with Indians, not even those who were guests in her home. (Custer, <hi rend="italic">Boots and Saddles</hi>, pp. 50&#8211;51)</p>
+
+<p>The presumed weakness of women and the assumption that women who were taken into captivity faced a fate worse than death contributed to Army women's fear of Indians as well as the officers' commitment to carrying out federal Indian policy.  Even a sturdy, adventurous woman such as <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> resorted to the nineteenth century gender stereotype of a woman's weakness in the face of danger.  Her first encounters with Indians at <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> disappointed and frightened her.  They were "so wholly unlike Cooper's red men," she wrote in reference to James Fennimore Cooper's widely-read novels of frontier life.  She described an encounter with a few Utes at a store where she had gone to shop with another, more experienced, officer's wife.  "We were pushed aside with such impatient force that we both fell over on the counter," she wrote.  Though <persName reg="Phillips, Mrs.">Mrs. Phillips</persName> handled the situation well, <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances</persName> panicked.
+
+<quote>
+We were actually prisoners &#8212; penned in with all those savages, . . . with quantities of ammunition within their reach, and only two white men to protect us. (Roe, pp. 10&#8211;14)</quote></p>
+
+<p><persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName>, who proudly rode dozens of military horses without falling off, who traveled across the <placeName rend="Region" reg="Great Plains">Plains</placeName> with her husband to nearly every assignment in all kinds of weather, and who once fearlessly confronted some frontier toughs on a stage coach, suddenly became delicate in the presence of Utes.   The gender concept of female delicacy was closely linked to the suppression of non-whites in the nineteenth century. On the <placeName rend="Region" reg="Great Plains">Plains</placeName>, the Army employed the same sort of racial fear used in the South to control African Americans after the Civil War.  Simply put, (white) women are weak; women must be protected from danger; non-white men are dangerous; non-white men must be controlled so white women can live comfortably.  In the last quarter of the nineteenth century, as the tensions over control of the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> played out in warfare, forced land cessions, and removal to reservations, no one, not even officers' wives whose encounters with Indian women might have given them more insight, turned this formula around to understand the threat that Indian women faced.</p>
+
+
+
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vii.0002" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vii.0004" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

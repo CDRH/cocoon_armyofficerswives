@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.vi.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Centers of Refinement:  Maintaining the Image of Rank and Class</title>
+<title level="m" type="sub">Middle-class Reform</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vi.0004</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Middle-class Reform</head>
+<div1>
+
+
+<p>During the last quarter of the nineteenth century, middle-class women all over the United States formed organizations that challenged the sexual double standard, and campaigned for suffrage, temperance, advancement of education, improved care of the mentally ill, and many other social, political, and economic causes.  These organizations were important in shaping American urban life.  Army women in frontier posts were isolated from these activities, and were reluctant to form organizations that would be severed when the regiment was re-assigned.  A few women, however, found opportunities to assert an interest in reform.  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName> favored women's right to vote and an equitable relationship between husband and wife.  It is not known whether her activities expanded beyond her letters to her husband, and it is not likely that a commanding officer's wife would act publicly on a topic as controversial as suffrage.  (Leckie, note, pp. 59&#8211;60)  <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> eventually became a suffragist, (though the term does not appear in her memoir) long after her husband resigned from the Army, but during her years at <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> and nearby <placeName rend="Military Post" reg="Camp Hancock" key="hancock">Camp Hancock</placeName>, her struggles with questions of women's rights usually resulted in her acquiescence to wifely subordination.</p>
+
+<p>Army women were more successful engaging education as a reform issue.  During her lengthy journey across the Southern <placeName rend="Region" reg="Great Plains">Plains</placeName> with her husband's regiment, <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie Alexander</persName> "began teaching <persName reg="Jacob">Jacob</persName>, <persName reg="Alexander, Andrew">Andrew</persName>'s 'brevet bugler,' to read."  <persName reg="Jacob">Jacob</persName>, only fourteen, was probably an African American child because <persName reg="Alexander, Andrew">Andrew Alexander</persName> was an officer of "colored troops."  <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie</persName> found <persName reg="Jacob">Jacob</persName> to be a "smart boy."  In educating him, she was acting on her belief that education was a path to a better life for former slaves.  (Alexander, p. 49)</p>
+
+<p>In the Custer household, <persName reg="Custer, George Armstrong">Armstrong</persName> undertook the education of "the two young housemaids" at the request of their families and with <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName>'s approval.  <persName reg="Custer, George Armstrong">Armstrong</persName> had been a teacher before the Civil War and "had the patience to teach them" which <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> apparently lacked. However, it is doubtful that their education was extensive because of Colonel <persName reg="Custer, George Armstrong">Custer</persName>'s duties and the Custers' vigorous social life.  Nevertheless, by mentioning this minor event in her memoir of life at <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> appropriated an important concern of middle-class women for herself and her husband. (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 106)</p>
+
+<p><persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> and other officers' wives organized hymn singing and prayer services for officers' families and enlisted men when no chaplain was regularly available.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Roe</persName> was certain that her musical ability did not meet that of the men in her choir, but her willingness to lead the choir and organize rehearsals helped to keep the men engaged in cultural activities rather than the gambling and drinking that often occupied enlisted men. (Roe, p. 338)</p>
+
+<p>Officers' wives comments about the excessive drinking that characterized most frontier posts were limited to private conversations with their husbands.  Gossip about drunkenness to the extent of being unable to report for duty could be devastating to a man's career.  <persName rend="bio" reg="Barnitz, Jennie Platt" id="barnitz.j">Jennie Barnitz</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> both secured promises from their husbands to abstain from alcohol, and <persName reg="Barnitz, Albert">Albert Barnitz</persName> also reluctantly gave up tobacco.  However, there is no record that Army women worked together to manage alcohol consumption at military posts.  Indeed, many Army women drank socially or served wine or champagne at garrison social events.</p>
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vi.0003" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vi.0005" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

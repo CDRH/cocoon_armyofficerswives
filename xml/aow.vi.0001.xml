@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.vi.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Centers of Refinement:  Maintaining the Image of Rank and Class</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vi.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Centers of Refinement:  Maintaining the Image of Rank and Class</head>
+<div1>
+
+<p>When <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> married a West Point graduate, he was soon assigned to a post in the far West.  <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances</persName> remained behind explaining that "I had lived in <placeName rend="State\Territory" reg="New York">New York</placeName> all my life, and considered it the only habitable place on the globe."  (Boyd, p. 23)  Many other young wives of Infantry and Cavalry officers thought that traveling west of the Mississippi River to set up housekeeping was "doleful . . . and so appalling" (Burt, p. 52)  But they soon learned that military posts were "centres of refinement" where the role of the officers' wife included establishing a home and maintaining a social order that would be acceptable to any upper middle-class woman anywhere in the United States. (Corbusier, p. 154)</p>
+
+<p>With few exceptions, officers' wives on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> in the late nineteenth century had a middle-class upbringing and a good education for the time.  They knew how to dress well, decorate their many homes, graciously entertain visitors, and raise their children to be healthy, well-educated citizens.  Some also took an interest in reform movements, literature, and progressive ideas on politics and religion.  Most women contributed to the development of their husbands' career and his movement through the ranks.  Officers' wives seemed to enjoy their role as protectors of middle-class standards.  Perhaps because lack of access to material goods and fancy foodstuffs limited all military families equally, they did not worry about worn out clothing and simple meals.</p>
+
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vi.0002" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG2311-30 SYSTEM "aow.img.RG2311-30.jpg" NDATA jpeg>
+<!ENTITY aow.img.0019 SYSTEM "aow.img.0019.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.iii.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Forts of the Great Plains</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.iii.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model and Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Forts of the Great Plains</head>
+<div1>
+
+<p>
+The <placeName rend="Region" reg="Great Plains">Great Plains</placeName> was the location of many Army posts because of the resistance of several <placeName rend="Region" reg="Great Plains">Plains</placeName> tribes to settlement, railroad construction, and transport roads that disturbed the bison herds, destroyed the grasslands that their horses and wild game depended upon, and crowded them into smaller areas where they faced more competition for the resources they needed for survival.  Posts were built or decommissioned depending on the need for military control of the region.</p>
+
+<p>
+The <placeName rend="Region" reg="Great Plains">Great Plains</placeName> was also one of the last regions of the United States to see settlement of farmers and tradesmen leading to the growth of cities.  Military posts increased in number during the last quarter of the nineteenth century as the Homestead Act and railroad transportation increased the desirability of the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> for settlers from the states and abroad.  Some posts began as small guard outposts that women rarely lived in and then grew to posts with housing for officers and enlisted men, hospitals, and adequate supplies for the support of the men and families who lived there.</p>
+
+<p>
+<placeName rend="Region" reg="Great Plains">Plains</placeName> Army posts constructed or reconstructed after the Civil War tended to be more comfortable for families depending on the location and the extent of military activity.  At some posts, an unused building might have been used as a library, but few posts had a chapel or school. At the most isolated posts, communications with any other post or with families in eastern states was limited to occasional mail transport by soldiers.</p>
+
+<p>
+Officers' wives could usually live at any post or camp if they insisted on going, and there was some form of housing for them, though some locations were not considered properly suited to a woman.  Officers often took their wives to temporary camps where they lived in tents during the summer.  Winter quarters generally were maintained at established posts.</p>
+
+<p>
+The following list covers about one-third of the posts that existed during the last quarter of the 19th century.  These are the posts that officers' wives mention in their letters or memoirs.  They are listed in alphabetical order.</p>
+
+<figure entity="aow.img.0010">
+<figDesc>Figure 1.  Map of <placeName rend="Military Post" reg="Fort Buford" key="buford">Fort Buford</placeName> on the western edge of northern <placeName rend="State\Territory" reg="Dakota Territory">Dakota Territory</placeName> on the Missouri River.  Note the road around the sets of Officers' Quarters, the segregation of the laundresses quarters, and the presence of a school house and library ("Lib.S.H.") east of the Officers' Quarters. Not all forts were laid out in exactly the same way, but all posts organized housing and work areas in order to prevent officers, soldiers, and non-enlisted personnel such as laundresses from mixing in their private activities. Drawing from Sheridan, Outline descriptions of the posts in the Military Division of the Missouri, commanded by Lieutenant General P.H. Sheridan.</figDesc>
+</figure>
+			 
+
+
+<div2 type="fort" id="abraham.lincoln">
+<p><placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName> (46º47'N, 100º47'W) was established in 1872 on the west bank of the Missouri River in northern <placeName rend="State\Territory" reg="Dakota Territory">Dakota Territory</placeName>.  The 7th Cavalry was stationed here with <persName reg="Custer, George Armstrong">Lt Col George Armstrong Custer</persName> commanding.  This post housed nine companies and provided housing for 12 officers' families plus a large comfortable house for the commanding officer.  In 1876, <persName reg="Custer, George Armstrong">Custer</persName> and his troops rode out from <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Lincoln</placeName> to join in the effort to subdue the Sioux at the Little Bighorn River in <placeName rend="State\Territory" reg="Montana">Montana</placeName>.  The post was abandoned in 1891.</p>
+</div2> 
+ 
+<div2 type="fort" id="buford">
+<p><placeName rend="Military Post" reg="Fort Buford" key="buford">Fort Buford</placeName> (48ºN, 104ºW) was established at the junction of the Yellowstone and Missouri Rivers in 1866 near the old fur trading post <placeName rend="Military Post" reg="Fort Union" key="union">Fort Union</placeName>.  This was prime buffalo hunting country of the Sioux.  The post was very isolated lacking a post office, telegraph wire, or railroad as late as 1872.  Officers' quarters were built of adobe and were classified as being in poor condition in 1872.  However, the post did have one of the few school houses to be found in western military posts. Troops occupied <placeName rend="Military Post" reg="Fort Buford" key="buford">Fort Buford</placeName> until the post was abandoned in 1895.</p>
+</div2>
+
+<div2 type="fort" id="smith">
+<p><placeName rend="Military Post" reg="Fort C. F. Smith" key="smith">Fort C. F. Smith</placeName> (45&#176;2' N, 107&#176;5'W) was established as one of the string of forts protecting the ill-fated <placeName rend="Trail" reg="Bozeman Trail">Bozeman Trail</placeName> through <placeName rend="State\Territory" reg="Wyoming">Wyoming</placeName> and <placeName rend="State\Territory" reg="Montana">Montana</placeName>.  The post was built of adobe in 1866 to house infantry troops.  The post was one of the most remote in the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> and considered a very difficult and undesirable assignment.  It was abandoned in 1868 along with the other forts protecting the <placeName rend="Trail" reg="Bozeman Trail">Bozeman Trail</placeName>.</p>
+</div2>
+
+<div2 type="fort" id="concho">
+<p><placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName> (32º24'N, 101º22'W) was established in 1867 and often served as the headquarters of the 9th and 10th  Cavalry, troops of mounted African Americans known commonly as Buffalo Soldiers, as well as infantry.  The post housed eight companies making it fairly large for the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  Seven good duplexes of stone housed officers and their families.  <placeName rend="Military Post" reg="Fort Concho" key="concho">Fort Concho</placeName> had a post office, but telegraph and rail communications were more than 215 miles distant.  The post was abandoned in 1889.
+</p></div2>
+
+<div2 type="fort" id="davis">
+<p><placeName rend="Military Post" reg="Fort Davis" key="davis">Fort Davis</placeName> (30º36'23"N, 103º36'45"W) in west <placeName rend="State\Territory" reg="Texas">Texas</placeName> was established in 1854 and was occupied continuously until 1891. It was rebuilt in 1867 after which it served as headquarters of the 9th Cavalry a segregated unit of African American troops commanded exclusively by white officers.  <placeName rend="Military Post" reg="Fort Davis" key="davis">Fort Davis</placeName> was located 450 miles from the nearest railroad and telegraph office.  It had 10 duplexes for officers and their families built of adobe or stone.  Located in a dry, hot area, gardens failed.  <placeName rend="Military Post" reg="Fort Davis" key="davis">Fort Davis</placeName> had a chapel which was rare at <placeName rend="Region" reg="Great Plains">Great Plains</placeName> posts.
+</p>
+
+<figure entity="aow.img.0019">
+<figDesc>Figure 2.  A typical floor plan of a two story officer's duplex.  This house has a shared veranda with four rooms on the first floor and two rooms on the second floor for each family.   The main floor front rooms measured approximately 15 by 15 feet. From Sheridan, Descriptions of Military Posts, 1876.</figDesc>
+</figure>
+
+</div2>
+<div2 type="fort" id="ellis">
+<p><placeName rend="Military Post" reg="Fort Ellis" key="ellis">Fort Ellis</placeName> (45º45'N, 110º53'W) began as a stockaded post in 1867 near <placeName rend="City\Town" reg="Bozeman, Montana">Bozeman</placeName>, <placeName rend="State\Territory" reg="Montana">Montana</placeName>. The stockade was soon removed to prevent the impression that soldiers had to hide from Indians.  <placeName rend="Military Post" reg="Fort Ellis" key="ellis">Fort Ellis</placeName> housed 400 soldiers and had housing for ten officers' families.  The commanding officer reported in 1872 that <placeName rend="Military Post" reg="Fort Ellis" key="ellis">Ellis</placeName> used one of its buildings as a post library. This post, like many other western posts, provided economic support to the settlers in the area as a purchaser of both goods and labor.   Though the buildings were reported to be in good condition, the intense winter cold at <placeName rend="Military Post" reg="Fort Ellis" key="ellis">Fort Ellis</placeName> caused the logs of the officers' quarters to snap as loudly as pistol shots. <placeName rend="Military Post" reg="Fort Ellis" key="ellis">Fort Ellis</placeName> closed in 1886.
+</p></div2>
+
+<div2 type="fort" id="harker">
+<p><placeName rend="Military Post" reg="Fort Harker" key="harker">Fort Harker</placeName> (38º40'N, 98º10'W) was one of a string of forts in western <placeName rend="State\Territory" reg="Kansas">Kansas</placeName> along the Smoky Hill River. Built in 1866, <placeName rend="Military Post" reg="Fort Harker" key="harker">Harker</placeName> was a supply station for forts further west.  It was a comfortable post with a post office, telegraph wire, and railroad station.  It was a short four mile drive to <placeName rend="City\Town" reg="Ellsworth, Kansas">Ellsworth</placeName> for supplies.  <placeName rend="Military Post" reg="Fort Harker" key="harker">Harker</placeName> housed four companies and had stone and frame quarters for thirteen officers' families.  Cholera struck the post in 1867, leaving nearly fifty soldiers and more than fifty civilians dead.  <persName reg="Sheridan, Philip H.">General Philip Sheridan</persName> moved his command headquarters to <placeName rend="Military Post" reg="Fort Harker" key="harker">Fort Harker</placeName> in 1868 to oversee the winter campaign against the Cheyenne.  <placeName rend="Military Post" reg="Fort Harker" key="harker">Harker</placeName> was abandoned in 1872.</p>
+</div2>
+
+<div2 type="fort" id="hays">
+<p><placeName rend="Military Post" reg="Fort Hays" key="hays">Fort Hays</placeName> (38º48'30"N, 99º9'30"W) was built on Big Creek near the Smoky Hill River in 1865.  A June flood in 1867 destroyed the post and killed several soldiers.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> and her servant, <persName rend="bio" reg="Eliza">Eliza</persName>, helped save several men from the flood. The post was re-built on higher ground, one-half mile from <placeName rend="City\Town" reg="Hays City, Kansas">Hays City</placeName> where railroad, telegraph, and postal facilities were located.  Frame houses served twelve officers' families. <placeName rend="Military Post" reg="Fort Hays" key="hays">Fort Hays</placeName> was abandoned in 1889.</p>
+</div2>
+
+<div2 type="fort" id="kearny.ii">
+<p><placeName rend="Military Post" reg="Fort Kearny II" key="kearny.ii">Fort Kearny II</placeName> (40º33' N, 99º6W), the second <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> post named Kearny, was built on the south side of the <geogName reg="Platte River">Platte River</geogName> in 1848.  There it served to protect the Overland Trail and to provide supplies and other needs to the western migrants. It housed three companies.  Officers' quarters were located in a single two and one-half story building with twelve rooms.  Shallow wells provided water. The Union Pacific Railroad, completed in 1869, reduced travel on the Overland Trail and <placeName rend="Military Post" reg="Fort Kearny II" key="kearny.ii">Fort Kearny</placeName> was abandoned in 1871.</p>
+</div2>
+
+<div2 type="fort" id="keogh">
+<p><placeName rend="Military Post" reg="Fort Keogh" key="keogh">Fort Keogh</placeName> (46º26'N, 105º52'W) was established along the Yellowstone River in eastern <placeName rend="State\Territory" reg="Montana">Montana</placeName> in August 1876.  It was quickly built as the base of supply in the campaign against the Sioux that followed the Battle of the Little Bighorn (June 1876).  It served as both an infantry and cavalry post, housing as many as 800 troops at one time.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName> described post housing as "a collection of [upright] log houses, built of not more than two rooms each." (Baldwin, p. 103) <placeName rend="City\Town" reg="Miles City, Montana">Miles City</placeName> was established nearby. The post was abandoned in 1900.</p>
+</div2>  
+
+<div2 type="fort" id="laramie">
+<p><placeName rend="Military Post" reg="Fort Laramie" key="laramie">Fort Laramie</placeName> (42º12'38"N, 104º31'26"W) was originally a fur trade post.  The US Army purchased the post in 1849 to protect migrants on the Overland Trail.  <placeName rend="Military Post" reg="Fort Laramie" key="laramie">Fort Laramie</placeName> served as an important place for negotiations between the US Government and Indian tribes of the region.  Two important treaties, The Treaty of Fort Laramie of 1851 and the Treaty of Fort Laramie of 1868 began the process of creating specific regions for occupation by Indian tribes and led to the abandonment of the Bozeman Trail in 1868. Though the post had frame and adobe quarters for officers and a schoolhouse, the buildings were considered in need of repair by the early 1870s. The fort was abandoned in 1889.</p>
+</div2>
+
+<div2 type="fort" id="leavenworth">
+<p><placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> (39º21'N, 94º 44'W) in eastern <placeName rend="State\Territory" reg="Kansas">Kansas</placeName> was established in 1827 to guard the Santa Fe Trail and is the oldest of the forts on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>. In the 1870s <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> became the Headquarters of the Department of the Missouri which supervised military activity in the Southern <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  As a headquarters post, the housing was among the best on the <placeName rend="Region" reg="Great Plains">Plains</placeName>.  In the 1870s two officers' quarters were built with indoor bathrooms instead of the outhouses that most quarters had.  Streets were paved.  Residents of the post also enjoyed a notable social life and two churches.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> considered <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> the "land of civilization." (Burt, 119) <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName> was made the site of a military prison in 1875.</p>
+</div2>  
+
+<div2 type="fort" id="lyon">
+<p><placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> (38º5'36"N, 103º3'30"W) was the second post named <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName>.  The first, established near the site of <placeName rend="Military Post" reg="Bent's Fort" key="bent">Bent's Fort</placeName> in 1860 on the north bank of the Arkansas River, was relocated due to flooding.  Located one mile from the small village of <placeName rend="City\Town" reg="Las Animas, Colorado">Las Animas</placeName>, <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Lyon</placeName> had a post office, but the railroad and telegraph were located 52 miles away.  It housed 320 men, and offered one and one-half story houses for twelve officers' families.  Unlike most frontier posts, it also had a chapel.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName> found a "rural scene of  peace and quiet, with horses and cattle grazing in the pastures and on the adjoining prairie." (Baldwin, p. 85) <placeName rend="Military Post" reg="Fort Lyon" key="lyon">Fort Lyon</placeName> was abandoned in 1889.</p>
+</div2>
+
+<div2 type="fort" id="mcpherson">
+<p><placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">Fort McPherson</placeName> (41ºN, 100º30'W) was established in 1863 on the south side of the Platte River in <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName>.  A post of five companies, it offered a post office and telegraph wire.  At this "clean little post," (Burt, p. 71), good quarters for fourteen officers were built of cedar log and cedar frame.  There were no gardens at <placeName rend="Military Post" reg="Fort McPherson" key="mcpherson">McPherson</placeName>, and officers considered the land around it incapable of supporting agriculture.</p>
+</div2>
+
+<div2 type="fort" id="phil.kearny">
+<p><placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName> (44º32'N, 106º52'W) was established on the Bozeman Trail in northern <placeName rend="State\Territory" reg="Wyoming Territory">Wyoming Territory</placeName> in 1866.  Despite being located among the Sioux, Cheyenne, and Crow who contended with each other and with the US Army for control of the northern <placeName rend="Region" reg="Great Plains">plains</placeName>, the post housed several military families.  It was the site of the Fetterman Fight, and the Wagon Box Fight of 1867.  Though the post stood for only two years, it is important in the history of the <placeName rend="Region" reg="Great Plains">Plains</placeName> and the site of both <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond Carrington</persName> and <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Carrington</persName>'s memoirs. The post was abandoned in 1868 according to the terms of the 1868 Treaty of Fort Laramie.</p>
+</div2>  
+
+<div2 type="fort" id="randall">
+<p><placeName rend="Military Post" reg="Fort Randall" key="randall">Fort Randall</placeName> (43º1'N, 98º12'W) was established on the right bank of the Missouri River in 1856, part of the system of forts to protect the Overland Trail.  It housed four companies, and provided housing for twelve officers and their families in cottonwood log buildings.  The post was abandoned in 1892.</p>
+</div2>
+
+<div2 type="fort" id="rice">
+<p><placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> (46º41'N, 100º30'W) was built in 1864 on the right bank of the Missouri River in northern <placeName rend="State\Territory" reg="Dakota Territory">Dakota Territory</placeName>.  Originally comprising crude huts of cottonwood logs and sod roofs, it was considered an undesirable post eighty-five miles from a post office.  Re-built in 1868, the frame two-story duplexes housed fourteen officers and their families, but were in need of repair shortly after construction.  The library was used by both enlisted men and officers. The post provided quarters for four companies of soldiers.  Water was drawn from the muddy Missouri River and settled in barrels before drinking.  <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName> was abandoned in 1878.</p>
+</div2>
+
+<div2 type="fort" id="riley">
+<p><placeName rend="Military Post" reg="Fort Riley" key="riley">Fort Riley</placeName> (39º4'20"N, 96º43'W) was constructed in 1853 on the north bank of the Kansas River in western <placeName rend="State\Territory" reg="Kansas">Kansas</placeName>.  By 1870, it had a telegraph wire, post office, and a station on the Kansas Pacific Railroad.  It was three miles from <placeName rend="City\Town" reg="Junction City, Kansas">Junction City</placeName>.  It housed four batteries of light artillery or eight companies of cavalry.  The six duplexes for officers' families were 60 feet by 40 feet, giving each family half that space, or 1200 square feet.</p>
+</div2>  
+
+<div2 type="fort" id="robinson">
+<p><placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> (42º30'N, 103º21'W) was established in 1874 in northwestern <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName>.  It also served as the headquarters for the Red Cloud Agency.  In the beginning, it offered 6 small duplexes for officers and a small house for the commanding officer made of adobe with plastered ceilings.  Over the years of activity, the post grew much larger and each stage of housing construction led to improvements.  Fairly isolated, <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> was 170 miles from the railroad at <placeName rend="City\Town" reg="Cheyenne, Wyoming">Cheyenne</placeName>, <placeName rend="State\Territory" reg="Wyoming">Wyoming</placeName>.  This post had the advantage of spring water for drinking, and by 1891 indoor plumbing was available in the Commanding Officer's quarters and some ranking officers' quarters. (Biddle, 227)  <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> continued to be an active military post through World War II.</p>
+</div2>  
+
+<div2 type="fort" id="shaw">
+<p><placeName rend="Military Post" reg="Fort Shaw" key="shaw">Fort Shaw</placeName> (47º30'3"N, 111º40'W) was built along the Sun River in <placeName rend="State\Territory" reg="Montana Territory">Montana Territory</placeName> in 1867 near the edge of the mountains.  It housed 400 soldiers and a band.  Officers' quarters provided housing for 12 families in duplexes built of adobe and wood.  In 1872, the commanding officer noted that all buildings were in need of repair.  This post was noted for its exciting cultural life including plays and musical events or "theatricals" that were performed in a large, dirt-floored building with benches for audience seating.  <placeName rend="Military Post" reg="Fort Shaw" key="shaw">Fort Shaw</placeName> was 83 miles from <placeName rend="City\Town" reg="Helena, Montana">Helena</placeName>, a gold mining town with several businesses, doctors, and dentists.  It closed in 1890.</p>
+</div2>
+
+<div2 type="fort" id="sheridan">
+<p><placeName rend="Military Post" reg="Camp Sheridan" key="sheridan">Camp Sheridan</placeName> (42º50'N, 103º37'W) was established as a tent camp in northwestern <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> in 1874.  It was 213 miles from <placeName rend="City\Town" reg="Cheyenne, Wyoming">Cheyenne</placeName> and 160 miles from the Union Pacific railroad at <placeName rend="City\Town" reg="Sidney, Nebraska">Sidney</placeName>. In 1875 permanent officers' quarters were constructed of board and batten (wood frame) providing housing for ten families.  The commanding officer noted that efforts to raise corn, potatoes, onions, cabbage, and tomatoes had been successful.  The post closed in 1880.</p>
+</div2>
+ 
+<div2 type="fort" id="sidney">
+<p><placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Fort Sidney</placeName> (41ºN, 103ºW) was established as <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName> in western <placeName rend="State\Territory" reg="Nebraska">Nebraska</placeName> in 1867.  By 1872 residents had access to a post office, telegraph wire, and railroad station at the town of <placeName rend="City\Town" reg="Sidney, Nebraska">Sidney</placeName>, one-quarter mile from the post.  Two companies were stationed at <placeName rend="Military Post" reg="Fort Sidney (Sidney Barracks)" key="sidney">Sidney Barracks</placeName>, with frame, adobe-insulated, duplexes for eight officers' families.  The buildings were considered to be in excellent condition.  The surrounding land was considered unsuitable for farming by military authorities, so the post had few gardens.</p>
+</div2> 
+
+<div2 type="fort" id="sill">
+<p><placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName> (34º40'N, 98º30'W) was established in 1869 in <placeName rend="State\Territory" reg="Oklahoma">Oklahoma</placeName> (Indian Territory at the time).  The first commanding officer was <persName reg="Grierson, Benjamin">Colonel Benjamin Grierson</persName>.  It housed six companies. Twenty officers' families lived in stone buildings.  The post was located in an area where malaria threatened the soldiers' health.  <placeName rend="Military Post" reg="Fort Sill" key="sill">Fort Sill</placeName> remains an active military post.</p>
+</div2>
+  
+<div2 type="fort" id="sully">
+<p><placeName rend="Military Post" reg="Fort Sully" key="sully">Fort Sully</placeName> (44º20'N, 100º10'W) was built on the left bank of the Missouri River in central <placeName rend="State\Territory" reg="South Dakota">South Dakota</placeName> in 1866 after the closing of the first <placeName rend="Military Post" reg="Fort Sully" key="sully">Fort Sully</placeName>.  Early arrivals at the new post had to live in houses of upright cottonwood slabs which could not keep out the wind.  Newer housing was comfortable and roomy.</p>
+</div2>   
+ 
+<div2 type="fort" id="supply">
+<p><placeName rend="Military Post" reg="Fort Supply (Camp Supply)" key="supply">Fort Supply</placeName> (36º30'N, 99º30'W) originated as <placeName rend="Military Post" reg="Fort Supply (Camp Supply)" key="supply">Camp Supply</placeName> in <placeName rend="State\Territory" reg="Indian Territory">Indian Territory</placeName> (<placeName rend="State\Territory" reg="Oklahoma">Oklahoma</placeName>) in 1868.  It became a fort in 1878.  It was a stockaded fort with housing and supplies for six companies and quarters for seventeen officers.  It was an isolated post with no post office, telegraph wire, or railroad station within 160 miles.  Officers' quarters were built of cottonwood logs.  The post was closed in 1895.</p>
+</div2>  
+
+<div2 type="fort" id="union">
+<p><placeName rend="Military Post" reg="Fort Union" key="union">Fort Union</placeName> (35º54'21"N, 104º57'15"W) was located in the northeast corner of <placeName rend="State\Territory" reg="New Mexico">New Mexico</placeName>.  Originally built in 1851, it was re-constructed in 1861, and again in 1866 with better housing for soldiers and families.  It housed four companies and sixteen officers in buildings of adobe and stone.  <placeName rend="City\Town" reg="Santa Fe, New Mexico">Santa Fe</placeName>, 100 miles away, was the nearest city, but the post had a post office and telegraph wire for communication.  <persName rend="bio" reg="Boyd, Frances Anne Mullen" key="boyd.f">Frances Boyd</persName> called <placeName rend="Military Post" reg="Fort Union" key="union">Fort Union</placeName> a "cheerless place," and noted that "many ladies greatly dislike <placeName rend="Military Post" reg="Fort Union" key="union">Fort Union</placeName>" because of the lack of trees and grass and the unceasing wind (Boyd, pp. 199-200).   <placeName rend="Military Post" reg="Fort Union" key="union">Fort Union</placeName> was abandoned in 1891.</p>
+</div2> 
+
+<div2 type="fort" id="wallace">
+<p><placeName rend="Military Post" reg="Fort Wallace" key="wallace">Fort Wallace</placeName> (38º47'20"N, 101º35'W) was built in 1866 to house four companies of soldiers.  The seven frame duplexes housing fourteen officers' families were in poor condition in 1871.  The commanding officer noted that vegetables arrived "occasionally" from <placeName rend="City\Town" reg="Denver, Colorado">Denver</placeName>.  It was located two miles from the village of <placeName rend="City\Town" reg="Wallace Station, Kansas">Wallace Station</placeName> where there was a railroad, telegraph wire, and post office.  <placeName rend="Military Post" reg="Fort Wallace" key="wallace">Fort Wallace</placeName> was abandoned in 1882.</p>
+</div2>  
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" []>
+
+<TEI id="aow.vii.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">So Wholly Unlike Cooper's Indians: Army Women and Plains Indians</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vii.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>So Wholly Unlike Cooper's Indians: Army Women and Plains Indians</head>
+<div1>
+ 
+
+<p>It is easy to say that officers' wives had no relationship with Indians on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> in the late nineteenth century.  They had little direct contact with Indians and were effectively protected from hostilities.  However, the women treasured Indian-made objects, were keen observers of Indians who came to their garrisons and homes, and were sharply critical of both federal Indian policy and the "noble savage" views of the "Friend of the Indian" individuals and organizations in eastern states.  In some ways their perspectives were the product of the long and tortuous road trod by European Americans and Native Americans over the previous two and one-half centuries.  In other ways, their views were influenced by meeting and socially interacting with Indians of various tribes while posted to <placeName rend="Region" reg="Great Plains">Great Plains</placeName> forts.  They experienced the reality of contact compounded by imagination subject to personal fear.  One woman might hold a variety of conflicting views, sometimes expressed in one sentence.  Some women changed their views as the wars faded into the past and they began to regret the role they had played in the process of reducing the tribes to impoverished reservation existence.  Others held firm to a view of Indians as savages who had to be tamed in order to make way for the superior civilization the Army represented.</p>
+
+<p>Many of these women had opposed slavery and supported the efforts of the Union Army during the Civil War.  However, it would be na&#239;ve to think that abolitionist views translated directly into the embrace of a diverse American society.  While many abolitionists became associated with Indian rights movements after the Civil War, they mostly remained comfortably situated in the East.  In the West, where soldiers and their families were in direct contact, often in conflict, with the powerful tribes of the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>, their relationships with Indians were shaped by the expectations they brought with them, by federal Indian policy, and by their own humanity.</p>
+
+<p>This is the most complex part of the story of officers' wives on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  It is well to remember that it is a story told by the handful of women who saved their letters or wrote memoirs.  In that way, it is an incomplete story, best understood as abbreviated and one-sided, but still revealing of race and gender as important elements in the American story.</p>
+
+
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vii.0002" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG2787-3 SYSTEM "aow.img.RG2787-3.jpg" NDATA jpeg>
+<!ENTITY aow.img.3126-2-68 SYSTEM "aow.img.3126-2-68.jpg" NDATA jpeg>
+<!ENTITY aow.img.0002 SYSTEM "aow.img.0002.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.v.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"Much Depends On a Wife": Personal Relationships and Family Life</title>
+<title level="m" type="sub">Best Friends, Other Women, and Gentlemen</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.v.0004</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Best Friends, Other Women, and Gentlemen</head>
+<div1>
+
+
+<p>In spite of the dangers and the difficulty in educating children, many Army women declared the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> a good and healthful place to raise their children.  One of the best resources they had in raising their children, one which separated their experience from that of the non-military pioneers who also experienced life on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> was the extended Army family of enlisted men, officers, and officers' wives with whom they lived.  Friendships were not always easy to establish and maintain, but when women needed assistance of any kind, there were other women and men to call upon who understood that reciprocation in time of need was what they all depended upon.</p>
+
+<p>When <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond</persName> was widowed in the midst of a very cold winter and in very hostile country, <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Carrington</persName> generously allowed <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Grummond</persName> to remain at the fort by taking her into her own home; other women made mourning clothes for her.  (F. Carrington, p. 206, 157) These acts of sisterly compassion in such extreme circumstances was rarely necessary.  However, it illuminates two realities of life for Army women.  First, they did not own their homes and had no regulated place on an Army post; therefore if their husbands died, they were homeless, and often penniless.  With word of the deaths of <persName reg="Custer, George Armstrong">George Armstrong Custer</persName> and his entire command at the Battle of the Little Big Horn in 1876, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Elizabeth Bacon Custer</persName> and the twenty-six other women widowed by the battle had to pack and leave the post three weeks after hearing of the deaths. (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 203;  Leckie, p. 203)</p>
+
+<p>The second reality is that in times of trouble officer's wives had a large group of people to draw on for support.  Even if they had found some of the other women to be troublesome gossips, or the men drunkards, the strong sense of community that generally prevailed in the frontier Army drew all of them close together.  However shallow their daily lives might seem, each woman offered spiritual and material comfort to anyone in 
+need.</p>
+
+<p>When, one early morning in October 1872, <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> found that the cellar attached to her quarters at <placeName rend="Military Post" reg="Camp Supply" key="supply">Camp Supply</placeName> had been robbed of all of her food supplies, she and <persName reg="Roe, Fayette">Faye</persName> had only a light breakfast.  As word of the robbery spread about the post, "true Army hospitality and generosity manifested itself.  We were invited out to luncheon, and to dinner, and to breakfast the next morning."  Though she had experienced social conflict over her quarters when they were ranked out, she found that harsh words and jealousies disappeared when trouble appeared.  "You can see how like one big family a garrison can be, and how in times of trouble we go to each other's assistance. . . . " even though sometimes "we have disagreeable persons with us. . . ." (Roe, p.78)</p>
+
+<p>Rank ordered most social relations on the post.  Though laundresses attended the enlisted men's hops, and offered kitchen gossip around the post, they were not part of officers' wives' society.  Within the social groupings of officers' wives rank also prevailed.  The commanding officers' wife had the obligation of hosting visiting officers and dignitaries as well as providing housing for newly arrived officers who had not yet obtained access to quarters (awaiting the ranking out process).  <persName reg="Custer, George Armstrong">Armstrong</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> "believed that our house should be open at all hours to the garrison."  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 106)  <persName rend="bio" reg="Grierson, Alice Kirk" key="grierson.a">Alice Grierson</persName>, whose husband commanded <placeName rend="Military Post" reg="Fort Concho" key="concho">Forts Concho</placeName> and <placeName rend="Military Post" reg="Fort Davis" key="davis">Davis</placeName>, entertained officers and their families at holidays and accepted most social invitations, though she often complained of the fatigue that followed.  (Grierson, pp. 66&#8211;67, 80, 81)  She also kept an eye on social arrangements and re-arrangements, noting in a letter to <persName reg="Grierson, Benjamin">Ben</persName>, that the post surgeon's wife "seems rather left alone on account of her having talked so freely of most persons in the garrison."  (Grierson, p. 108)</p>
+
+<p>Because they shared a duplex with another family, and because of the necessary interdependence on one another, officers' wives frequently made careful assessment of other women in the regiment.  <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> wrote in her diary about other officers' wives at <placeName rend="Military Post" reg="Fort Leavenworth" key="leavenworth">Fort Leavenworth</placeName>. One woman she described as, "simple and unaffected &amp; friendly."  Another was "very lovely."  But of another, she wrote, "I think she is very common place. Dresses well, but cannot talk any, &amp; is not therefore a very desirable member of our dinner table." (Utley, p. 131)  Military assignments brought officers and their wives into a close relationship that could be disastrous if they were unpleasant.  With that in mind, <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName>'s husband, <persName reg="Barnitz, Albert">Albert</persName>, consulted her before he selected a new officer for his staff.  <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> agreed with his selection, and noted that "[a]s an acquaintance, merely, <persName reg="Smith, Mrs.">Mrs. Smith</persName> is not disagreeable, and all familiarities can be easily avoided." (Utley, p. 149&#8211;150)</p>
+
+<p><persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie Alexander</persName> described the women of the regiment they traveled with in 1866 as  "rather a queer set."  
+<quote>
+<persName reg="K, Mrs.">Mrs. K</persName> and her daughter are very common.  <persName reg="H., Mrs.">Mrs. H.</persName> and '<persName reg="H., Patrita">Patrita</persName>' are Mexicans. . . . [T]here is <persName reg="Sutorius, Mrs.">Mrs. Sutorius</persName>, a bride of nineteen from <placeName rend="State\Territory" reg="New York">New York</placeName>, not highly educated, but well-behaved, and I like her.  Another bride makes up our number, a child of fourteen. . . . (Alexander, p. 36)</quote></p>
+
+<p>The evaluation of the other women in the command was an on-going process and sometimes resulted in a quarrel if they were in close quarters.  The officers' duplex-style housing at frontier posts was responsible for many conflicts.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> noted that duplexes brought "families together in closer contact than was sometimes pleasant."  (Burt, p. 48)  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Alice Baldwin</persName> found life in the duplexes to be "frequently amusing and ridiculous" but "often productive of strained relationship between the occupants."  (Baldwin, p. 45)  One young officer, becoming aware of the tension among officers' wives on a steamboat traveling up the Missouri River wrote to his mother, 
+<quote>
+[The women] have all been more or less sick, cooped up in the small cabin of a rear wheeled boat, living on the most atrocious of boat fare for 34 days. During that time they have succeeded in discovering each other's failings with astonishing distinctness, and, from all I hear, have made the atmosphere pretty warm. (Howe, p. 527)</quote></p>
+
+<p>Nevertheless, a subsequent kind word or deed could reduce tensions and restore good feelings.  Aware of her personal role in keeping peace during a tiring trip to <placeName rend="Military Post" reg="Fort Harker" key="harker">Fort Harker</placeName>, <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> wrote to <persName reg="Barnitz, Albert">Albert</persName> that she took her turn holding a difficult baby. ". . . [O]h that baby! I did try to be kind to [the mother] <persName reg="Barnitz, Albert">Albert</persName> &#8212; &amp; 'took up my cross' &#8212; &amp; held it once while it was sleeping . . . ." (Utley, p. 59)</p>
+
+<p>Occasionally, an enlisted man would rise through the ranks and become an officer.  His wife, though perhaps formerly a laundress, or a woman without a finishing school education, would become a member of high society at a post.  This condition did not endear her to other Army women, for while a man could take pride in making officer, there was no admiration for women "rising through the ranks."  The wives of West Point graduates and of officers who achieved their rank in the Civil War thought the lack of "good breeding," manners, and education left former laundresses unprepared for the intricate social relationships and duties of officers' wives.  When <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie Alexander</persName> described the "queer set" of women in the regiment, she noted that "<persName reg="C., Mrs.">Mrs. C.</persName> was a company washwoman before her husband was promoted from the ranks."  (Alexander, p. 36)</p>
+
+<p><persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> created a contrasting pair of fictional women whose husbands served at <placeName rend="Military Post" reg="Fort Oryza" key="oryza">Fort Oryza</placeName> (the fictional counterpart of <placeName rend="Military Post" reg="Fort Rice" key="rice">Fort Rice</placeName>).  One was "the belle and beauty of the Regiment" who married an officer who had risen from the ranks.  The other had risen with her husband, and 
+<quote>
+steadfastly denied, in the face of the Army roster, that her husband had ever been a private soldier, notwithstanding the established fact that she had served at the same time an apprenticeship at the washtub . . . .</quote>
+
+To ensure the readers' understanding of the difference between the two women, <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Slaughter</persName> described the former laundress as "a stout, red-faced woman" by the name of Mrs. Captain O'Howl.  (Slaughter, "The Amazonian Corps," 13 January 1875)</p>
+
+<p>Gossip was a favorite pastime among the women (and men) of the post.  And there was plenty to gossip about.  Extra-marital affairs, drunken officers, and misbehaving servants were the gossips' main topics.  <persName reg="Custer, George Armstrong">Armstrong Custer</persName> admonished <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> to not engage in "discussions concerning anyone."  (Custer, <hi rend="italic">Boots and Saddles</hi>, p. 102)  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> resisted gossip by taking "brisk rides on spirited horses in this wonderful air, and learn[ing] to shoot all sorts of guns in all sorts of positions."  This, she asserted was the antidote to the boredom that led to gossip. (Roe, p. 42)  However, gossip was the term <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Kate Garrett (Gibson)</persName> used to describe the conversations among officers' wives about battles their husbands had fought.  The conversations, over tea or needlework, served to prepare the young woman for her life as an Army wife. (Fougera, p. 118)</p>
+
+<p>Gossip was welcomed when it was brought by officers' wives or visitors fresh from the East.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> rejoiced in the visits of easterners to <placeName rend="Military Post" reg="Fort C. F. Smith" key="smith">Fort C. F. Smith</placeName>.
+<quote>
+What an unexpected pleasure, to receive a lady just from the State, bringing the latest news, the new spring fashions, and the most recent gossip.  Gossip?  Yes, indeed; we all needed such a tonic to our brains, stupefied by a winter of stagnation, spent out of the world.  The men were not behind the women either and the whole garrison was brightened by the new arrivals who gave us the opportunity of talking of something other than the dull routine of our small community. (Burt, p. 182)</quote></p>
+
+<p>Whether informative, gentle, or profane, gossip was an important form of communication by which officers' wives found common ground with one another and which helped to establish the moral standards of each post.  Gossip served to maintain middle-class standards of fashion and behavior, and to notify those who defied those standards that they would not be welcomed in officers' society.</p>
+
+<figure entity="aow.img.RG2787-3">
+<figDesc>Figure 9.  <persName reg="Sage, Agnes">Agnes Sage</persName> was the sister of <persName reg="Long, Mrs. D. B.">Mrs. D. B. Long</persName> (see Figure 1).  While visiting her sister in <placeName rend="State\Territory" reg="Kansas">Kansas</placeName>, she died in the cholera epidemic of 1867.  Courtesy Nebraska Historical Society Photograph Collection RG2787.PH.0.3.</figDesc>
+</figure> 
+
+<p>While many women developed close friendships at the posts, they also encouraged unmarried sisters, nieces, cousins, and friends to venture into the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> for extended visits.  Sometimes the intention was to have help with children and household, but quite often the visits were purely social.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> took her younger sister with her to several primitive posts on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> because
+<quote>
+[i]t seemed to me that I was going out of the world, and my mother felt the same way, consequently she allowed my youngest sister <persName reg="Reynolds, Kate">Kate</persName> to join us before we left <placeName rend="Military Post" reg="Jefferson Barracks" key="jefferson">Jefferson Barracks</placeName>. (Burt, p. 46)</quote>
+
+Though <persName reg="Reynolds, Kate">Kate</persName> turned out to be an indispensable help with the children of the growing Burt family, her presence alone was a great comfort to <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth</persName>.</p>
+
+<p>Some of these young visitors hoped to find a husband among the bachelor officers of the regiment.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Kate Garrett (Gibson)</persName> did, just as her sister had hoped.  Others were disappointed in the selection and returned home alone.  The custom of inviting single young women to the post, not only enlivened post social life, but allowed Army women to be more selective about their companions.</p>
+  
+
+<figure entity="aow.img.RG3126-2-68">
+<figDesc>Figure 10.  <persName reg="Custer, George Armstrong">Armstrong</persName> and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> with an unidentified man and <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName>'s cousins <persName reg="Richmond, Rebecca">Rebecca</persName> and <persName reg="Richmond, Mary">Mary Richmond</persName>.  <persName reg="Richmond, Rebecca">Rebecca Richmond</persName> spent several months as the Custers' guest at several <placeName rend="State\Territory" reg="Kansas">Kansas</placeName> posts in 1868.  Courtesy Nebraska Historical Society Photograph Collection RG 3126.PH.0.0.</figDesc>
+</figure>
+
+
+<p>Officers' wives and their visitors were generally impressed with the manners and attentions of the officers.  It was quite common for women to ride horseback out from the garrison with someone other than their husbands.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> enjoyed the company of several officers, many of them bachelors, when her husband's duties left her alone.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett (Gibson)</persName> was constantly questioned about her ability to ride and shoot, so she accepted the offer tendered by <persName reg="Custer, George Armstrong">Armstrong</persName> and <persName reg="Custer, Tom">Tom Custer</persName> to teach her to ride and shoot.  Women who rode and hunted enjoyed a special position in Army society.  <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> was pleased when <persName reg="Custer, Tom">Tom</persName> and <persName reg="Custer, George Armstrong">Armstrong</persName> took her hunting. "[O]ne day, when I shot a bird from a branch, <persName reg="Custer, Tom">Tom</persName> forgot his manners and almost knocked me off my mount, slapping me on the back, and ejaculating, 'Golly, what a shot!'" (Fougera, p. 95)  Able to ride and shoot well, <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie</persName> was accepted in the society of Army officers.</p>
+
+
+<figure entity="aow.img.0002">
+<figDesc>Figure 11.  <persName reg="Webber, Mrs. E. H.">Mrs. E. H. Webber</persName> (wife of <persName reg="Webber, Edwin H.">Lt. Edwin H. Webber</persName>) rode this Army horse sidesaddle at <placeName rend="Military Post" reg="Fort Buford" key="buford">Fort Buford</placeName>.  Courtesy State Historical Society of North Dakota 0030-I-11.</figDesc>
+</figure> 
+ 
+
+<p>Officers called on the women of the post on a regular basis.  In the absence of their husbands, the women never lacked escorts for social events.  The women, when alone, were referred to as "widows," a term which caused some of them concern considering that their husbands were often in mortal danger.  When a young officer arrived and announced to <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName> that he was to escort the "doctor's widow to the hop," she protested that she was "'not a widow, but the doctor's wife.'"  Her na&#239;ve misunderstanding of the term delighted those familiar with the custom. (Slaughter, <hi rend="italic">Fortress to Farm</hi>, p. 32)</p>
+</div1>
+ 
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.v.0003" type="prev"/>
+</item>
+<item>
+<xptr n="aow.v.0005" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

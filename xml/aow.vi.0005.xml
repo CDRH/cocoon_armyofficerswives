@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.RG3126-2-40 SYSTEM "aow.img.RG3126-2-40.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.vi.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Centers of Refinement:  Maintaining the Image of Rank and Class</title>
+<title level="m" type="sub">Claiming Nature on the Great Plains</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vi.0005</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-04-18</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>Claiming Nature on the Great Plains</head>
+<div1>
+
+
+
+<p>Another aspect of middle-class values officers' wives displayed during their years on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> was their claim to ownership or possession of the natural environment.  Many of them wrote about their appreciation for the beauty of the <placeName rend="Region" reg="Great Plains">Plains</placeName>. While traveling or picnicking they found beauty in plants, rocks, streams, and canyons.  They enjoyed the feeling that they were the first (whites) to see some parts of the West; the experience was a special event in their lives.</p>
+ 
+<figure entity="aow.img.RG3126-2-40">
+<figDesc>Figure 5.  <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie</persName> and <persName reg="Custer, George Armstrong">Armstrong Custer</persName> (center, she sitting at his right elbow, he standing in light hat and shirt) with several officers, their wives, guests, and a few civilians on a hunting expedition near <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName>, 1875.  Courtesy Nebraska Historical Society Photographic Collection  RG3126.PH.2.40.</figDesc>
+</figure>
+
+<p><persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName> rode to a "lovely little canyon" near <placeName rend="Military Post" reg="Fort McPherson">Fort McPherson</placeName> with her friend <persName reg="Carr, Mrs.">Mrs. Carr</persName>.   "It must be beautiful in the summer," she wrote to her brother, "it is so wild &amp; picturesque now."  A few days later, she walked to the banks of the <geogName rend="waterway" reg="South Platte River">South Platte River</geogName> which was "wide and full of islands covered with brush &amp; cottonwood trees. . . . There are a good many deer on these islands and in the canyons about here."  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName> promised to send her brother, who was developing a substantial collection of Western Americana via <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline</persName>'s efforts, some "feathered grass that grows on some of the large islands."  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline</persName> also used the flora of the canyon including cedar branches and bittersweet berries to decorate her house for Christmas.  Incorporating the wild into her life's experiences and bringing it into her home, she effectively claimed or tamed what had been "wild."  (Buecker, pp. 40&#8211;41)</p>
+
+<p>Some Army women took a more scientific interest in their surroundings.  Traveling through Indian Territory (present day <placeName rend="State\Territory" reg="Oklahoma">Oklahoma</placeName>), <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie Alexander</persName> was a careful observer of her surroundings.  She found the trapdoor entrance to a tarantula's hole and described its operations and the nest below.  Upon observing a bison bull that had been shot by another officer, she wrote somewhat regretfully in her diary, "I would like to have seen him on the run with his great tongue hanging out and his little eyes blazing."  (Alexander, pp. 51, 59)  <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName>'s niece, <persName reg="Kate">Kate</persName>, visiting the Biddles at <placeName rend="Military Post" reg="Fort Lyon">Fort Lyon</placeName>, collected "butterflies, horned toads, curious insects . . . as well as snakes."  When they returned east, she preserved the reptiles and amphibians in jars of alcohol and took them along as curiosities of western fauna.  (Biddle, pp. 134&#8211;135)</p>
+
+<p>Army officers and their families appropriated nature for their own use by "adopting" wild animals as pets.  Most of these pets met a predictably sad fate in the hands of humans, though they were the center of attention while they lived.  <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances Roe</persName> adopted several squirrels and loved them as much as her dog, Hal.  She wrote several pages in a letter to her family about the escape of squirrel Billie at a hotel while traveling to a new post.  Though Billie was probably happy to be free for a while, <persName rend="bio" reg="Roe, Frances Marie Antoinette Mack" key="roe.f">Frances</persName> assured her family that the rodent was just as happy to be back in her care again after she cornered him in the hotel kitchen.  "The little fellow was so glad to be with friends once more, he curled himself in my hands, and put two little wet paws around a thumb and held on tight."  (Roe, pp. 199&#8211;201)</p>
+
+<p>While stationed in <placeName rend="State\Territory" reg="Wyoming">Wyoming</placeName>, <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth</persName> and <persName reg="Burt, Andrew">Andrew Burt</persName> or others in the company captured and kept antelope fawns.  The fawns were fed with cow's milk, but the Burts "did not succeed in raising any and gave orders to the men to bring no more to us."  Subsequently, the soldiers brought three young "eagles" that were "very fierce and showed no signs of becoming tame."  They fed the birds a healthy diet of raw antelope meat.  But when an experienced officer pronounced the birds hawks, not eagles, they were turned over to someone else and their fate remains unknown.  (Burt, pp. 78&#8211;79)</p>
+
+<p>The Burts also raised an elk calf on cow's milk.  When <placeName rend="Military Post" reg="Fort C. F. Smith">Fort C. F. Smith</placeName> closed, and the Burts headed east, the young elk, called Monte, refused to walk behind a wagon. He was placed in an ambulance for the trip to the railhead where he joined the family in their trip to <placeName rend="State\Territory" reg="Ohio">Ohio</placeName>.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> regretted not releasing Monte to the wild.  "He could not thrive in civilization," and he died on the way east. (Burt, p. 187)</p>
+
+<p>Observing, collecting, hunting, and simply enjoying the places where they were stationed, officers' wives and their families claimed the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> as their home.  They picked up pieces of it to keep or send home as souvenirs.  They "owned" parts of it, particularly the young of indigenous animals, and what they couldn't capture or tame, they hunted and killed.   The processes through which they engaged with their environment contributed to the importance they placed on the role of the Army in the conquest of the <placeName rend="Region" reg="Great Plains">Great Plains</placeName>.  The middle region of the country, the last to be settled, was brought under control, not only by armed men who were sent to subdue the Indians who had lived on the <placeName rend="Region" reg="Great Plains">Plains</placeName> for centuries, but by ladies in hats, on horseback or with children in hand, heading out for an afternoon picnic safely assured that the "wild" <placeName rend="Region" reg="Great Plains">Plains</placeName> they had originally encountered, had been tamed.</p>
+
+</div1>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vi.0004" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vi.0006" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI> 

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.0006 SYSTEM "aow.img.0006.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.vii.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">So Wholly Unlike Cooper's Indians: Army Women and Plains Indians</title>
+<title level="m" type="sub">The Quest for Indian-made Objects</title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.vii.0004</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>The Quest for Indian-made Objects</head>
+<div1>
+	
+<p>Despite the widespread fear and disgust many Army women felt about Indians, they admired and collected objects made by Indians.  The interiors of officers' quarters were frequently decorated with Indian-made rugs, moccasins, pottery, baskets, pipes, and weapons.  Army women collected objects as souvenirs of their role in the conquest of the <placeName rend="Region" reg="Great Plains">Plains</placeName>, and out of admiration for the beauty and the skill required to make them.  Some objects were acquired by force or picked up at battle sites.   Army officers' wives (who were afraid to shake hands with Indians) also bartered, bought, and asked for gifts of objects they admired.</p>
+
+<p>Officers' wives frequently displayed Indian-made objects in home decoration.  <persName rend="bio" reg="Baldwin, Alice Blackwood"  key="baldwin.a">Allie Baldwin</persName> described the commanding officers' home at <placeName rend="Military Post" reg="Fort Harker" key="harker">Fort Harker</placeName>, as a "sumptuous palace" compared to her own miserable dugout.  The beauty she saw in the CO's simple, temporary cottage was in the buffalo robes (probably tanned by Indian women) which served as carpets, and an "Indian blanket" which covered a couple of boards to serve as a couch. (Baldwin, p. 36)  Buffalo robes could be acquired directly from the women who tanned them or from traders who paid very little, perhaps a "string of beads or a bright colored handkerchief for a robe." (Canfield, p. 66)</p>
+ 
+<figure entity="aow.img.0006">
+<figDesc>Figure 1.  Officers and women from <placeName rend="Military Post" reg="Fort Randall" key="randall">Fort Randall</placeName> make a morning call at a nearby Indian village, ca late 1880s.  Courtesy State Historical Society of <placeName rend="State\Territory" reg="North Dakota">North Dakota</placeName> A 3741. </figDesc>
+</figure>
+ 
+
+<p>An unexpected encounter might result in an exchange that both parties considered advantageous.  At <placeName rend="Military Post" reg="Fort Robinson" key="robinson">Fort Robinson</placeName> in the 1890s, <persName rend="bio" reg="Biddle, Ellen McGowan" key="biddle.e">Ellen Biddle</persName> met an Indian who apparently had approached the officers' mess in order to sell beadwork.  She asked for some pieces and the next day he brought her "several things" for which she paid with "two pairs of old trousers that I knew were no longer wanted."  (Biddle, pp. 225&#8211;6)  <persName rend="bio" reg="Alexander, Eveline Throop Martin" key="alexander.e">Evie Alexander</persName> intended to trade with Indians while traveling across the Southern <placeName rend="Region" reg="Great Plains">Plains</placeName> and prepared to bargain with "red cloth, beads, and trinkets."  She was disappointed when Indians did not approach the Army camp to trade. (Alexander, p. 65)</p>
+
+<p><persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Elizabeth Burt</persName> acquired wild animal hides through a trader who had "beautiful furs, bear robes, wolf, otter, beaver, and buffalo skins" that had been tanned and traded by Native women for goods they needed.  <persName rend="bio" reg="Burt, Elizabeth Reynolds" key="burt.e">Burt</persName> used these to warm her floors.  However, she later obtained objects taken from American Horse's village that had been attacked by the Army in the months following the Battle of the Little Big Horn (1876).  Her "curiosities" included a
+
+<quote>
+turkey wing fan, a bowl carved from the root of a tree, a spoon that was once part of a deer's hoof, moccasins, and a miniature 'par fleche' or Indian suitcase.</quote>
+
+She treasured these pieces representing highly skilled work because they could not be obtained after the Sioux had been confined to a reservation where "the government furnishes . . . white man's domestic utensils."  (Burt, pp. 162, 221)</p>
+
+<p>Unless objects were taken through force or warfare, Indians were clever negotiators who usually got what they wanted from the trade.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Caroline Winne</persName>, perhaps more acquisitive than some other women, sought beaded moccasins, red stone pipes, beaded bags, and earrings.  She usually used an interpreter to ask for the piece she wanted, but she was not always successful.  <persName reg="Old Man Afraid of His Horses">Old Man Afraid of His Horses</persName>, a notable leader of the Oglala Sioux, refused her request for his "large and beautifully polished" pipe.  She asked <persName reg="Sitting Bull of the Kiyuska Oglala">Sitting Bull of the Kiyuska Oglala</persName> (not the famous <persName reg="Sitting Bull">Sitting Bull</persName>) for his earrings telling him coyly that she wanted them "because he was so great a chief."  He replied that "he would study about it."  Though she thought the bargain would not be struck, the next day he brought one of the earrings to her.  She thought he gave it up because he was promised a replacement, but <persName reg="Sitting Bull of the Kiyuska Oglala">Sitting Bull</persName> may have gained something more important.  At first he let her think that she would not succeed, then, when he gave her the earring, he made her the recipient of his largesse.  He found value in controlling the object and making it a gift to her, putting her in his debt.  <persName rend="bio" reg="Winne, Caroline Frey" key="winne.c">Winne</persName>, oblivious to the subtleties of trade, was just happy to get the object which gained value when she sent it home to relatives who collected Indian-made goods. (Winne, pp. 9&#8211;10).</p>
+
+<p>Army women were keenly aware that the material goods they acquired from Indians had monetary and cultural value beyond the sentimental or decorative value that made them appealing at <placeName rend="Region" reg="Great Plains">Great Plains</placeName> garrisons.  They knew that reservation life and the influence of government agents and missionaries would mean the end of skills carefully nurtured for generations, but it is not clear that many of them ever thought about the consequences.  A spoon made from a deer hoof was the product of generations of life on the <placeName rend="Region" reg="Great Plains">Plains</placeName>; it could explain social manners and foodways, and represented one of the many skills a mother taught her daughter.  Officers' wives apparently were not aware that bead work indicated wealth, perhaps some leisure time, and a highly developed aesthetic sense.  They knew that women completed much of the work of beading and tanning, but tended to dismiss this work as drudgery rather than a source of pride and economic advantage for the woman.  <persName rend="bio" reg="Slaughter, Linda Warfel" key="slaughter.l">Linda Slaughter</persName>, writing in 1906 when the Indians she helped to place on the reservation no longer threatened her family, finally came to the realization that "bead work and dressing and embroidering deerskins to be made into garments were the industries of the women . . . and much of their work had artistic merit."  Slaughter argued that these <hi rend="italic">industries</hi> sustained Indian families, and the loss of the skills and the materials with which to make such things as buffalo robes, meant the loss of "glory" for the civilizations that had existed on the <placeName rend="Region" reg="Great Plains">Plains</placeName> for centuries.  (Slaughter, "Leaves from Northwestern History," p. 229)</p>
+
+</div1>
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.vii.0003" type="prev"/>
+</item>
+<item>
+<xptr n="aow.vii.0005" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

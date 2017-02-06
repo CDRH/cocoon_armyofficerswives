@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="aow.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY aow.img.0018 SYSTEM "aow.img.0018.jpg" NDATA jpeg>
+]>
+
+<TEI id="aow.v.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"Much Depends On a Wife": Personal Relationships and Family Life</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<principal>Barbara Handy-Marchello</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Karin Dalziel</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>aow.v.0001</idno>
+<authority>"The Girl I Left Behind Me": Army Officers' Wives on the Great Plains 1866&#8211;1900</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term></term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2007-03-21</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head>"Much Depends On a Wife": Personal Relationships and Family Life</head>
+<div1>
+
+<p>Women at nineteenth century military posts (with the exception of laundresses) were necessarily married.  There was no provision for housing or rationing for widows, divorced, or separated women.  In this way, the Army enforced "happy" marriages.  However, in addition to immediate family, Army relationships often included officers' wives' sisters, cousins, or close friends who came to spend months at distant posts as a way to help manage child care or to alleviate the boredom and isolation of the post.  Some officers' wives also contrived to arrange marriages between their visitors and bachelor officers &#8212; <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> was notoriously concerned about the social relations of bachelors in her husband's command.  Marriage contributed to a stable social life at the post, and social relationships were closely tied to rank and duty.  Social ties strengthened the bond among the officers and often secured the loyalty of officers to their commanders.</p>
+
+
+<p>In 1866, as the frontier army was being established, <persName reg="Sherman, William T.">Lieutenant General William T. Sherman</persName> who oversaw the operations of the Army after the Civil War, specifically requested officers' wives to establish homes for their husbands on the frontier.  <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond Carrington</persName> listened as <persName reg="Sherman, William T.">General Sherman</persName> suggested that the women "take with them all needed comforts for a pleasant garrison life in the newly opened country, where all would be healthful, with pleasant service and absolute peace."  (F. Carrington, pp. 61&#8211;62).  <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Carrington</persName> dedicated her memoir to <persName reg="Sherman, William T.">General Sherman</persName>, thanking him not only for the suggestion that officers' wives keep journals of the events, but also honoring him for his "policy . . . promising . . . the final settlement of Indian troubles. . . ."  (M. Carrington, n.p.) Ironically, these two women suffered more than most officers' wives, but understood that the nature of their duty to their husbands and to their country would require tremendous sacrifice.</p>
+
+  
+<figure entity="aow.img.0018">
+<figDesc>Figure 1.  <persName rend="bio" reg="Carrington, Margaret Irvin" key="carrington.m">Margaret Carrington</persName> (left) was the first wife of <persName reg="Carrington, Henry">Col. Henry Carrington</persName>.  She died a few years after leaving <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>.  Following her death, <persName reg="Carrington, Henry">Col. Carrington</persName> married <persName rend="bio" reg="Carrington, Frances Grummond" key="carrington.f">Frances Grummond</persName> (right), the widow of <persName reg="Grummond, George">Lt. Grummond</persName> who died in the Fetterman Massacre at <placeName rend="Military Post" reg="Fort Phil Kearny" key="phil.kearny">Fort Phil Kearny</placeName>.  Courtesy American Heritage Center, University of Wyoming</figDesc>
+</figure>
+
+
+<p>The presence of women other than laundresses at Army posts was not entirely welcomed by all soldiers and officers.  Laundresses provided necessary services for the soldiers and were regulated by the Army as to pay, rations, housing, and transport.  A laundress who behaved in such a way to become unwelcome on a post could be forcibly removed by order of the commanding officer.  None of that was true for officers' wives.</p>
+
+<p>Sometimes called "painted dolls" by men who preferred not to deal with the domesticity and delicacy that accompanied women to frontier posts, married women faced occasional resentment, especially if they were among the few or first women to arrive at a newly established Army post.  Most of the men who disapproved simply avoided the company of women.  When women imposed themselves and their interests on those officers, they retreated to the proper behavior of a gentleman.</p>
+
+<p>When <persName reg="Custer, George Armstrong">Custer</persName> led his soldiers from <placeName rend="Military Post" reg="Fort Abraham Lincoln" key="abraham.lincoln">Fort Abraham Lincoln</placeName> to the Black Hills in 1874, <persName rend="bio" reg="Custer, Elizabeth Bacon" key="custer.e">Libbie Custer</persName> and the other officers' wives were comforted that soldiers were to protect the garrison with a gatling gun positioned on the hill above the fort.  She and some friends offered their thanks to the officer who commanded the guard, but found out that he "did not believe in marriage in the army."  He briskly told them that "'in case of attack, his duty was to protect government property; the defense of women came last.'"  Mrs. Custer was surprised to learn that not all officers believed that "a woman was God's best gift to man." (Custer, <hi rend="italic">Boots and Saddles</hi>, p.137)</p>
+
+<p><persName reg="Barnitz, Albert">Albert Barnitz</persName> was cautious in sending for <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> to join him on the frontier.  From <placeName rend="Military Post" reg="Fort Larned" key="larned">Fort Larned</placeName> he wrote to <persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie</persName> that the post was improving with fine stone buildings including new officers' quarters.  The result of all the new building was that
+<quote>
+it really appears that this whole frontier will eventually become inhabitable &#8212; for troops &#8212; and possibly the experiment of bringing ladies out here to reside for a very brief time would not be so hazardous in future as in the past! (7 November 1867, Utley, p. 120)</quote></p>
+
+<p><persName rend="bio" reg="Barnitz, Jennie Platt" key="barnitz.j">Jennie Barnitz</persName> did move to the frontier to spend time with <persName reg="Barnitz, Albert">Albert</persName>, and usually enjoyed it.  In 1868, as she traveled to the <placeName rend="Region" reg="Great Plains">Plains</placeName> to join <persName reg="Barnitz, Albert">Albert</persName> after he was seriously wounded at the Battle of the Washita, she wrote that her arrival at <placeName rend="Military Post" reg="Fort Dodge" key="dodge">Fort Dodge</placeName> was notable for the warm welcome offered the women.  She wrote
+<quote>
+The officers here are 'wondrous kind'[.] They are in [to visit] all the time, three or four times a day.  They are so delighted to have a lady arrive, they have been so long without them. (Utley, p. 240)</quote></p>
+
+<p>Living in the Army on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> was a bit like living in a large, mobile family.  Good friendships were formed, only to endure separation, then, possibly, renewed proximity with assignment to a new post.  Marriages suffered separation as the men went off on a military campaign, or the women took children east to attend school or for medical care.  The death of an officer, of course, was the fear that all of the wives lived with during their years in the <placeName rend="Region" reg="Great Plains">Plains</placeName> Army.  Although many women compiled long lists of irritations with military life, few chose another way of life.  Most came to love Army life on the <placeName rend="Region" reg="Great Plains">Great Plains</placeName> and considered their circumstances extraordinary.  They also knew that by their marriage to an Army officer, they were contributing to American history in a way that would have been impossible for them outside of the Army.  Historian <persName reg="Eales, Anne Bruner">Anne Bruner Eales</persName> has called frontier Army marriages a "bigamous relationship" (Eales, p.126) Indeed, for the officers, attention to duty came first, family, a very close second.  In every matter of military activity other than combat, however, women shared equally in Army life.  The marriage seemed to be contracted among three parties &#8212; the man, the woman, and the Army.  The Army was always the third party in every decision these couples made.  By the time <persName rend="bio" reg="Gibson, Katherine Garrett" key="gibson.k">Katie Garrett</persName> had accepted the proposal of <persName reg="Gibson, Frank">Lt. Frank Gibson</persName>, she knew she "had signed up for a permanent enlistment with the Seventh Cavalry."  Having spent some time at a frontier post with her sister and Army officer brother-in-law, she was very aware that marriage would lead her "into the very jaws of a rough, tough existence."  (Fougera, p. 134)</p>
+
+</div1>
+ 
+<div1 type="file references">
+<list>
+<item>
+<xptr n="aow.v.0002" type="next"/>
+</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>
