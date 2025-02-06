@@ -11,21 +11,21 @@ body { color:#000000; font-family:"Times New Roman", Times, serif;  background:u
 
 .list2 {font:Arial, Helvetica, sans-serif; font-size:12px}
 .photo { width:645px; height:400px; background:url(../web-images/photo.jpg) top left no-repeat}
-.photo h1 { display:none}
 .title {width:645px; height:33px; background:url(../web-images/title.jpg) left no-repeat}
-.title h1 {font-family:Arial, Helvetica, sans-serif; font-style:italic; font-weight:bold; font-size:20px; padding-left:15px; padding-top:5px}
+.title h1, .title h2 {font-family:Arial, Helvetica, sans-serif; font-style:italic; font-weight:bold; font-size:20px; padding-left:15px; padding-top:5px}
+.content {background-color: #cfe8ff;}
 .content p {font-size:14px; padding:10px 10px 15px 15px; line-height:1.5em}
 .lists {background:url(../web-images/darkblue.jpg) repeat}
 .list1 a:link {color:#492B01}
 .list1 a:visited {color:#492B01}
-.list1 a:hover {color:#FFFFFF}
+.list1 a:hover {color:#1D1202; text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #492B01;}
 .list1 {background:url(../web-images/lines.jpg)}
 .list1 li{height:23.5px; margin-bottom:23px}
 .list1 {padding-top:25px; padding-left:25px; font-size:17px; font-weight:bold; padding-bottom:15px}
 .list2  li{height:25px; margin-left:10px; font-family:Arial, Helvetica, sans-serif; font-weight:bold}
 .list2 a:link {color:#000000; text-decoration:none}
 .list2 a:visited {color:#3e2f18; text-decoration:none}
-.list2 a:hover {color:#FFFFFF; text-decoration:underline}
+.list2 a:hover {color:#1D1202; text-decoration:underline; text-decoration-thickness: 2px;}
 .list2 {padding-left:25px}
 /*.ne {margin-top:-70; float:right}*/
 
@@ -36,10 +36,45 @@ body { color:#000000; font-family:"Times New Roman", Times, serif;  background:u
 .footer a {text-decoration:none}
 .footer a:link {color:#000000}
 .footer a:visited {color:#000000}
-.footer a:hover {color:#FFFFFF}
+.footer a:hover {color:#1D1202; text-decoration: underline; text-decoration-thickness: 2px; }
 
 p.bold {font-family:Arial, Helvetica, sans-serif; font-weight:bold; margin:10px 0px 10px 0px; font-size:13px}
 .content a:link {color:#10669b}
 .content a:visited {color:#00568b}
 .content a:hover {color:#d2e8f6}
 .right {float: right}
+
+
+/* /////////////////
+Accessibility Fixes
+///////////////// */
+
+/* Skip to main content link */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+}
+
+a.sr-only-focusable:hover, a.sr-only-focusable:focus {
+  color: #345c87;
+  text-decoration: underline;
+}
+
+a.sr-only.skip-link {
+  background-color: white;
+}
