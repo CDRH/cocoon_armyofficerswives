@@ -7,7 +7,7 @@ body { color:#000000; font-family:"Times New Roman", Times, serif;  background:u
 
 .content {background:url(../web-images/lightblue.jpg) repeat}
 .content h1 {font-size:30px; padding: 15px 0px 0px 15px}
-.content h2 {font-family:Arial, Helvetica, sans-serif; font-style:italic; font-weight:bold; font-size:20px; padding: 15px 0px 10px 20px}
+.content h2, .content > h1:first-child {font-family:Arial, Helvetica, sans-serif; font-style:italic; font-weight:bold; font-size:20px; padding: 15px 0px 10px 20px}
 
 
 .content p {font-size:14px; line-height:1.5em; padding:8px 15px 8px 15px}
@@ -39,7 +39,7 @@ ul.mainmenu li li{padding:5px; padding-left:40px}
 
 .listlow {background:url(../web-images/darkblue2.jpg) repeat}
 .listlow li {padding:10px 0px 10px 50px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:12px}
-.listlow h1 {font-size:14px; font-weight:bold; margin-left:-8px}
+.listlow h1, .listlow h2 {font-size:14px; font-weight:bold; margin-left:-8px}
 .listlow a:link {color:#000000; text-decoration:none}
 .listlow a:visited {color:#3e2f18; text-decoration:none}
 .listlow a:hover {color:#1D1202; text-decoration: underline 2px #1D1202;}
@@ -58,7 +58,7 @@ strong { font-weight: bold; }
 .footer a {text-decoration:none}
 .footer a:link {color:#000000}
 .footer a:visited {color:#000000}
-.footer a:hover {color:#FFFFFF}
+.footer a:hover {color:#1D1202; text-decoration: underline 2px #1D1202;}
 
 
 
