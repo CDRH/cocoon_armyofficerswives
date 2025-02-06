@@ -79,7 +79,7 @@
 	<a href="{$BASE_HREF}about/acknowledgements">Acknowledgements</a> | 
 	<a href="{$BASE_HREF}about/barbara_handy-marchello">About the Author</a></h4>
   	<h4><a href="http://www.unl.edu">University of Nebraska-Lincoln</a>, <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a> </h4>
-  	<img src="{$BASE_HREF}web-images/unl_logo.gif" class="right" /> 
+  	<img src="{$BASE_HREF}web-images/unl_logo.gif" class="right" alt="" role="presentation"/> 
 </footer>
 
 </body>
