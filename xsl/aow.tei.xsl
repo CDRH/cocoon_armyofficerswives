@@ -24,12 +24,13 @@
 
 </head>
 <body>
+	  	<header class="header">
   <a class="sr-only sr-only-focusable skip-link" href="#main">Skip to main content</a>
-  <div id="page_margins">
+        <span class="sr-only">Army Officers' Wives on the Great Plains, 1865-1900</span>
+		</header>
+  <main id="page_margins">
 	  
-	  	<div class="header">
-		<a href="{$BASE_HREF}"><img src="../web-images/header2.jpg" alt="Officers' Row at Fort Robinson" /></a>
-		</div>
+
 
     <div id="main">
 
@@ -68,10 +69,10 @@
 
     </div>
 
-  </div>
+  </main>
   	<!--<div class="ne"><img src="../web-images/ne.jpg" /></div>-->
 
-  <div class="footer">
+  <footer class="footer">
   <h4><!--<span class="fig"><span class="hidden"><span class="ne"></span></span></span>-->
   	
 	<a href="{$BASE_HREF}about/methodology">Methodology</a> | 
@@ -79,7 +80,7 @@
 	<a href="{$BASE_HREF}about/barbara_handy-marchello">About the Author</a></h4>
   	<h4><a href="http://www.unl.edu">University of Nebraska-Lincoln</a>, <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a> </h4>
   	<img src="{$BASE_HREF}web-images/unl_logo.gif" class="right" /> 
-</div>
+</footer>
 
 </body>
 </html>
