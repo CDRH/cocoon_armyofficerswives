@@ -24,11 +24,11 @@
 
 </head>
 <body>
-
+  <a class="sr-only sr-only-focusable skip-link" href="#main">Skip to main content</a>
   <div id="page_margins">
 	  
 	  	<div class="header">
-		<a href="{$BASE_HREF}"><img src="../web-images/header2.jpg" /></a>
+		<a href="{$BASE_HREF}"><img src="../web-images/header2.jpg" alt="Officers' Row at Fort Robinson" /></a>
 		</div>
 
     <div id="main">
