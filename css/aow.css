@@ -13,7 +13,7 @@ body { color:#000000; font-family:"Times New Roman", Times, serif;  background:u
 .content p {font-size:14px; line-height:1.5em; padding:8px 15px 8px 15px}
 .content a:link {color:#2d6fa7}
 .content a:visited {color:#004179}
-.content a:hover {color:#79aad3}
+.content a:hover {color:#003454; text-decoration: underline #003454 2px;}
 .content blockquote {/*background-color:#FFFFFF;*/ font-family:Arial, Helvetica, sans-serif; font-style:italic; font-weight:bold}
 .content blockquote p {padding: 10px 35px 10px 35px; font-size: 12px; }
 .content span.quoted {/*background-color:#FFFFFF;*/ display: block; font-family:Arial, Helvetica, sans-serif; font-style:italic; font-size:12px; font-weight:bold; padding: 10px 35px 10px 35px; margin: 10px; }
@@ -27,10 +27,10 @@ ul.mainmenu li li{padding:5px; padding-left:40px}
 .list {margin-top:20px}
 .list a:link{color:#000000; text-decoration:none}
 .list a:visited{color:#3e2f18; text-decoration:none}
-.list a:hover{color:#FFFFFF; text-decoration:none}
+.list a:hover{color:#1D1202; text-decoration: underline 2px #1D1202;}
 .list h3 a:link {color:#660000}
 .list h3 a:visited {color:#660000}
-.list h3 a:hover {color:#FFFFFF}
+.list h3 a:hover {color:#492B01; text-decoration: underline 2px #492B01;}
 .list li.selected h3{ background-color:#ed9459; margin-bottom:0px}
 .list li.hidden ul {display:none}
 .list ul.mainmenu li.current {background-color:#769fd2}
@@ -42,7 +42,7 @@ ul.mainmenu li li{padding:5px; padding-left:40px}
 .listlow h1 {font-size:14px; font-weight:bold; margin-left:-8px}
 .listlow a:link {color:#000000; text-decoration:none}
 .listlow a:visited {color:#3e2f18; text-decoration:none}
-.listlow a:hover {color:#FFFFFF; text-decoration:underline}
+.listlow a:hover {color:#1D1202; text-decoration: underline 2px #1D1202;}
 
 h3.listhead {font-size:14px; clear:left; font-weight:bold; padding-left:20px}
 .content ul {clear:left; padding-bottom:20px}
