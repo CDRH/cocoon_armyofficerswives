@@ -3,8 +3,6 @@
 
 .header {height:89px; background:url(../web-images/headeralt.jpg) top left no-repeat }
 .blue {background:url(../web-images/darkblue.jpg) repeat }
-.header h1 {display:none}
-.header h3 {display:none}
 body { color:#000000; font-family:"Times New Roman", Times, serif;  background:url(../web-images/blue.jpg) repeat; background-color:#88C2E6 } 
 
 .lists {height:2800px}

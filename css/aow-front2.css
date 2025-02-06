@@ -3,8 +3,6 @@
 
 .header {height:89px; background:url(../web-images/headeralt.jpg) top left no-repeat }
 .blue {background:url(../web-images/darkblue.jpg) repeat }
-.header h1 {display:none}
-.header h3 {display:none}
 body { color:#000000; font-family:"Times New Roman", Times, serif;  background:url(../web-images/blue.jpg) repeat; background-color:#88C2E6 } 
 
 .lists {height:2800px}
@@ -15,6 +13,7 @@ body { color:#000000; font-family:"Times New Roman", Times, serif;  background:u
 .title {width:645px; height:33px; background:url(../web-images/title.jpg) left no-repeat}
 .title h1 {font-family:Arial, Helvetica, sans-serif; font-style:italic; font-weight:bold; font-size:20px; padding-left:15px; padding-top:5px}
 .content {background-color: #cfe8ff;}
+
 .content p {font-size:14px; padding:10px 10px 15px 15px; line-height:1.5em}
 .lists {background:url(../web-images/darkblue.jpg) repeat}
 .list1 a:link {color:#492B01}
