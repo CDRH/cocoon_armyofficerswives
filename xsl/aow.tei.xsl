@@ -9,7 +9,7 @@
 
     
     <xsl:template match="/">
-        <html xmlns="http://www.w3.org/1999/xhtml">
+        <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
 <head>
 <title><xsl:value-of select="//title[@level='m' and @type='main']" /></title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
@@ -41,10 +41,10 @@
 	
 	<div class="listlow">
 	<ul class="lowermenu">
-		<li><h1>Context</h1></li>
+		<li><span class="h1">Context</span></li>
 		<li><a href="{$BASE_HREF}biographies">The Women</a></li>
 		<li><a href="{$BASE_HREF}military_posts">Military Posts</a></li>
-		<li><h1>About the Project</h1></li>
+		<li><span class="h1">About the Project</span></li>
 		<li><a href="{$BASE_HREF}bibliography">Bibliography</a></li>
 		<li><a href="{$BASE_HREF}lesson_plans">Lesson Plans</a></li>
 	</ul>
@@ -73,12 +73,12 @@
   	<!--<div class="ne"><img src="../web-images/ne.jpg" /></div>-->
 
   <footer class="footer">
-  <h4><!--<span class="fig"><span class="hidden"><span class="ne"></span></span></span>-->
+  <p><!--<span class="fig"><span class="hidden"><span class="ne"></span></span></span>-->
   	
 	<a href="{$BASE_HREF}about/methodology">Methodology</a> | 
 	<a href="{$BASE_HREF}about/acknowledgements">Acknowledgements</a> | 
-	<a href="{$BASE_HREF}about/barbara_handy-marchello">About the Author</a></h4>
-  	<h4><a href="http://www.unl.edu">University of Nebraska-Lincoln</a>, <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a> </h4>
+	<a href="{$BASE_HREF}about/barbara_handy-marchello">About the Author</a></p>
+  	<p><a href="http://www.unl.edu">University of Nebraska-Lincoln</a>, <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a> </p>
   	<img src="{$BASE_HREF}web-images/unl_logo.gif" class="right" alt="" role="presentation"/> 
 </footer>
 
