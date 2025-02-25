@@ -24,10 +24,18 @@
 
 </head>
 <body>
-	  	<header class="header">
-  <a class="sr-only sr-only-focusable skip-link" href="#main">Skip to main content</a>
+<header>
+        <a class="sr-only sr-only-focusable skip-link" href="#main">Skip to main content</a>
+        <div class="green-banner-wrapper">
+            <div class="green-banner">
+              <p>This is a simplified version of the website with no active updates. See the <a href="#">Site Information Page</a> for contact information, data downloads, and other details. </p>
+            </div>
+          </div>
+  	<div class="header">
+        
         <span class="sr-only">Army Officers' Wives on the Great Plains, 1865-1900</span>
-		</header>
+	</div>
+</header>
   <main id="page_margins">
 	  
 
@@ -72,14 +80,16 @@
   </main>
   	<!--<div class="ne"><img src="../web-images/ne.jpg" /></div>-->
 
-  <footer class="footer">
-  <p><!--<span class="fig"><span class="hidden"><span class="ne"></span></span></span>-->
-  	
-	<a href="{$BASE_HREF}about/methodology">Methodology</a> | 
-	<a href="{$BASE_HREF}about/acknowledgements">Acknowledgements</a> | 
-	<a href="{$BASE_HREF}about/barbara_handy-marchello">About the Author</a></p>
-  	<p><a href="http://www.unl.edu">University of Nebraska-Lincoln</a>, <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a> </p>
-  	<img src="{$BASE_HREF}web-images/unl_logo.gif" class="right" alt="" role="presentation"/> 
+  <footer>
+    <div class="footer">
+      <p><!--<span class="fig"><span class="hidden"><span class="ne"></span></span></span>-->
+      	
+    	<a href="{$BASE_HREF}about/methodology">Methodology</a> | 
+    	<a href="{$BASE_HREF}about/acknowledgements">Acknowledgements</a> | 
+    	<a href="{$BASE_HREF}about/barbara_handy-marchello">About the Author</a></p>
+      	<p><a href="http://www.unl.edu">University of Nebraska-Lincoln</a>, <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a> </p>
+      	<img src="{$BASE_HREF}web-images/unl_logo.gif" class="right" alt="" role="presentation"/> 
+    </div>
 </footer>
 
 </body>

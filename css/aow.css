@@ -54,12 +54,13 @@ strong { font-weight: bold; }
 
 
 /*.ne {margin-top:-70px; margin-left:70px}*/
-.footer {background-color:#D3AC92; font-size:14px; clear:both; text-align:right; padding-right:20px; height: 110px;}
+footer {background-color:#D3AC92; font-size:14px; clear:both; text-align:right; padding-right:20px; height: 110px;}
+.footer 
+{ width: auto;  min-width: 740px; max-width: 90em; padding-top: 5px; }
 .footer a {text-decoration:none}
 .footer a:link {color:#000000}
 .footer a:visited {color:#000000}
 .footer a:hover {color:#1D1202; text-decoration: underline 2px #1D1202;}
-
 
 
 .right {float: right}
@@ -96,4 +97,30 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
 
 a.sr-only.skip-link {
   background-color: white;
+}
+
+.green-banner {
+  background-color: #bbdfbb;
+  border-bottom: 2px solid #466f46;
+  padding: 15px 20px;
+}
+
+.green-banner p {
+  margin: 0;
+}
+
+.green-banner p a,
+.green-banner p a:visited {
+  color: #0000EE;
+  background: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.green-banner p a:hover {
+  background: none;
+  color: #010194;
+  margin: 0;
+  padding: 0;
 }
