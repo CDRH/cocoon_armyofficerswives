@@ -26,8 +26,8 @@
 <body>
 <header>
         <a class="sr-only sr-only-focusable skip-link" href="#main">Skip to main content</a>
-        <div class="green-banner-wrapper">
-            <div class="green-banner">
+        <div class="static-banner-wrapper">
+            <div class="static-banner">
               <p>This is a simplified version of the website with no active updates. See the <a href="#">Site Information Page</a> for contact information, data downloads, and other details. </p>
             </div>
           </div>

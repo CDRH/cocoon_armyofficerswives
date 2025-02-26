@@ -99,18 +99,18 @@ a.sr-only.skip-link {
   background-color: white;
 }
 
-.green-banner {
+.static-banner {
   background-color: #bbdfbb;
-  border-bottom: 2px solid #466f46;
+  border-bottom: 1px solid #466f46;
   padding: 15px 20px;
 }
 
-.green-banner p {
+.static-banner p {
   margin: 0;
 }
 
-.green-banner p a,
-.green-banner p a:visited {
+.static-banner p a,
+.static-banner p a:visited {
   color: #0000EE;
   background: none;
   margin: 0;
@@ -118,7 +118,7 @@ a.sr-only.skip-link {
   text-decoration: underline;
 }
 
-.green-banner p a:hover {
+.static-banner p a:hover {
   background: none;
   color: #010194;
   margin: 0;
